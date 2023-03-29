@@ -132,6 +132,8 @@ https://www.binance.com
 
 https://www.binance.com/zh-CN/blog/markets/%E5%B5%8C%E5%A5%97%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%A3%8E%E9%99%A9%E5%92%8C%E5%B8%81%E5%AE%89%E7%9A%84%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5-421499824684903149
 
+CZ：强烈建议用户删除与第三方平台共享的API私钥，以保证资产安全 - https://www.binance.com/zh-CN/news/flash/7277561
+
 ## 3，加密货币自动交易机器人 AntBot 的链接与联系方式： 
 
 网站：Website: http://www.antrade.io 
