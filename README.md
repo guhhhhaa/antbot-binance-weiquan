@@ -126,6 +126,12 @@ https://www.binance.com
 
 什麼是幣安經紀人計畫 - https://www.binance.com/zh-CN/support/faq/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E4%BA%BA%E8%A8%88%E7%95%AB-04b2a5c9a8174096b3508f270404508c
 
+幣安API經紀商等級標準調整公告 - https://www.binance.com/zh-CN/support/announcement/%E5%B9%A3%E5%AE%89api%E7%B6%93%E7%B4%80%E5%95%86%E7%AD%89%E7%B4%9A%E6%A8%99%E6%BA%96%E8%AA%BF%E6%95%B4%E5%85%AC%E5%91%8A-c7154e8282b8499ea7983bd715ed8959
+
+嵌套交易平台的风险和币安的应对策略
+
+https://www.binance.com/zh-CN/blog/markets/%E5%B5%8C%E5%A5%97%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%A3%8E%E9%99%A9%E5%92%8C%E5%B8%81%E5%AE%89%E7%9A%84%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5-421499824684903149
+
 ## 3，加密货币自动交易机器人 AntBot 的链接与联系方式： 
 
 网站：Website: http://www.antrade.io 
