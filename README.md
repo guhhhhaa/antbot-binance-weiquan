@@ -44,9 +44,9 @@
 
 受害人王天佑向币安 Binance 客服说明了 AntBot 客服的回应，币安客服表示，只开启合约和现货权限，不开启万向划转权限，也能利用接口秘钥从现货划转至合约，这是接口秘钥的本来性质，并不是币安 Binance 的隐式授权或者安全漏洞。因而币安 Binance 交易所依然不负责此事件，并建议客户向警方报案，或者咨询第三方交易机器人提供商AntBot客服。
 
-币安同时给出了政府执法请求提交系统的链接（https://www.binance.com/zh-CN/support/law-enforcement），并表示，警方在此链接上面注册并提交相关身份证明信息后，币安 Binance 交易所会全力配合警方调查，包括提供相关交易数据给警方。
+币安同时给出了政府执法请求提交系统的链接（ https://www.binance.com/zh-CN/support/law-enforcement ），并表示，警方在此链接上面注册并提交相关身份证明信息后，币安 Binance 交易所会全力配合警方调查，包括提供相关交易数据给警方。
 
-
+但是受害人王天佑，查阅币安Fast API授权和币安经纪商计划相关链接（ https://www.binance.com/zh-CN/link ）时发现，由于AntBot是币安经纪商，且具有Fast API权限，因此币安审核不力，导致Antbot和Fast API授权存在安全问题时仍然上线，造成用户加密货币资产被盗，币安应承担连带责任。
 
 # 四，举报详情
 
@@ -97,8 +97,6 @@ Binance加密货币交易所网站地址:
 https://www.binance.com
 
 ## 2，加密货币交易所币安 Binance 相关责任链接
-
-## 由于AntBot是币安经纪商，且具有Fast API权限，因此币安审核不力，导致Antbot和Fast API授权存在安全问题时仍然上线，造成用户加密货币资产被盗，币安应承担连带责任。
 
 什么是API密钥及其安全使用指南 - https://academy.binance.com/zh/articles/what-is-an-api-key-and-how-to-use-it-securely
 
