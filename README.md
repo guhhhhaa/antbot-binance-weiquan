@@ -120,7 +120,7 @@ https://www.binance.com
 
 什麼是幣安經紀人計畫 - https://www.binance.com/zh-CN/support/faq/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E4%BA%BA%E8%A8%88%E7%95%AB-04b2a5c9a8174096b3508f270404508c
 
-## 2，加密货币自动交易机器人 AntBot 的链接与联系方式： 
+## 3，加密货币自动交易机器人 AntBot 的链接与联系方式： 
 
 网站：Website: http://www.antrade.io 
 
