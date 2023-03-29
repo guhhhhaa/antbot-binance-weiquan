@@ -161,3 +161,7 @@ API 常见问题 - https://www.binance.com/zh-CN/support/faq/api-%E5%B8%B8%E8%A7
 Github相关链接地址：https://github.com/guhhhhaa/antbot-binance-weiquan
 
 从链接直接下载ZIP压缩文件：https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip
+
+# 八，法律参考
+
+我国涉区块链概念法规解读与判例汇编 - https://www.kangdalawyers.com/newsdetail_2003.html
