@@ -218,15 +218,15 @@ https://www.binance.com
 
 币安经纪商说明 - https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E7%BB%8F%E7%BA%AA%E5%95%86?c=169&navId=169
 
-如何使用经纪商API 获得返佣（重要） - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%8F%E7%BA%AA%E5%95%86api-%E8%8E%B7%E5%BE%97%E8%BF%94%E4%BD%A3-a78a065d0c4846aaa1af474d8e712ab9
+如何申请币安经纪商API返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%B8%81%E5%AE%89%E7%BB%8F%E7%BA%AA%E5%95%86api%E8%BF%94%E4%BD%A3-2ae5b076d3834e1480f78c19898b213f
 
-如何對接Fast API（重要） - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E5%B0%8D%E6%8E%A5fast-api-6aa7e2253c544d91b60746bfd03fd75d
-
-幣安經紀商合約獎金計畫 - https://www.binance.com/zh-CN/support/faq/%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E5%95%86%E5%90%88%E7%B4%84%E7%8D%8E%E9%87%91%E8%A8%88%E7%95%AB-168e87a8b8574c17902873a7d9fe179a
+如何使用经纪商API 获得返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%8F%E7%BA%AA%E5%95%86api-%E8%8E%B7%E5%BE%97%E8%BF%94%E4%BD%A3-a78a065d0c4846aaa1af474d8e712ab9
 
 什麼是幣安經紀商月度之星評選及常見問題解答 - https://www.binance.com/zh-CN/support/faq/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E5%95%86%E6%9C%88%E5%BA%A6%E4%B9%8B%E6%98%9F%E8%A9%95%E9%81%B8%E5%8F%8A%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94-144b6ba0e3b64045a0701dba37e8d69a
 
-如何申请币安经纪商API返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%B8%81%E5%AE%89%E7%BB%8F%E7%BA%AA%E5%95%86api%E8%BF%94%E4%BD%A3-2ae5b076d3834e1480f78c19898b213f
+如何對接Fast API - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E5%B0%8D%E6%8E%A5fast-api-6aa7e2253c544d91b60746bfd03fd75d
+
+幣安經紀商合約獎金計畫 - https://www.binance.com/zh-CN/support/faq/%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E5%95%86%E5%90%88%E7%B4%84%E7%8D%8E%E9%87%91%E8%A8%88%E7%95%AB-168e87a8b8574c17902873a7d9fe179a
 
 什麼是幣安經紀人計畫 - https://www.binance.com/zh-CN/support/faq/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E4%BA%BA%E8%A8%88%E7%95%AB-04b2a5c9a8174096b3508f270404508c
 
