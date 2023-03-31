@@ -4,7 +4,7 @@
 
 # 一，以下链接，是受害人认为，最重要最直接的线索，推荐警方尽快通过以下链接，向币安交易所提交执法请求
 
-币安交易所给出了政府执法请求提交系统的链接：
+币安交易所给出的政府执法请求提交系统的链接：
 
 https://www.binance.com/zh-CN/support/law-enforcement 
 
@@ -32,7 +32,7 @@ AntBot 是币安经纪商计划【注7】成员，因为只有币安经纪商会
 
 5，**诉求**：受害人的诉求是，追究 Binance，AntBot 和黑客的相关责任，并返还或赔偿与所受损失同等类型和数量的，8种加密货币资产，到受害人的，币安 Binance 交易所现货账户【注9】。
 
-6，**备注**：
+# 三，备注
 
 【注1】C2C交易：个人与个人之间的，经由交易所，在场外进行中介的，法定货币与加密货币之间的间接交易。一般是：人民币-USDT，交易所会负责将加密货币进行锁定和托管，在一方的银行转账确认后，再释放加密货币到对方的交易所账户。如果其中一方交易违约，交易所会锁定这些加密货币，因而一般情况下，交易都会成功进行。
 
@@ -60,9 +60,11 @@ AntBot 是币安经纪商计划【注7】成员，因为只有币安经纪商会
 
 但以目前发生的情况看，Fast API 接口密钥授权存在安全问题，且助长了，第三方API接口密钥授权，这种不合规业务。
 
+【注7】和【注8】总结下来就是：币安的经纪商计划部门在当婊子，币安的安全部门在立牌坊，币安交易所，又当婊子又立牌坊。币安交易所的部门间意见不统一，也不注重营销和技术的合规性与安全性。
+
 【注9】可以联系币安交易所，通过身份证号码，确定受害人的账户。
 
-# 三，AntBot 具体公司不明确，受害人怀疑是以下公司，具体是不是以下公司，还需要警方调查：
+# 四，AntBot 具体公司不明确，受害人怀疑是以下公司，具体是不是以下公司，还需要警方调查：
 
 1，深圳小红蚁网络科技有限公司 注销 
 
@@ -84,7 +86,7 @@ AntBot 是币安经纪商计划【注7】成员，因为只有币安经纪商会
 
 成立日期: 2020年09月25日
 
-# 四，事件详细描述：
+# 五，事件详细描述：
 
 受害人王天佑于2020/3/1 23:48，至2023/2/13 23:37，陆续在币安交易所，使用人民币(CNY)通过银行卡转账，从币安的个人对个人(C2C)商家购买和出售了泰达美元锚定币(USDT)，出售了币安美元锚定币(BUSD)，没有购买币安美元锚定币(BUSD)。
 
@@ -156,7 +158,7 @@ https://www.binance.com/zh-CN/link 之后，
 
 在以上三点的前提下，币安仍然成立经纪商计划相关部门，选取 AntBot 作为经纪商成员，上线 Fast API 授权功能，结果造成黑客入侵，用户加密货币资产被盗，因此，币安交易所也应承担连带责任。
 
-# 五，举报详情
+# 六，举报详情
 
 事件发生时间 2023-03-21 01:00:00
 
@@ -182,7 +184,7 @@ https://www.binance.com/zh-CN/link 之后，
 
 违法应用账号(APP名称) AntBot
 
-# 六，AntBot服务器相关IP地址：
+# 七，AntBot服务器相关IP地址：
 
 101.36.108.79   101.36.117.216   165.154.41.100   165.154.60.7 
 
@@ -190,7 +192,7 @@ https://www.binance.com/zh-CN/link 之后，
 
 36.255.222.23
 
-# 七，Binance 与 AntBot 相关链接
+# 八，Binance 与 AntBot 相关链接
 
 ## 1，加密货币交易所币安 Binance 相关链接
 
@@ -208,7 +210,7 @@ https://www.binance.com
 
 ## 2，加密货币交易所币安 Binance 相关责任链接
 
-什么是API密钥及其安全使用指南 - https://academy.binance.com/zh/articles/what-is-an-api-key-and-how-to-use-it-securely
+### 当婊子——币安的经纪商项目：
 
 币安经纪商项目 - https://www.binance.com/zh-CN/link
 
@@ -230,13 +232,17 @@ https://www.binance.com
 
 幣安API經紀商等級標準調整公告 - https://www.binance.com/zh-CN/support/announcement/%E5%B9%A3%E5%AE%89api%E7%B6%93%E7%B4%80%E5%95%86%E7%AD%89%E7%B4%9A%E6%A8%99%E6%BA%96%E8%AA%BF%E6%95%B4%E5%85%AC%E5%91%8A-c7154e8282b8499ea7983bd715ed8959
 
-嵌套交易平台的风险和币安的应对策略
+### 立牌坊——币安的安全部门：
 
-https://www.binance.com/zh-CN/blog/markets/%E5%B5%8C%E5%A5%97%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%A3%8E%E9%99%A9%E5%92%8C%E5%B8%81%E5%AE%89%E7%9A%84%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5-421499824684903149
+API 常见问题 - https://www.binance.com/zh-CN/support/faq/api-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-360004492232
+
+什么是API密钥及其安全使用指南 - https://academy.binance.com/zh/articles/what-is-an-api-key-and-how-to-use-it-securely
+
+嵌套交易平台的风险和币安的应对策略 - https://www.binance.com/zh-CN/blog/markets/%E5%B5%8C%E5%A5%97%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%A3%8E%E9%99%A9%E5%92%8C%E5%B8%81%E5%AE%89%E7%9A%84%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5-421499824684903149
 
 CZ：强烈建议用户删除与第三方平台共享的API私钥，以保证资产安全 - https://www.binance.com/zh-CN/news/flash/7277561
 
-API 常见问题 - https://www.binance.com/zh-CN/support/faq/api-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-360004492232
+### 总结下来就是，币安交易所又当婊子又立牌坊，部门间意见不统一，也不注重营销和技术的合规性与安全性。
 
 ## 3，加密货币自动交易机器人 AntBot 的链接与联系方式： 
 
@@ -258,12 +264,12 @@ API 常见问题 - https://www.binance.com/zh-CN/support/faq/api-%E5%B8%B8%E8%A7
 
 社交媒体：币安广场-英文：https://www.binance.com/en/feed/profile/58344027
 
-# 八，更多材料和证据，可在以下链接进行下载：
+# 九，更多材料和证据，可在以下链接进行下载：
 
 Github相关链接地址：https://github.com/guhhhhaa/antbot-binance-weiquan
 
 从链接直接下载ZIP压缩文件：https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip
 
-# 九，法律参考
+# 十，法律参考
 
 我国涉区块链概念法规解读与判例汇编 - https://www.kangdalawyers.com/newsdetail_2003.html
