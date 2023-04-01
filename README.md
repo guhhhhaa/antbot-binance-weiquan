@@ -30,7 +30,9 @@ https://www.binance.com/zh-CN/support/law-enforcement
 
 受害人已经确定的有关 AntBot 的事实是：AntBot 是一家位于中国广东深圳的企业的加密货币交易机器人产品。AntBot 于2020年成立公司，在 Google Play 应用商店上有 AntBot APP。
 
-AntBot 是币安经纪商计划【注7】成员，因为只有币安经纪商会被币安 Binance 交易所授予 Fast API 授权      【注8】功能，而 AntBot 在发生盗币事件前有 Fast API 授权功能。
+AntBot 是币安经纪商计划【注7】成员，因为只有币安经纪商会被币安 Binance 交易所授予 Fast API 授权
+
+【注8】功能，而 AntBot 在发生盗币事件前有 Fast API 授权功能。
 
 5，**诉求**：
 
@@ -64,7 +66,7 @@ AntBot 是币安经纪商计划【注7】成员，因为只有币安经纪商会
 
 但以目前发生的情况看，Fast API 接口密钥授权存在安全问题，且助长了，第三方API接口密钥授权，这种不合规业务。
 
-【注7】和【注8】总结下来就是：币安 Binance 交易所的经纪商计划部门在当婊子，币安 Binance 交易所的安全部门在立牌坊，币安 Binance 交易所，又当婊子又立牌坊。币安 Binance 交易所的各部门间意见不统一，也不注重营销和技术的合规性与安全性。币安 Binance 交易所又想要客户和合作伙伴提供流动性和交易深度，又不为客户和合作伙伴的资产安全性负责。
+【注7】和【注8】总结下来就是：币安 Binance 交易所双重标准。币安 Binance 交易所的各部门间意见不统一，也不注重营销和技术的合规性与安全性。币安 Binance 交易所又想要客户和合作伙伴提供流动性和交易深度，又不想为客户和合作伙伴的资产安全性负责。
 
 【注9】可以联系币安 Binance 交易所，通过身份证号码，确定受害人的账户。
 
@@ -140,7 +142,7 @@ https://www.binance.com/zh-CN/support/law-enforcement
 
 并表示，警方在此链接上面注册并提交相关身份证明信息后，币安 Binance 交易所会全力配合警方调查，包括提供相关交易数据给警方。
 
-但是受害人王天佑，查阅币安Fast API授权功能和币安经纪商计划相关链接：
+但是受害人王天佑，查阅币安 Fast API 授权功能和币安经纪商计划相关链接：
 
 https://www.binance.com/zh-CN/link 之后，
 
@@ -148,19 +150,19 @@ https://www.binance.com/zh-CN/link 之后，
 
 说明：币安 Binance 交易所对经纪商的审核不力，且币安 Binance 交易所的部门之间，如安全部门和经纪商计划部门的意见不统一。
 
-币安 Binance 交易所的安全部门，认为用户不应授权API给第三方，也不应将资产投入嵌套交易所。
+币安 Binance 交易所的安全部门，认为用户不应授权 API 给第三方，也不应将资产投入嵌套交易所。
 
-但币安 Binance 交易所的经纪商计划部门，为了业绩，推荐和支持第三方API授权和嵌套交易所等不合规第三方业务的存在。
+但币安 Binance 交易所的经纪商计划部门，为了业绩，推荐和支持第三方 API 授权和嵌套交易所等不合规第三方业务的存在。
 
 币安 Binance 交易所的两个部门的意见存在矛盾。
 
 受害人王天佑随后向币安客服确认了以下事实：
 
-1，经纪商计划部门的存在，本身就不合规，容易导致：第三方API授权，和嵌套交易所等，不合规业务问题。
+1，经纪商计划部门的存在本身不合规，容易导致：第三方API授权，和嵌套交易所等不合规业务问题。
 
 2，Antbot 的 Fast API 授权，存在安全问题。
 
-3，币安 Binance 交易所安全部门和经纪商计划相关部门的意见不统一。
+3，币安 Binance 交易所安全部门和经纪商计划相关部门的意见不统一，双重标准。
 
 在以上三点的前提下，币安 Binance 交易所仍然成立经纪商计划相关部门，选取 AntBot 作为经纪商成员，上线 Fast API 授权功能，结果造成黑客入侵，用户加密货币资产被盗，因此，币安 Binance 交易所也应承担责任。
 
@@ -190,7 +192,7 @@ https://www.binance.com/zh-CN/link 之后，
 
 违法应用账号(APP名称) AntBot
 
-# 七，AntBot服务器相关IP地址
+# 七，AntBot 服务器相关 IP 地址
 
 101.36.108.79   101.36.117.216   165.154.41.100   165.154.60.7 
 
@@ -216,7 +218,7 @@ https://www.binance.com
 
 ## 2，加密货币交易所币安 Binance 相关责任链接
 
-### 当婊子——币安的经纪商项目：
+### 币安的经纪商项目的态度：极力推广经纪商项目和 Fast API 授权功能
 
 币安经纪商项目 - https://www.binance.com/zh-CN/link
 
@@ -224,13 +226,13 @@ https://www.binance.com
 
 币安经纪商说明 - https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E7%BB%8F%E7%BA%AA%E5%95%86?c=169&navId=169
 
-如何申请币安经纪商API返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%B8%81%E5%AE%89%E7%BB%8F%E7%BA%AA%E5%95%86api%E8%BF%94%E4%BD%A3-2ae5b076d3834e1480f78c19898b213f
+如何申请币安经纪商 API 返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%B8%81%E5%AE%89%E7%BB%8F%E7%BA%AA%E5%95%86api%E8%BF%94%E4%BD%A3-2ae5b076d3834e1480f78c19898b213f
 
-如何使用经纪商API 获得返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%8F%E7%BA%AA%E5%95%86api-%E8%8E%B7%E5%BE%97%E8%BF%94%E4%BD%A3-a78a065d0c4846aaa1af474d8e712ab9
+如何使用经纪商 API 获得返佣 - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%8F%E7%BA%AA%E5%95%86api-%E8%8E%B7%E5%BE%97%E8%BF%94%E4%BD%A3-a78a065d0c4846aaa1af474d8e712ab9
 
 什麼是幣安經紀商月度之星評選及常見問題解答 - https://www.binance.com/zh-CN/support/faq/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E5%95%86%E6%9C%88%E5%BA%A6%E4%B9%8B%E6%98%9F%E8%A9%95%E9%81%B8%E5%8F%8A%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94-144b6ba0e3b64045a0701dba37e8d69a
 
-如何對接Fast API - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E5%B0%8D%E6%8E%A5fast-api-6aa7e2253c544d91b60746bfd03fd75d
+如何對接 Fast API - https://www.binance.com/zh-CN/support/faq/%E5%A6%82%E4%BD%95%E5%B0%8D%E6%8E%A5fast-api-6aa7e2253c544d91b60746bfd03fd75d
 
 幣安經紀商合約獎金計畫 - https://www.binance.com/zh-CN/support/faq/%E5%B9%A3%E5%AE%89%E7%B6%93%E7%B4%80%E5%95%86%E5%90%88%E7%B4%84%E7%8D%8E%E9%87%91%E8%A8%88%E7%95%AB-168e87a8b8574c17902873a7d9fe179a
 
@@ -238,7 +240,7 @@ https://www.binance.com
 
 幣安API經紀商等級標準調整公告 - https://www.binance.com/zh-CN/support/announcement/%E5%B9%A3%E5%AE%89api%E7%B6%93%E7%B4%80%E5%95%86%E7%AD%89%E7%B4%9A%E6%A8%99%E6%BA%96%E8%AA%BF%E6%95%B4%E5%85%AC%E5%91%8A-c7154e8282b8499ea7983bd715ed8959
 
-### 立牌坊——币安的安全部门：
+### 币安的安全部门的态度：不认可第三方 API 授权和嵌套交易所
 
 API 常见问题 - https://www.binance.com/zh-CN/support/faq/api-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-360004492232
 
@@ -248,7 +250,7 @@ API 常见问题 - https://www.binance.com/zh-CN/support/faq/api-%E5%B8%B8%E8%A7
 
 CZ：强烈建议用户删除与第三方平台共享的API私钥，以保证资产安全 - https://www.binance.com/zh-CN/news/flash/7277561
 
-#### 总结下来就是，币安 Binance 交易所的经纪商计划部门在当婊子，币安 Binance 交易所的安全部门在立牌坊，币安 Binance 交易所，又当婊子又立牌坊。币安 Binance 交易所的各部门间意见不统一，也不注重营销和技术的合规性与安全性。币安 Binance 交易所又想要客户和合作伙伴提供流动性和交易深度，又不为客户和合作伙伴的资产安全性负责。
+#### 总结下来就是，币安 Binance 交易所双重标准。币安 Binance 交易所的各部门间意见不统一，也不注重营销和技术的合规性与安全性。币安 Binance 交易所又想要客户和合作伙伴提供流动性和交易深度，又不想为客户和合作伙伴的资产安全性负责。
 
 ## 3，加密货币自动交易机器人 AntBot 的链接与联系方式 
 
@@ -272,9 +274,9 @@ CZ：强烈建议用户删除与第三方平台共享的API私钥，以保证资
 
 # 九，更多材料和证据，可在以下链接进行下载
 
-Github相关链接地址：https://github.com/guhhhhaa/antbot-binance-weiquan
+Github 相关链接地址：https://github.com/guhhhhaa/antbot-binance-weiquan
 
-从链接直接下载ZIP压缩文件：https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip
+从链接直接下载 ZIP 压缩文件：https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip
 
 # 十，法律参考
 
