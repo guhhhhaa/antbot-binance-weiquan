@@ -8,6 +8,12 @@
 
 4，AntBot 邮箱4 - antbotvip@gmail.com - 基本不回复
 
+4，AntBot 印尼邮箱5 - antbot.id@gmail.com
+
+tel:+628114485790
+
+tel:+6281223888167
+
 5，AntBot 隐藏邮箱5 - 53585863@qq.com
 
 # 二，AntBot 网站
@@ -153,6 +159,14 @@
 社交媒体11：币安广场-中文: https://www.binance.com/zh-CN/feed/profile/65248232（已关闭）
 
 社交媒体12：币安广场-英文: https://www.binance.com/en/feed/profile/58344027（已关闭）
+
+
+
+Google Play 下载链接1：https://play.google.com/store/apps/details?id=ea.antbot.org
+
+宣传视频下载：https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
+
+
 
 # 七，AntBot 相关组织：
 
