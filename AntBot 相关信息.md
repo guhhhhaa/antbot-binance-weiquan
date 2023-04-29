@@ -28,15 +28,15 @@
 
 3-6，AntBot 网站3-6 -https://nl.antrobotai.info/
 
-4，AntBot 网站4 -https://antbot.me/（有截图，无法访问）
+4，AntBot 网站4 -https://antbot.me/（有截图，无法访问，于2023年4月28日被删除）
 
 5，AntBot 网站5 -https://ea.antbot.org/（无截图，无法访问）
 
 6，AntBot 网站6 -https://www.antbot.org/（无截图，无法访问）
 
-7，AntBot 网站7 -https://goldquant.club/（有截图，无法访问）
+7，AntBot 网站7 -https://goldquant.club/（有截图，无法访问，于2023年4月28日被删除）
 
-8，AntBot 网站8 -https://www.newbee.asia/ （无法访问）
+8，AntBot 网站8 -https://www.newbee.asia/ （无截图，无法访问，于2023年4月28日被删除）
 
 # 三，AntBot 相关新闻链接
 
@@ -74,7 +74,7 @@
 
 受害人王天佑备注：所在地：中国浙江杭州。
 
-受害人王天佑备注：微信号longjuan2001314（目前微信号已被删除），可能所示的出生日期：2001年3月14日，但是由新闻知，龙娟女士在2008年大学毕业，不可能7岁就大学毕业，因此排除。
+受害人王天佑备注：微信号longjuan2001314（2023年4月29日，微信号已被删除），可能所示的出生日期：2001年3月14日，但是由新闻知，龙娟女士在2008年大学毕业，不可能7岁就大学毕业，因此排除。
 
 受害人王天佑备注：但是2001314是代表“爱恋你一生一世”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音。
 
@@ -188,31 +188,33 @@
 
 9，小蚁量化工作室
 
-10，AntBot
+10，掘金量化社区
 
-11，Ant Robot
+11，AntBot
 
-12，AntTrade
+12，Ant Robot
 
-13，AntBot-AI
+13，AntTrade
 
-14，antbot_cta
+14，AntBot-AI
 
-15，AntbotEA 
+15，antbot_cta
 
-16，AntBot_me
+16，AntbotEA 
 
-17，AntbotSupportOfficial
+17，AntBot_me
 
-18，antbot_official
+18，AntbotSupportOfficial
 
-19，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314）
+19，antbot_official
 
-20，goldquant-club
+20，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314）
 
-21，newbee-asia
+21，goldquant-club
 
-22，NewBee
+22，newbee-asia
+
+23，NewBee
 
 # 九，AntBot 团队地址位于：
 
