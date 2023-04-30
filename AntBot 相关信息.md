@@ -54,7 +54,7 @@
 
 # 三，AntBot 相关新闻链接
 
-1，新闻信息一
+#### 1，新闻信息一
 
 标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
 
@@ -64,7 +64,7 @@ https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
 原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
 
-2，新闻信息二
+#### 2，新闻信息二
 
 标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
@@ -72,7 +72,7 @@ https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
 https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号
 
-3，新闻信息三
+#### 3，新闻信息三
 
 标题：热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
 
@@ -82,7 +82,7 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 腾讯新闻链接 - 已经被删除
 
-4，新闻信息四
+#### 4，新闻信息四
 
 标题：专访龙娟-社交电商学会做人最重要
 
@@ -92,7 +92,7 @@ https://www.sohu.com/a/420787769_120864833 - 搜狐
 
 https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
-5，新闻信息五
+#### 5，新闻信息五
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
@@ -216,15 +216,25 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 # 六，下载链接：
 
-苹果 IOS TestFlight 下载链接：https://testflight.apple.com/join/UkpPUrLb
+苹果 IOS TestFlight 下载链接：
 
-Google Play 下载链接：https://play.google.com/store/apps/details?id=ea.antbot.org
+https://testflight.apple.com/join/UkpPUrLb
 
-Android APK 直接下载链接：https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk
+Google Play 下载链接：
 
-宣传视频1下载：https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
+https://play.google.com/store/apps/details?id=ea.antbot.org
 
-宣传视频2下载：https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
+Android APK 直接下载链接：
+
+[https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk](https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk)
+
+宣传视频1下载：
+
+https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
+
+宣传视频2下载：
+
+https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
 # 六，AntBot 邀请码和邀请链接
 
@@ -665,11 +675,13 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 # 附录1，新闻信息一
 
-https://www.zhiguf.com/focusnews_detail/258397
+标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
 
-https://www.blockvalue.com/baike/20210319843427.html
+https://www.zhiguf.com/focusnews_detail/258397 - 指股网 - 自动备份
 
-**让小蚁量化炒币机器人带您走上全自动的轻松致富之路** 
+https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
+
+原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
 
 2021-03-19 17:58:38 
 
@@ -723,11 +735,11 @@ https://www.blockvalue.com/baike/20210319843427.html
 
 # 附录2，新闻信息二
 
-https://www.sohu.com/a/444521875_120864833
+标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
-https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg
+https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
-精英专访第四期：龙娟老师和她的享抱团联盟 
+https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号
 
 2021-01-14 17:31
 
@@ -791,9 +803,13 @@ https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg
 
 # 附录3，新闻信息三
 
-https://www.shilian.com/zixun/350144.html （需要使用VPN访问）
+标题：热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
 
-https://www.163.com/dy/article/FUKJIDSD0534GWL4.html
+https://www.shilian.com/zixun/350144.html - 世链财经 - 需要使用VPN访问
+
+https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
+
+腾讯新闻链接 - 已经被删除
 
 受害人王天佑备注：
 
@@ -812,8 +828,6 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html
 电子邮箱：821002127@qq.com
 
 邮政编码：510000
-
-**热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？**
 
 **摘要：**在上篇报道中，我们了解到了围绕着中联金安公司传出来的处罚事件，在本篇报道中，我们将重点关注的是云粹保APP的运作模式。社群品牌，升级归来据公众号"**享抱团联盟**"介绍，**云萃保**是中联金安经纪公司旗下2020
 
@@ -906,13 +920,13 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html
 
 受害人王天佑备注：总结龙娟的其他信息：1，籍贯：四川，2，在杭州上的大学，2008年大学毕业，大学学的是电子商务专业，3，大学毕业后，跟老公一起开了两家公司，一家劳务公司，一家教育公司，目前在杭州也有上千平方的场地，员工百余人。（经查询，劳务公司：杭州天骄劳务服务有限公司，教育公司：杭州天之骄教育科技有限公司，老公姓名：赵江海）
 
-https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA
+标题：专访龙娟-社交电商学会做人最重要
 
-https://www.sohu.com/a/420787769_120864833
+https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
 
-https://baijiahao.baidu.com/s?id=1678783902931659424
+https://www.sohu.com/a/420787769_120864833 - 搜狐
 
-专访龙娟-社交电商学会做人最重要
+https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 原创 个创家 2020-09-25 14:33
 
@@ -974,13 +988,13 @@ https://baijiahao.baidu.com/s?id=1678783902931659424
 
 # 附录5，新闻信息五
 
-https://mp.weixin.qq.com/s/VDIqKXGsZTu5WtjbYtC7RQ
+标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
-https://www.sohu.com/a/428416683_120864833
+https://mp.weixin.qq.com/s/VDIqKXGsZTu5WtjbYtC7RQ - 微信公众号 - 个创家
 
-https://baijiahao.baidu.com/s?id=1681968845841330721
+https://www.sohu.com/a/428416683_120864833 - 搜狐
 
-淘小铺赋能团队长，打造个性IP，掌柜专属货架
+https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 正文：
 
