@@ -22,17 +22,21 @@
 
 2，AntBot 网站2 - http://www.antrade.io
 
-3-1，AntBot 网站3-1 -https://www.antrobotai.info/
+3-1，AntBot 网站3-1 -https://www.antrobotai.info/copy-of-home（印尼语，ID）
 
-3-2，AntBot 网站3-2 -https://en.antrobotai.info/
+3-2，AntBot 网站3-2 -https://de.antrobotai.info/copy-of-home（德语，DE）
 
-3-3，AntBot 网站3-3 -https://zh.antrobotai.info/
+3-3，AntBot 网站3-3 -https://en.antrobotai.info/copy-of-home（英文，EN）
 
-3-4，AntBot 网站3-4 -https://vi.antrobotai.info/
+3-4，AntBot 网站3-4 -https://it.antrobotai.info/copy-of-home（意大利语，IT）
 
-3-5，AntBot 网站3-5 -https://de.antrobotai.info/
+3-5，AntBot 网站3-5 -https://ja.antrobotai.info/copy-of-home（日语，JA）
 
-3-6，AntBot 网站3-6 -https://nl.antrobotai.info/
+3-6，AntBot 网站3-6 -https://nl.antrobotai.info/copy-of-home（荷兰语，NL）
+
+3-7，AntBot 网站3-7 -https://vi.antrobotai.info/copy-of-home（越南语，VI）
+
+3-8，AntBot 网站3-8 -https://zh.antrobotai.info/copy-of-home（繁体中文，ZH）
 
 4，AntBot 网站4 -https://antbot.me/（有截图，无法访问，于2023年4月28日被删除）
 
@@ -64,7 +68,7 @@
 
 受害人王天佑备注：从微信信息，QQ信息，网站信息，新闻信息互相比照，可推知，此人很可能姓名是：吴优芮，
 
-受害人王天佑备注：所在地：中国浙江杭州，与新闻中信息一致。
+受害人王天佑备注：QQ微信的所在地：均为中国浙江杭州，与新闻中信息一致。
 
 受害人王天佑备注：QQ所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你情谊久”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音，
 
