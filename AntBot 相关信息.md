@@ -8,13 +8,13 @@
 
 4，AntBot 邮箱4 - antbotvip@gmail.com - 基本不回复
 
-4，AntBot 印尼邮箱5 - antbot.id@gmail.com
+5，AntBot 印尼邮箱5 - antbot.id@gmail.com
 
-tel:+628114485790
+6，AntBot 隐藏邮箱6 - 53585863@qq.com
 
-tel:+6281223888167
+7，AntBot 印尼电话：tel: +62 8114485790（+62是印度尼西亚共和国）
 
-5，AntBot 隐藏邮箱5 - 53585863@qq.com
+8，AntBot 印尼电话：tel: +62 81223888167（+62是印度尼西亚共和国）
 
 # 二，AntBot 网站
 
