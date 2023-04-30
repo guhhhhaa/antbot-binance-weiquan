@@ -166,7 +166,17 @@ Google Play 下载链接1：https://play.google.com/store/apps/details?id=ea.ant
 
 宣传视频下载：https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
 
+https://antbot.org/register?code=ZSZOWZ
 
+https://antbot.org/register?code=4kqtNK
+
+https://play.google.com/store/apps/details?id=ea.antbot.org
+
+https://t.me/AntbotEA
+
+https://www.okex.com/join/10891423
+
+https://accounts.binance.com/en/register?ref=IOW7GPN4
 
 # 七，AntBot 相关组织：
 
