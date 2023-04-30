@@ -10,7 +10,9 @@
 
 5，AntBot 印尼邮箱5 - antbot.id@gmail.com
 
-6，AntBot 隐藏邮箱6 - 53585863@qq.com
+6，AntBot 隐藏邮箱6 - antbots3DZ@gmail.com（从一个视频中得到）
+
+6，AntBot 隐藏邮箱7 - 53585863@qq.com
 
 7，AntBot 印尼电话：tel: +62 8114485790（+62是印度尼西亚共和国）
 
@@ -20,23 +22,25 @@
 
 1，【AntBot 网站1】- https://www.antbot-ai.org/
 
-2，AntBot 网站2 - http://www.antrade.io
+2，【AntBot 网站2】 - http://www.antrade.io/
 
-3-1，AntBot 网站3-1 -https://www.antrobotai.info/copy-of-home（印尼语，ID）
+3，【AntBot 网站3】 - https://www.antrobotai.info/
 
-3-2，AntBot 网站3-2 -https://de.antrobotai.info/copy-of-home（德语，DE）
+3-1，AntBot 网站3-1 - https://www.antrobotai.info/copy-of-home（印尼语，ID）
 
-3-3，AntBot 网站3-3 -https://en.antrobotai.info/copy-of-home（英文，EN）
+3-2，AntBot 网站3-2 - https://de.antrobotai.info/copy-of-home（德语，DE）
 
-3-4，AntBot 网站3-4 -https://it.antrobotai.info/copy-of-home（意大利语，IT）
+3-3，AntBot 网站3-3 - https://en.antrobotai.info/copy-of-home（英文，EN）
 
-3-5，AntBot 网站3-5 -https://ja.antrobotai.info/copy-of-home（日语，JA）
+3-4，AntBot 网站3-4 - https://it.antrobotai.info/copy-of-home（意大利语，IT）
 
-3-6，AntBot 网站3-6 -https://nl.antrobotai.info/copy-of-home（荷兰语，NL）
+3-5，AntBot 网站3-5 - https://ja.antrobotai.info/copy-of-home（日语，JA）
 
-3-7，AntBot 网站3-7 -https://vi.antrobotai.info/copy-of-home（越南语，VI）
+3-6，AntBot 网站3-6 - https://nl.antrobotai.info/copy-of-home（荷兰语，NL）
 
-3-8，AntBot 网站3-8 -https://zh.antrobotai.info/copy-of-home（繁体中文，ZH）
+3-7，AntBot 网站3-7 - https://vi.antrobotai.info/copy-of-home（越南语，VI）
+
+3-8，AntBot 网站3-8 - https://zh.antrobotai.info/copy-of-home（繁体中文，ZH）
 
 4，AntBot 网站4 -https://antbot.me/（有截图，无法访问，于2023年4月28日被删除）
 
@@ -50,19 +54,63 @@
 
 # 三，AntBot 相关新闻链接
 
-1，https://www.zhiguf.com/focusnews_detail/258397 - 让小蚁量化炒币机器人带您走上全自动的轻松致富之路 - 指股网（转发） - 金色财经（原始）
+1，新闻信息一
 
-2，https://www.sohu.com/a/444521875_120864833 - 精英专访第四期：龙娟老师和她的享抱团联盟 - 搜狐网
+标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
 
-3，https://www.shilian.com/zixun/350144.html - 热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？- 世链财经
+https://www.zhiguf.com/focusnews_detail/258397 - 指股网 - 自动备份
+
+https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
+
+原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
+
+2，新闻信息二
+
+标题：精英专访第四期：龙娟老师和她的享抱团联盟
+
+https://www.sohu.com/a/444521875_120864833 - 搜狐网
+
+https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号
+
+3，新闻信息三
+
+标题：热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
+
+https://www.shilian.com/zixun/350144.html - 世链财经 - 需要使用VPN访问
+
+https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
+
+腾讯新闻链接 - 已经被删除
+
+4，新闻信息四
+
+标题：专访龙娟-社交电商学会做人最重要
+
+https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
+
+https://www.sohu.com/a/420787769_120864833 - 搜狐
+
+https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
+
+5，新闻信息五
+
+标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
+
+https://mp.weixin.qq.com/s/VDIqKXGsZTu5WtjbYtC7RQ - 微信公众号 - 个创家
+
+https://www.sohu.com/a/428416683_120864833 - 搜狐
+
+https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 # 四，AntBot 国内社交媒体
 
 1，吴优芮相关信息：
 
-1-1，社交媒体1：QQ-男1：53585863
+1-1，社交媒体 - QQ - 男1：53585863
 
-1-2，社交媒体：微信-男2：AntBot_me
+1-2，社交媒体 - 微信 - 男2：AntBot_me
+
+1-2，社交媒体 - 微信 - 男3：antbot_org（该用户不存在）
 
 受害人王天佑备注：从QQ号搜索得到微信号。
 
@@ -76,7 +124,7 @@
 
 2，龙娟相关信息：
 
-2-1，社交媒体：微信-女1：longjuan2001314（目前微信号已被删除）
+2-1，社交媒体：微信-女1：longjuan2001314（目前微信号已经被删除）
 
 受害人王天佑备注：从微信信息，新闻信息，Telegram信息，互相比照，可推知，此人姓名是：龙娟。
 
@@ -84,7 +132,7 @@
 
 受害人王天佑备注：所在地：中国浙江杭州。
 
-受害人王天佑备注：微信号longjuan2001314（2023年4月29日，微信号已被删除），可能所示的出生日期：2001年3月14日，但是由新闻知，龙娟女士在2008年大学毕业，不可能7岁就大学毕业，因此排除。
+受害人王天佑备注：微信号longjuan2001314（2023年4月29日，微信号已经被删除），可能所示的出生日期：2001年3月14日，但是由新闻知，龙娟女士在2008年大学毕业，不可能7岁就大学毕业，因此排除。
 
 受害人王天佑备注：但是2001314是代表“爱恋你一生一世”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音。
 
@@ -146,41 +194,85 @@
 
 社交媒体3：Facebook: https://www.facebook.com/antbot.org
 
-社交媒体4：Telegram账户-Antbot EA - 小蚁AI：https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
+社交媒体4：Telegram账户 - Antbot EA - 小蚁AI：https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
-社交媒体5：Telegram账户-Alice：https://t.me/AntbotJ （这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。）
+社交媒体5：Telegram账户 - Alice：https://t.me/AntbotJ （这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。）
 
-社交媒体6：Telegram账户-Ants Support：https://t.me/antbotsupport/
+社交媒体6：Telegram账户 - Ants Support：https://t.me/antbotsupport/
 
-社交媒体7：Telegram群组-: https://t.me/antbot_cta
+社交媒体7：Telegram群组: https://t.me/antbot_cta
 
 社交媒体8：Telegram群组: https://t.me/antbot_ai
 
-社交媒体9：Telegram群组:https://t.me/AntbotSupportOfficial
+社交媒体9：Telegram群组: https://t.me/AntbotSupportOfficial
 
-社交媒体10：Telegram群组: https://t.me/antbot_official（已关闭）
+社交媒体10：Telegram群组: https://t.me/AntBotQuantify
 
-社交媒体11：币安广场-中文: https://www.binance.com/zh-CN/feed/profile/65248232（已关闭）
+社交媒体11：Telegram群组:  https://t.me/antbot_official（已关闭）
 
-社交媒体12：币安广场-英文: https://www.binance.com/en/feed/profile/58344027（已关闭）
+社交媒体12：币安广场-中文: https://www.binance.com/zh-CN/feed/profile/65248232（已关闭）
 
+社交媒体13：币安广场-英文: https://www.binance.com/en/feed/profile/58344027（已关闭）
 
+# 六，下载链接：
 
-Google Play 下载链接1：https://play.google.com/store/apps/details?id=ea.antbot.org
+苹果 IOS TestFlight 下载链接：https://testflight.apple.com/join/UkpPUrLb
 
-宣传视频下载：https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
+Google Play 下载链接：https://play.google.com/store/apps/details?id=ea.antbot.org
 
-https://antbot.org/register?code=ZSZOWZ
+Android APK 直接下载链接：https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk
 
-https://antbot.org/register?code=4kqtNK
+宣传视频1下载：https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
 
-https://play.google.com/store/apps/details?id=ea.antbot.org
+宣传视频2下载：https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
-https://t.me/AntbotEA
+# 六，AntBot 邀请码和邀请链接
 
-https://www.okex.com/join/10891423
+#### AntBot 邀请码：
 
-https://accounts.binance.com/en/register?ref=IOW7GPN4
+https://antbot.org/register?code=ZSZOWZ - ZSZOWZ
+
+https://antbot.org/register?code=4kqtNK - 4kqtNK
+
+https://antbot.org/register?code=P1OB3E - P1OB3E
+
+#### OKEX 邀请码：
+
+https://www.okex.com/join/10891423 - 10891423
+
+https://www.okx.com/join/3682381 - 3682381
+
+#### Binance 邀请码：
+
+https://accounts.binance.com/en/register?ref=IOW7GPN4 - IOW7GPN4
+
+https://accounts.binance.com/en/register?ref=116330605 - 116330605
+
+https://accounts.binancezh.top/zh-CN/register?ref=C0QWJ3K6 - C0QWJ3K6
+
+#### ByBit 邀请码：
+
+https://www.bybit.com/en-US/invite?ref=5QVO6R - 5QVO6R
+
+#### HuoBi 邀请码：
+
+https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=bvkh5223 
+
+inviter_id - 11345710
+
+invite_code - bvkh5223
+
+#### KuCoin 邀请码：
+
+https://www.kucoin.com/r/rf/rPM5ZXX - rPM5ZXX
+
+#### Gate\.io 邀请码：
+
+https://www.gate.io/signup/13095293 - 13095293
+
+#### BitGet 邀请码：
+
+https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 # 七，AntBot 相关组织：
 
@@ -200,49 +292,59 @@ https://accounts.binance.com/en/register?ref=IOW7GPN4
 
 1，小蚁
 
-2，小蚁EA
+2，小蚁AI
 
-3，小蚁机器人
+3，小蚁EA
 
-4，小蚁量化机器人
+4，小蚁机器人
 
-5，小蚁炒币机器人
+5，小蚁量化机器人
 
-6，小蚁智能量化机器人
+6，小蚁炒币机器人
 
-7，小蚁量化炒币机器人
+7，小蚁智能量化机器人
 
-8，小蚁智能量化炒币机器人
+8，小蚁量化炒币机器人
 
-9，小蚁量化工作室
+9，小蚁智能量化炒币机器人
 
-10，掘金量化社区
+10，小蚁量化工作室
 
-11，AntBot
+11，掘金量化社区
 
-12，Ant Robot
+12，AntBot
 
-13，AntTrade
+13，Ant Robot
 
-14，AntBot-AI
+14，AntTrade
 
-15，antbot_cta
+15，AntBot-AI
 
-16，AntbotEA 
+16，antbot_cta
 
-17，AntBot_me
+17，AntbotEA 
 
-18，AntbotSupportOfficial
+18，Antbot EA
 
-19，antbot_official
+19，Ants Support
 
-20，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314）
+20，AntBot_me
 
-21，goldquant-club
+21，AntBot_org
 
-22，newbee-asia
+22，AntBotQuantify
 
-23，NewBee
+23，AntbotSupportOfficial
+
+24，antbot_official
+
+25，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，）
+
+26，goldquant-club
+
+27，newbee-asia
+
+28，NewBee
 
 # 九，AntBot 团队地址位于：
 
@@ -335,7 +437,7 @@ https://accounts.binance.com/en/register?ref=IOW7GPN4
 
 - 住所：浙江省宁波保税区鸿海商贸楼410-9室
 
-# 十一，AntBot 相关IP地址
+# 十一，AntBot 相关IP地址 - ZoomEye钟馗之眼
 
 101.36.117.216 165.154.41.100 36.255.222.23 165.154.60.7 101.36.127.124 101.36.108.79 122.10.161.141 165.154.60.119 165.154.44.65 
 
@@ -451,7 +553,7 @@ Windows 10/Windows Server 2019
 
 45102
 
-# 十二，AntBot 相关链接
+# 十二，AntBot 相关链接 - ZoomEye钟馗之眼
 
 https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ https://en.antrobotai.info/ https://zh.antrobotai.info/ https://vi.antrobotai.info/ https://de.antrobotai.info/ https://nl.antrobotai.info/ https://antbot.me/ https://ea.antbot.org/ https://www.antbot.org/ https://goldquant.club/ https://www.newbee.asia/
 
@@ -581,7 +683,7 @@ https://www.blockvalue.com/baike/20210319843427.html
 
 币圈确实是时下最好的投资风口，就连中国大妈也开始加入炒币大军了，大家都知道中国大妈可是有钱又有闲，又疯狂的一个群体。即使在最好赚钱的风口上，据我所知还是有很大一批人赚不到钱。
 
-团队对接导师V:longjuan2001314（目前微信号已被删除）
+团队对接导师V:longjuan2001314（目前微信号已经被删除）
 
 常见的韭菜炒币亏钱的几个原因：
 
@@ -623,7 +725,7 @@ https://www.blockvalue.com/baike/20210319843427.html
 
 https://www.sohu.com/a/444521875_120864833
 
-原始链接：https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg
+https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg
 
 精英专访第四期：龙娟老师和她的享抱团联盟 
 
