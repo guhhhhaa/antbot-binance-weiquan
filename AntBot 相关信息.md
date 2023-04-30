@@ -1,3 +1,9 @@
+# 〇，相关证据截图，和人物照片，
+
+# 均可以在以下链接下载。
+
+https://github.com/guhhhhaa/antbot-binance-weiquan
+
 # 一，AntBot 邮箱
 
 1，【AntBot 邮箱1】- business@antrade.io - 推荐，很可能回复，邮箱显示用户名“Alice From AntBot”
@@ -42,15 +48,15 @@
 
 3-8，AntBot 网站3-8 - https://zh.antrobotai.info/copy-of-home（繁体中文，ZH）
 
-4，AntBot 网站4 -https://antbot.me/（有截图，无法访问，于2023年4月28日被删除）
+4，AntBot 网站4 - https://antbot.me/（有截图，无法访问，于2023年4月28日被删除）
 
-5，AntBot 网站5 -https://ea.antbot.org/（无截图，无法访问）
+5，AntBot 网站5 - https://ea.antbot.org/（无截图，无法访问）
 
-6，AntBot 网站6 -https://www.antbot.org/（无截图，无法访问）
+6，AntBot 网站6 - https://www.antbot.org/（无截图，无法访问）
 
-7，AntBot 网站7 -https://goldquant.club/（有截图，无法访问，于2023年4月28日被删除）
+7，AntBot 网站7 - https://goldquant.club/（有截图，无法访问，于2023年4月28日被删除）
 
-8，AntBot 网站8 -https://www.newbee.asia/ （无截图，无法访问，于2023年4月28日被删除）
+8，AntBot 网站8 - https://www.newbee.asia/ （无截图，无法访问，于2023年4月28日被删除）
 
 # 三，AntBot 相关新闻链接
 
@@ -104,7 +110,7 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 # 四，AntBot 国内社交媒体
 
-### 1，吴优芮相关信息：
+### 1，嫌疑人吴优芮相关信息：
 
 1-1，社交媒体 - QQ - 男1：53585863
 
@@ -128,7 +134,7 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 受害人王天佑备注：此人性别是男性。
 
-### 2，龙娟相关信息
+### 2，嫌疑人龙娟相关信息
 
 2-1，社交媒体：微信-女1：longjuan2001314（微信昵称：龙，目前微信号已经被删除）
 
@@ -136,9 +142,11 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 2-3，社交媒体：微博：享抱团联盟云萃保龙娟导师 https://weibo.com/u/7049285685
 
-2-4，社交媒体：百度贴吧：longjuan131455（**这个131455又是爱情谐音，“一生一世吻我”，因此和合约记录爱情谐音干扰项对应，又加重了 AntBot 监守自盗的嫌疑**） https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+2-4，社交媒体：百度贴吧：longjuan131455 https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
 
-2-5，社交媒体：Telegram 账户 - Alice：https://t.me/AntbotJ （这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
+相关贴子：https://tieba.baidu.com/p/6552722397
+
+2-5，社交媒体：Telegram 账户 - Alice：https://t.me/AntbotJ （这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
 
 #### 受害人王天佑备注
 
@@ -244,7 +252,113 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 受害人王天佑备注：中国平安保险公司的slogan，曾经是“专业 · 价值”，后来改为“保险 · 银行 · 投资”，后来改为“金融 · 科技”，目前又改为“专业 · 价值”。龙娟女士在“享抱团联盟帮扶政策”中，提到的“专业，价值”，也佐证了其在中国平安保险公司工作过。
 
-# 五，AntBot 国外社交媒体
+# 五，AntBot 监守自盗的证据总结
+
+1，**龙娟用在金色财经推广 AntBot 时，使用了微信号：longjuan2001314**，通过微博信息对应可知，**longjuan2001314 和 pinganlongjuan 都是龙娟女士的微信号**。因此可以确知 AntBot 与龙娟女士有关。
+
+2，【 AntbotJ——娟——Alice——Alice From AntBot—— business@antrade.io 】
+
+【 Alice——Alisa 】
+
+【 龙娟——Alisa 】
+
+社交媒体：Telegram 账户 - Alice：https://t.me/AntbotJ ，这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 business@antrade.io 显示的 “Alice From AntBot”对应。
+
+3，【龙娟——longjuan2001314——爱情谐音干扰项】
+
+【合约交易记录——爱情谐音干扰项】
+
+微信号longjuan2001314中的2001314是代表“爱恋你一生一世”的干扰项，与合约交易记录的干扰项交易量类似，均是爱情谐音。
+
+4，【龙娟——longjuan2001314——浙江杭州】微信号longjuan2001314中显示龙娟居住地在浙江杭州
+
+5，【龙娟——pinganlongjuan——浙江杭州】
+
+6，【龙娟——longjuan131455——爱情谐音干扰项】
+
+【合约交易记录——爱情谐音干扰项】
+
+百度贴吧：longjuan131455（**这个131455又是爱情谐音干扰项，代表“一生一世吻我”，因此和合约记录爱情谐音干扰项对应，又加重了 AntBot 监守自盗的嫌疑**） https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+
+相关贴子：https://tieba.baidu.com/p/6552722397
+
+7，【龙娟——骗局前科】由于龙娟女士之前做过微商（枫叶联盟，社群爆破），传销（淘小铺），保险（云萃保），且均是骗局，前科累累。
+
+8，【龙娟——AntBot创始团队】中文互联网内，只有金色财经推广 AntBot ，且文中使用了微信号：longjuan2001314，因此可推知龙娟女士是 AntBot 的创始团队之一。
+
+9，【AntBot——“享抱团联盟”】
+
+【“享抱团联盟”——龙娟】
+
+【“享抱团联盟”——浙江杭州】
+
+金色财经推广 AntBot的推广文案中，提到了如下字样
+
+“随着移动互联网的崛起到蓬勃发展，越来越多的中小型企业和个人奔向时代的浪潮。他们以科技+趋势的格局，借用组织营销分享裂变的优势，逐步形成规模化，正规化的互联网创业军团，享抱团联盟就是在这样的时代背景下诞生的。”
+
+“享抱团联盟，一只沉淀多年的专业的互联网组织营销团队，创始人龙娟老师和吴优芮老师来自中国电子商务之都——杭州。她们在长期合作中相互吸引，拥有共同价值观，心怀同样使命感成立起来一支以“分享经济，抱团共赢”为服务宗旨的团队，这同时也是一只有温度，有规划的团队。”
+
+因此可知，AntBot和“享抱团联盟”有直接关系，而“享抱团联盟”位于中国浙江杭州，与之前提到的新闻中龙娟说的“我叫龙娟，是四川人，在杭州上的大学，也安家在杭州了”对应，也与龙娟的两家公司所在地位于杭州对应，也与龙娟微信号地址位于杭州对应。也与微博地址位于杭州对应，也与QQ：53585863，微信：AntBot_me 的所在地位于中国杭州对应。
+
+10，【https://antbot.me/，https://goldquant.club/——https://www.antbot-ai.org/，http://www.antrade.io/】
+
+通过截图可知，https://antbot.me/，https://goldquant.club/ 和 https://www.antbot-ai.org/，http://www.antrade.io/ 使用同样的文档内容和标题，同样的名称，同样的LOGO，同样的制作风格。
+
+因此https://antbot.me/，https://goldquant.club/ 和 https://www.antbot-ai.org/，http://www.antrade.io/之间有直接关系。
+
+https://antbot.me/，https://goldquant.club/ 就是 https://www.antbot-ai.org/，http://www.antrade.io/ 在中国的前身网站。
+
+又因为受害人王天佑于2023年4月28日，联系微信：53585863 即 AntBot_me 询问，他与 AntBot 是什么关系。
+
+对方回应“雷锋和雷峰塔的关系”，随后2023年4月28日晚上就删除了 https://antbot.me/ 和 https://goldquant.club/ 网站的内容。（这个说法明显是此地无银三百两）
+
+导致 https://antbot.me/ 和 https://goldquant.club/ 无法访问。
+
+根据 AntBot APP之前惯用的“掩饰隐瞒，销毁证据”的伎俩可知。
+
+https://antbot.me/ 和 https://goldquant.club/ 就是 AntBot 在中国的前身网站。
+
+根据DuckDuckGo搜索引擎于2023年4月30日的截图中的搜索结果显示的的残留信息可知，王天佑的说法是真实的。https://antbot.me/ 和 https://goldquant.club/ 网站上的确曾经存在过相关的内容信息。
+
+并且可以通过，王天佑对 https://antbot.me/ 的手机截图，和 微博：小蚁量化机器人 https://weibo.com/u/7750863098 微博上发布的他自己的的手机截图，进一步确认，https://antbot.me/ 网站上的确曾经存在过相关的内容信息。
+
+而且https://antbot.me/ 网站上给出了 https://weibo.com/u/7750863098 的微博链接，这点也可以在ZoomEye钟馗之眼数据库的搜索结果残留信息中确认。
+
+11，【QQ 53585863——微信 AntBot_me】
+
+【QQ 53585863——浙江杭州】
+
+【微信 AntBot_me——浙江杭州】
+
+【QQ 53585863——出生日期：2000年7月19日——爱情谐音干扰项】
+
+【合约交易记录——爱情谐音干扰项】
+
+在微信中搜索，QQ 53585863，可以直接搜到，微信 AntBot_me，且QQ 53585863，和微信 AntBot_me，地址均位于浙江杭州。
+
+QQ所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你情谊久”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音，
+
+12，【QQ 53585863——微信 AntBot_me】
+
+【QQ 53585863——https://antbot.me/】
+
+【微信 AntBot_me——https://antbot.me/】
+
+【微信 AntBot_me——https://antbot.me/】
+
+【微博：小蚁量化机器人 https://weibo.com/u/7750863098——https://antbot.me/】
+
+【币Coin：小蚁量化机器人 http://test1.bicoin.info/page/goDownload?intiviteCode=79420298——https://antbot.me/】
+
+13，【币Coin：小蚁量化机器人 http://test1.bicoin.info/page/goDownload?intiviteCode=79420298——QQ53585863——微信 AntBot_me】
+
+从币Coin：小蚁量化机器人的账户签名备注了解到，签名备注中写了：加微信53585863
+
+14，【客服回应——自营业务——没有做好风险隔离——监守自盗】AntBot 客服说，AntBot 自己也在黑客事件中损失了，所以可推知 AntBot 经营了自营业务，没有做好投资风险隔离。加深了 AntBot 监守自盗的嫌疑。
+
+15，【事后行为——掩饰隐瞒，销毁证据，推卸责任】发生盗币事件后，AntBot 有掩饰隐瞒，销毁证据，推卸责任的做法，加深了 AntBot 监守自盗的嫌疑。
+
+# 六，AntBot 国外社交媒体
 
 社交媒体1：Youtube: www.youtube.com/@antradeio
 
@@ -272,7 +386,7 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 社交媒体13：币安广场-英文: https://www.binance.com/en/feed/profile/58344027（已关闭）
 
-# 六，下载链接：
+# 七，下载链接：
 
 苹果 IOS TestFlight 下载链接：
 
@@ -294,7 +408,7 @@ https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/
 
 https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
-# 六，AntBot 邀请码和邀请链接
+# 八，AntBot 邀请码和邀请链接
 
 ### 注：警方可以去交易所，查KYC信息。
 
@@ -346,7 +460,7 @@ https://www.gate.io/signup/13095293 - 13095293
 
 https://partner.bitget.com/bg/N9ET26 - N9ET26
 
-# 七，AntBot 相关组织：
+# 九，AntBot 相关组织：
 
 1，“小蚁量化工作室”（直接，从 https://antbot.me/ 网站了解的）
 
@@ -360,7 +474,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 6，中联金安保险经纪有限公司（“享抱团”现在推广，和“云萃保”有关的）
 
-# 八，AntBot APP曾用名和组织曾用名：
+# 十，AntBot APP曾用名和组织曾用名：
 
 1，小蚁
 
@@ -418,13 +532,13 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 28，NewBee
 
-# 九，AntBot 团队地址位于：
+# 十一，AntBot 团队地址位于：
 
 1，中国浙江杭州。（通过新闻信息）
 
 2，中国广东深圳。（通过网站信息）
 
-# 十，相关公司信息
+# 十二，相关公司信息
 
 ## 1，浙江云萃保科技有限公司 
 
@@ -603,7 +717,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 - 电子邮箱：821002127@qq.com
 - 邮政编码：510000
 
-# 十一，AntBot 相关IP地址 - ZoomEye钟馗之眼
+# 十三，AntBot 相关IP地址 - ZoomEye钟馗之眼
 
 101.36.117.216 165.154.41.100 36.255.222.23 165.154.60.7 101.36.127.124 101.36.108.79 122.10.161.141 165.154.60.119 165.154.44.65 
 
@@ -719,7 +833,7 @@ Windows 10/Windows Server 2019
 
 45102
 
-# 十二，AntBot 相关链接 - ZoomEye钟馗之眼
+# 十四，AntBot 相关链接 - ZoomEye钟馗之眼
 
 https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ https://en.antrobotai.info/ https://zh.antrobotai.info/ https://vi.antrobotai.info/ https://de.antrobotai.info/ https://nl.antrobotai.info/ https://antbot.me/ https://ea.antbot.org/ https://www.antbot.org/ https://goldquant.club/ https://www.newbee.asia/
 
@@ -781,7 +895,7 @@ ucloud.cn
 
 15169
 
-# 十三，其他相关可能开发人员信息
+# 十五，其他相关可能开发人员信息
 
 1，17166570219（空号）
 
@@ -827,9 +941,9 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 百度搜索：http://www.mydbc.cn/ - 量化交易机器人，电话：18380514181
 
-# 附录
+# 附录，新闻信息原文
 
-# 附录1，新闻信息一
+# 附录1，新闻信息原文一
 
 标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
 
@@ -889,7 +1003,7 @@ https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
 文章由指股网整理发布，转载请注明出处。 
 
-# 附录2，新闻信息二
+# 附录2，新闻信息原文二
 
 标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
@@ -957,7 +1071,7 @@ https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号
 
 （此插图中的微信号是：pinganlongjuan）
 
-# 附录3，新闻信息三
+# 附录3，新闻信息原文三
 
 标题：热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
 
@@ -1066,7 +1180,7 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 文章来源：微商电商内参，特此鸣谢！
 
-# 附录4，新闻信息四
+# 附录4，新闻信息原文四
 
 受害人王天佑备注：这里龙娟多次提到阿里巴巴，与经我在ZoomEye钟馗之眼搜索了解到，AntBot 在美国的服务器，使用阿里云，存在对应关系。
 
@@ -1142,7 +1256,7 @@ https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 龙娟：谢谢主编，也祝个创家平台蒸蒸日上。
 
-# 附录5，新闻信息五
+# 附录5，新闻信息原文五
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
@@ -1187,4 +1301,21 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 未来淘小铺将开发出更完善的课程体系，多渠道、多维度为团队长定制专业课程，进行模拟实战，不间断地进行落地扶持计划，帮助每一位创业团队实现快速发展，加速扩张市场版图，让更多地普通人在淘小铺上实现梦想。
 
 微商、社交电商、直销各类信息请找个创家（gechuangjia.com）。
+
+# 附录6，百度贴吧信息原文六
+
+百度贴吧相关贴子：https://tieba.baidu.com/p/6552722397
+
+证明了此百度贴吧账号是龙娟：https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+
+贴子内容如下：
+
+大家好，我是社群爆破系统创始人龙娟！
+
+
+我叫龙娟，来自四川，安家杭州，08年大学毕业以后，开启了我长达12年的创业之旅，我的终极目标就是把公司做上市。因为我有一颗努力奋斗的心，我在杭州有2家公司，一家劳务公司和一家教育公司，目前公司有一百多位员工，上千平方的场地，一年营业额也上亿。4年前被集团公司用1000万收购纳入集团名下，正式启动了我们国际乌克兰的项目。公司由老公全权负责，而我与时俱进在互联网里面积累经验，因为我知道想要实现终极目标一定要天时地利人和以及资源和人脉和丰富的经验。
+
+除了这个终极目标中间我也实现了自己的房子和车子，以及全家马代旅游，因为梦想实现的那一刻是很幸福的。
+所以别人给我定位的标签就是：正能量，爱拼，爱折腾。
+我的至理名言就是：“只要干不死就往死里干”！
 
