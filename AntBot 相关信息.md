@@ -28,7 +28,7 @@ https://github.com/guhhhhaa/antbot-binance-weiquan
 
 1，【AntBot 网站1】- https://www.antbot-ai.org/
 
-2，【AntBot 网站2】 - http://www.antrade.io/
+2，【AntBot 网站2】 - https://www.antrade.io/
 
 3，【AntBot 网站3】 - https://www.antrobotai.info/
 
@@ -48,19 +48,31 @@ https://github.com/guhhhhaa/antbot-binance-weiquan
 
 3-8，AntBot 网站3-8 - https://zh.antrobotai.info/copy-of-home（繁体中文，ZH）
 
-4，AntBot 网站4 - https://antbot.me/（有截图，无法访问，于2023年4月28日被删除）
+4，AntBot 网站4 - https://antbot.gitbook.io/
 
-5，AntBot 网站5 - https://ea.antbot.org/（无截图，无法访问）
+5，AntBot 网站5 - https://antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
 
-6，AntBot 网站6 - https://www.antbot.org/（无截图，无法访问）
+6，AntBot 网站6 - https://ea.antbot.org/（无截图，无法访问，删除时间未知）
 
-7，AntBot 网站7 - https://goldquant.club/（有截图，无法访问，于2023年4月28日被删除）
+7，AntBot 网站7 - https://www.antbot.org/（无截图，无法访问，删除时间未知）
 
-8，AntBot 网站8 - https://www.newbee.asia/ （无截图，无法访问，于2023年4月28日被删除）
+8，AntBot 网站8 - https://goldquant.club/（有截图，无法访问，删除时间2023年4月28日）
 
-# 三，AntBot 相关新闻链接
+9，AntBot 网站9 - https://www.newbee.asia/（无截图，无法访问，删除时间2023年4月28日）
 
-#### 1，新闻信息一
+# 三，AntBot 网站快照
+
+https://archive.org/ 是全球著名的网页快照储存网站，上面存储有AntBot网站的快照
+
+https://www.antbot.org/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antbot.org/](https://web.archive.org/web/*/https://www.antbot.org/)
+
+https://www.antrade.io/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antrade.io/](https://web.archive.org/web/*/https://www.antrade.io/)
+
+https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
+
+# 四，AntBot 相关新闻链接
+
+#### 1，新闻信息
 
 标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
 
@@ -70,15 +82,15 @@ https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
 原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
 
-#### 2，新闻信息二
+#### 2，微信公众号新闻信息
 
 标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
 https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
-https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号
+https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
-#### 3，新闻信息三
+#### 3，新闻信息
 
 标题：热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
 
@@ -88,7 +100,7 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 腾讯新闻链接 - 已经被删除
 
-#### 4，新闻信息四
+#### 4，微信公众号新闻信息
 
 标题：专访龙娟-社交电商学会做人最重要
 
@@ -98,7 +110,7 @@ https://www.sohu.com/a/420787769_120864833 - 搜狐
 
 https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
-#### 5，新闻信息五
+#### 5，微信公众号新闻信息
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
@@ -108,17 +120,45 @@ https://www.sohu.com/a/428416683_120864833 - 搜狐
 
 https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
-# 四，AntBot 国内社交媒体
+#### 6，百度贴吧信息
+
+百度贴吧相关贴子：https://tieba.baidu.com/p/6552722397
+
+证明了此百度贴吧账号是龙娟：https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+
+#### 7，微信公众号信息
+
+标题：小蚁AI炒币机器人交易理论详解
+
+[https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1](https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1) - 微信公众号 - yaobi_vip 妖币研习社 - 此文章已被删除
+
+
+
+
+
+# 五，AntBot 国内社交媒体
 
 ### 1，嫌疑人吴优芮相关信息：
 
 1-1，社交媒体 - QQ - 男1：53585863
 
-1-2，社交媒体 - 微信 - 男2：AntBot_me
+1-2，社交媒体 - 微信 - 男2：AntBot_me（微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系他被删好友后1小时内删除）
 
-1-3，社交媒体 - 微信 - 男3：antbot_org（该用户不存在）
+1-3，社交媒体 - 微信 - 男3：antbot_org（该用户不存在，删除时间未知）
 
-1-4，社交媒体：微博：小蚁量化机器人 https://weibo.com/u/7750863098（微博图片知，官网为：https://antbot.me/，与微信号 AntBot_me 一致）
+1-4，社交媒体：微博：小蚁量化机器人 https://weibo.com/u/7750863098
+
+（微博图片知，官网为：https://antbot.me/，与微信号 AntBot_me 一致）
+
+相关微博信息：
+
+https://weibo.com/7750863098/M7hM5jniW
+
+2022-9-24
+
+来自 iPhone 8
+
+官网: AntBot.me 
 
 1-5，社交媒体：币Coin：小蚁量化机器人 http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
 
@@ -136,17 +176,29 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 ### 2，嫌疑人龙娟相关信息
 
-2-1，社交媒体：微信-女1：longjuan2001314（微信昵称：龙，目前微信号已经被删除）
+2-1，社交媒体 - 微信 - longjuan2001314（微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除）
 
-2-2，社交媒体：微信-女2：pinganlongjuan（微信昵称：龙女）
+2-2，社交媒体 - 微信 - pinganlongjuan（微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除）
 
-2-3，社交媒体：微博：享抱团联盟云萃保龙娟导师 https://weibo.com/u/7049285685
+2-3，社交媒体 - 微博 - 享抱团联盟云萃保龙娟导师 https://weibo.com/u/7049285685 ，
 
-2-4，社交媒体：百度贴吧：longjuan131455 https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+简介：V:longjuan2001314开公司13年，互联网经验5年，帮助更多的人成功是我的梦想
+
+微博内容中也有另一个微信号 - pinganlongjuan
+
+头像：是龙娟本人照片
+
+2-4，社交媒体 - 百度贴吧 - longjuan131455 https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
 
 相关贴子：https://tieba.baidu.com/p/6552722397
 
-2-5，社交媒体：Telegram 账户 - Alice：https://t.me/AntbotJ （这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
+2-5，社交媒体 - Telegram - Alice：https://t.me/AntbotJ （这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
+
+2-6，社交媒体 - 喜马拉雅 - 卫康百元新零售小龙女 - https://mhera.ximalaya.com/zhubo/223275738
+
+简介：创业11年杭州上千平方场地 互联网营销6年擅长培训搭建系统和引流
+
+头像：照片是龙娟本人照片
 
 #### 受害人王天佑备注
 
@@ -154,13 +206,17 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 受害人王天佑备注：从微信信息，微博图片信息，新闻信息，Telegram信息，互相比照，可确知，此人姓名是：龙娟，且通过备份新闻信息，可知，**龙娟用在金色财经推广 AntBot 时，使用了微信号：longjuan2001314**，通过微博信息对应可知，**longjuan2001314 和 pinganlongjuan 都是龙娟女士的微信号**。
 
-受害人王天佑备注：**但是微信号的2001314是代表“爱恋你一生一世”的干扰项，与合约交易记录的干扰项交易量类似，均是爱情谐音。**因此，几乎可以确知，2023年3月21日AntBot 发生的黑客事件是 AntBot 监守自盗。由于龙娟女士之前做过微商（枫叶联盟，社群爆破），传销（淘小铺），保险（云萃保），且均是骗局，前科累累。而且之前提交的材料中提到，AntBot 客服说，AntBot 自己也在黑客事件中损失了，所以可推知 AntBot 经营了自营业务，没有做好投资风险隔离，且发生盗币事件后，AntBot 有掩饰隐瞒和销毁证据的做法，因此更加加深了 AntBot 监守自盗的嫌疑。
+受害人王天佑备注：**但是微信号的2001314是代表“爱恋你一生一世”的干扰项，与合约交易记录的干扰项交易量类似，均是爱情谐音。**因此，几乎可以确知，2023年3月21日AntBot 发生的黑客事件是 AntBot 监守自盗。
+
+由于龙娟女士之前做过微商（枫叶联盟，社群爆破），传销（淘小铺），保险（云萃保），且均是骗局，前科累累。
+
+而且之前提交的材料中提到，AntBot 客服说，AntBot 自己也在黑客事件中损失了，所以可推知 AntBot 经营了自营业务，没有做好投资风险隔离，且发生盗币事件后，AntBot 有掩饰隐瞒和销毁证据的做法，因此更加加深了 AntBot 监守自盗的嫌疑。
 
 受害人王天佑备注：新闻中的英文名是 Alisa，Telegram 中英文名是 Alice，两者发音类似，且均是女性名字，存在对应关系。
 
 受害人王天佑备注：所在地：中国浙江杭州。
 
-受害人王天佑备注：微信号longjuan2001314（2023年4月29日，微信号已经被删除），可能所示的出生日期：2001年3月14日，但是由新闻知，龙娟女士在2008年大学毕业，一个普通人不可能7岁就大学毕业，因此排除。
+受害人王天佑备注：微信号longjuan2001314，可能所示的出生日期：2001年3月14日，但是由新闻知，龙娟女士在2008年大学毕业，一个普通人不可能7岁就大学毕业，因此排除。
 
 受害人王天佑备注：查微博介绍可知，龙娟在 1987-04-25 金牛座 出生，2008年大学毕业（21岁），21岁属于正常毕业年龄，因此可以证实。查微博可知，毕业大学是浙江水利水电学院。
 
@@ -254,7 +310,7 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 # 五，AntBot 监守自盗的证据总结
 
-1，**龙娟用在金色财经推广 AntBot 时，使用了微信号：longjuan2001314**，通过微博信息对应可知，**longjuan2001314 和 pinganlongjuan 都是龙娟女士的微信号**。因此可以确知 AntBot 与龙娟女士有关。
+1，根据其他网站的自动备份记录，**龙娟用在金色财经推广 AntBot 时，使用了微信号：longjuan2001314**，通过微博信息对应可知，**longjuan2001314 和 pinganlongjuan 都是龙娟女士的微信号**。因此可以确知 AntBot 与龙娟女士有关。
 
 2，【 AntbotJ——娟——Alice——Alice From AntBot—— business@antrade.io 】
 
@@ -322,7 +378,7 @@ https://antbot.me/ 和 https://goldquant.club/ 就是 AntBot 在中国的前身�
 
 并且可以通过，王天佑对 https://antbot.me/ 的手机截图，和 微博：小蚁量化机器人 https://weibo.com/u/7750863098 微博上发布的他自己的的手机截图，进一步确认，https://antbot.me/ 网站上的确曾经存在过相关的内容信息。
 
-而且https://antbot.me/ 网站上给出了 https://weibo.com/u/7750863098 的微博链接，这点也可以在ZoomEye钟馗之眼数据库的搜索结果残留信息中确认。
+而且https://antbot.me/ 网站上给出了 https://weibo.com/u/7750863098 的微博链接，这点也可以在 ZoomEye 钟馗之眼 数据库的搜索结果残留信息中确认。
 
 11，【QQ 53585863——微信 AntBot_me】
 
@@ -400,6 +456,10 @@ Android APK 直接下载链接：
 
 [https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk](https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk)
 
+http://ant-robot.oss-cn-shenzhen.aliyuncs.com/ant/install/android/antbot.apk
+
+
+
 宣传视频1下载：
 
 https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/mp4/file.mp4
@@ -408,13 +468,13 @@ https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/
 
 https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
-# 八，AntBot 邀请码和邀请链接
+# 八，AntBot 网站上的相关邀请码和邀请链接
 
 ### 注：警方可以去交易所，查KYC信息。
 
 ### 可能会查出，邀请码对应交易所账户的KYC身份证信息。
 
-#### AntBot 邀请码：
+#### 网站上的 AntBot 邀请码：
 
 https://antbot.org/register?code=ZSZOWZ - ZSZOWZ
 
@@ -422,13 +482,13 @@ https://antbot.org/register?code=4kqtNK - 4kqtNK
 
 https://antbot.org/register?code=P1OB3E - P1OB3E
 
-#### OKEX 邀请码：
+#### 网站上的 OKEX 和 OKX 邀请码：（OKX 交易所 是 OKEX 交易所品牌升级后的名称）
 
 https://www.okex.com/join/10891423 - 10891423
 
 https://www.okx.com/join/3682381 - 3682381
 
-#### Binance 邀请码：
+#### 网站上的 Binance 邀请码：
 
 https://accounts.binance.com/en/register?ref=IOW7GPN4 - IOW7GPN4
 
@@ -436,11 +496,11 @@ https://accounts.binance.com/en/register?ref=116330605 - 116330605
 
 https://accounts.binancezh.top/zh-CN/register?ref=C0QWJ3K6 - C0QWJ3K6
 
-#### ByBit 邀请码：
+#### 网站上的 ByBit 邀请码：
 
 https://www.bybit.com/en-US/invite?ref=5QVO6R - 5QVO6R
 
-#### HuoBi 邀请码：
+#### 网站上的 HuoBi 邀请码：
 
 https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=bvkh5223 
 
@@ -448,15 +508,15 @@ inviter_id - 11345710
 
 invite_code - bvkh5223
 
-#### KuCoin 邀请码：
+#### 网站上的 KuCoin 邀请码：
 
 https://www.kucoin.com/r/rf/rPM5ZXX - rPM5ZXX
 
-#### Gate\.io 邀请码：
+#### 网站上的 Gate\.io 邀请码：
 
 https://www.gate.io/signup/13095293 - 13095293
 
-#### BitGet 邀请码：
+#### 网站上的 BitGet 邀请码：
 
 https://partner.bitget.com/bg/N9ET26 - N9ET26
 
@@ -482,55 +542,63 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 3，小蚁EA
 
-4，小蚁机器人
+4，小蚁AI量化交易
 
-5，小蚁量化机器人
+5，小蚁量化交易
 
-6，小蚁炒币机器人
+6，小蚁机器人
 
-7，小蚁智能量化机器人
+7，小蚁量化机器人
 
-8，小蚁量化炒币机器人
+8，小蚁炒币机器人
 
-9，小蚁智能量化炒币机器人
+9，小蚁AI炒币机器人
 
-10，小蚁量化工作室
+10，小蚁智能量化机器人
 
-11，掘金量化社区
+11，小蚁量化炒币机器人
 
-12，AntBot
+12，小蚁AI炒币机器人
 
-13，Ant Robot
+13，小蚁智能量化炒币机器人
 
-14，AntTrade
+14，小蚁量化工作室
 
-15，AntBot-AI
+15，掘金量化社区
 
-16，antbot_cta
+16，AntBot
 
-17，AntbotEA 
+17，Ant Robot
 
-18，Antbot EA
+18，AntTrade
 
-19，Ants Support
+19，AntBot-AI
 
-20，AntBot_me
+20，antbot_cta
 
-21，AntBot_org
+21，AntbotEA 
 
-22，AntBotQuantify
+22，Antbot EA
 
-23，AntbotSupportOfficial
+23，Ants Support
 
-24，antbot_official
+24，AntBot_me
 
-25，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，）
+25，AntBot_org 或 antbot_org
 
-26，goldquant-club
+26，AntBotQuantify
 
-27，newbee-asia
+27，AntbotSupportOfficial
 
-28，NewBee
+28，antbot_official
+
+29，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
+
+30，goldquant-club
+
+31，newbee-asia
+
+32，NewBee
 
 # 十一，AntBot 团队地址位于：
 
@@ -717,11 +785,11 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 - 电子邮箱：821002127@qq.com
 - 邮政编码：510000
 
-# 十三，AntBot 相关IP地址 - ZoomEye钟馗之眼
+# 十三，AntBot 相关 IP 地址 - ZoomEye 钟馗之眼
 
 101.36.117.216 165.154.41.100 36.255.222.23 165.154.60.7 101.36.127.124 101.36.108.79 122.10.161.141 165.154.60.119 165.154.44.65 
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的相关漏洞数据
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的相关漏洞数据
 
 相关漏洞数据由 SeeBug 支持提供，仅供参考
 
@@ -791,7 +859,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 926942017-02-20高危FTPShell Client 5.24 - 'PWD' Remote Buffer Overflow
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的组织
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的组织
 
 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED （中国 香港）优刻得信息科技(香港)有限公司
 
@@ -799,7 +867,7 @@ Alibaba (US) Technology Co., Ltd.（美国 圣克拉拉）阿里巴巴
 
 ucloud.cn（中国 香港）UCloud优刻得-首家公有云科创板上市公司，A股股票代码：688158
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的运营商
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的运营商
 
 ucloud.cn（中国 香港）
 
@@ -807,13 +875,13 @@ zenlayer.com（中国 香港）
 
 ALIYUN（美国 圣克拉拉）阿里云
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的国家和城市
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的国家和城市
 
 中国 香港
 
 美国 圣克拉拉
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的邮编
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的邮编
 
 999077 - 中国 香港 中西区
 
@@ -821,23 +889,23 @@ ALIYUN（美国 圣克拉拉）阿里云
 
 94102 - 美国 旧金山 San Francisco
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的操作系统类型
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的操作系统类型
 
 Windows
 
 Windows 10/Windows Server 2019
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的自治系统号(ASN)
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的自治系统号(ASN)
 
 135377
 
 45102
 
-# 十四，AntBot 相关链接 - ZoomEye钟馗之眼
+# 十四，AntBot 相关链接 -  ZoomEye 钟馗之眼 
 
 https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ https://en.antrobotai.info/ https://zh.antrobotai.info/ https://vi.antrobotai.info/ https://de.antrobotai.info/ https://nl.antrobotai.info/ https://antbot.me/ https://ea.antbot.org/ https://www.antbot.org/ https://goldquant.club/ https://www.newbee.asia/
 
-### 从相关链接在ZoomEye钟馗之眼获得的相关漏洞数据
+### 从相关链接在 ZoomEye 钟馗之眼 获得的相关漏洞数据
 
 #### nginx
 
@@ -851,7 +919,7 @@ https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ ht
 
 625292013-12-01高危Nginx Blank Null Byte 代码执行漏洞
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的标题
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的标题
 
 Crypto AI Bot | Ant Robot
 
@@ -859,25 +927,25 @@ AntBot, a Full-featured Crypto Automated Trading System
 
 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的组织
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的组织
 
 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
 Google LLC
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的运营商
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的运营商
 
 cloud.google.com
 
 ucloud.cn
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的国家和城市
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的国家和城市
 
 新加坡
 
 中国 香港
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的邮编
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的邮编
 
 64106 - 美国 堪萨斯城 Kansas City
 
@@ -885,11 +953,11 @@ ucloud.cn
 
 999077 - 中国 香港 中西区
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的操作系统类型
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的操作系统类型
 
 --（无）
 
-### 从相关IP地址在ZoomEye钟馗之眼获得的自治系统号(ASN)
+### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的自治系统号(ASN)
 
 135377
 
@@ -1009,7 +1077,7 @@ https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
 https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
-https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号
+https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
 2021-01-14 17:31
 
@@ -1182,7 +1250,7 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 # 附录4，新闻信息原文四
 
-受害人王天佑备注：这里龙娟多次提到阿里巴巴，与经我在ZoomEye钟馗之眼搜索了解到，AntBot 在美国的服务器，使用阿里云，存在对应关系。
+受害人王天佑备注：这里龙娟多次提到阿里巴巴，与经我在 ZoomEye 钟馗之眼 搜索了解到，AntBot 在美国的服务器，使用阿里云，存在对应关系。
 
 受害人王天佑备注：这里龙娟多次提到阿里巴巴，阿里巴巴曾经使用蚂蚁作为意象（如：蚂蚁金服），与 AntBot 也使用蚂蚁作为意象（如，小蚁，还有Logo使用具象的蚂蚁），存在对应关系。
 
@@ -1256,7 +1324,7 @@ https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 龙娟：谢谢主编，也祝个创家平台蒸蒸日上。
 
-# 附录5，新闻信息原文五
+# 附录5，新闻信息原文
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
@@ -1302,7 +1370,7 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 微商、社交电商、直销各类信息请找个创家（gechuangjia.com）。
 
-# 附录6，百度贴吧信息原文六
+# 附录6，百度贴吧信息原文
 
 百度贴吧相关贴子：https://tieba.baidu.com/p/6552722397
 
@@ -1319,3 +1387,22 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 所以别人给我定位的标签就是：正能量，爱拼，爱折腾。
 我的至理名言就是：“只要干不死就往死里干”！
 
+# 附录7，微信公众号文章
+
+[https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1](https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1)
+
+微信号: yaobi_vip
+
+标题：小蚁AI炒币机器人交易理论详解
+
+摘要：四、小蚁AI量化交易优点1、它简单!不用自己操心,不用每天盯盘看行情,守着电脑手机熬夜,7x24小时自动买卖交易,不受市场波...
+
+
+
+https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy
+
+https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/
+
+https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
+
+https://fsr-develop.com/antbot-ai-review
