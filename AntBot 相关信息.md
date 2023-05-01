@@ -1020,15 +1020,15 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 百度搜索：http://www.mydbc.cn/ - 量化交易机器人，电话：18380514181
 
-# 附录，新闻信息原文
+# 附录，信息原文
 
-# 附录1，新闻信息原文一
+# 附录1，中文新闻信息原文一
 
 标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
 
-https://www.zhiguf.com/focusnews_detail/258397 - 指股网 - 自动备份
+原文链接：https://www.zhiguf.com/focusnews_detail/258397 - 指股网 - 自动备份
 
-https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
+原文链接：https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
 原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
 
@@ -1082,13 +1082,13 @@ https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
 文章由指股网整理发布，转载请注明出处。 
 
-# 附录2，新闻信息原文二
+# 附录2，中文新闻信息原文二
 
 标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
-https://www.sohu.com/a/444521875_120864833 - 搜狐网
+原文链接：https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
-https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
+原文链接：https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
 2021-01-14 17:31
 
@@ -1150,13 +1150,13 @@ https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
 （此插图中的微信号是：pinganlongjuan）
 
-# 附录3，新闻信息原文三
+# 附录3，中文新闻信息原文三
 
 标题：热点|以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
 
-https://www.shilian.com/zixun/350144.html - 世链财经 - 需要使用VPN访问
+原文链接：https://www.shilian.com/zixun/350144.html - 世链财经 - 需要使用VPN访问
 
-https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
+原文链接：https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 腾讯新闻链接 - 已经被删除
 
@@ -1257,7 +1257,7 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 文章来源：微商电商内参，特此鸣谢！
 
-# 附录4，新闻信息原文四
+# 附录4，中文新闻信息原文四
 
 受害人王天佑备注：这里龙娟多次提到阿里巴巴，与经我在 ZoomEye 钟馗之眼 搜索了解到，AntBot 在美国的服务器，使用阿里云，存在对应关系。
 
@@ -1269,11 +1269,11 @@ https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
 
 标题：专访龙娟-社交电商学会做人最重要
 
-https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
+原文链接：https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
 
-https://www.sohu.com/a/420787769_120864833 - 搜狐
+原文链接：https://www.sohu.com/a/420787769_120864833 - 搜狐
 
-https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
+原文链接：https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 原创 个创家 2020-09-25 14:33
 
@@ -1333,15 +1333,15 @@ https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 龙娟：谢谢主编，也祝个创家平台蒸蒸日上。
 
-# 附录5，新闻信息原文
+# 附录5，中文新闻信息原文五
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
-https://mp.weixin.qq.com/s/VDIqKXGsZTu5WtjbYtC7RQ - 微信公众号 - 个创家
+原文链接：https://mp.weixin.qq.com/s/VDIqKXGsZTu5WtjbYtC7RQ - 微信公众号 - 个创家
 
-https://www.sohu.com/a/428416683_120864833 - 搜狐
+原文链接：https://www.sohu.com/a/428416683_120864833 - 搜狐
 
-https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
+原文链接：https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 正文：
 
@@ -1398,7 +1398,7 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 # 附录7，微信公众号文章
 
-[https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1](https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1)
+原文链接：[https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1](https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1)
 
 微信号: yaobi_vip
 
@@ -1406,21 +1406,21 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 摘要：四、小蚁AI量化交易优点1、它简单!不用自己操心,不用每天盯盘看行情,守着电脑手机熬夜,7x24小时自动买卖交易,不受市场波...
 
-# 附录8，网站文案一
+# 附录8，AntBot 网站文案一
 
-https://web.archive.org/web/20210930093657/http://antbot.org/download/en
+原文链接：https://web.archive.org/web/20210930093657/http://antbot.org/download/en
 
-## Application Introduction
+**Application Introduction**
 
 小蚁EA, The English name is ANTBOT, which is a digital currency intelligent trading robot tool APP.
 ANTBOT was born in 2020 and is one of the top tools for quantitative trading of digital currencies in the world. It is headquartered in Shenzhen, China and radiates the global market.
 ANTBOT focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
 
-# 附录9，网站文案二
+# 附录9，AntBot 网站文案二
 
-https://web.archive.org/web/20220512160618/https://antbot.org/download/en
+原文链接：https://web.archive.org/web/20220512160618/https://antbot.org/download/en
 
-## Application Introduction
+**Application Introduction**
 
 AntBot is an intelligent crypto trading tools.
 
@@ -1436,41 +1436,41 @@ AntBot pioneered an intelligent position management system, a hedge futures arbi
 
 AntBot focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
 
-# 附录10，网站文案三
+# 附录10，AntBot 网站文案三
 
-https://web.archive.org/web/20211215114613/https://www.antbot-ai.org/
+原文链接：https://web.archive.org/web/20211215114613/https://www.antbot-ai.org/
 
-###  ANTBOT AI
+**ANTBOT AI**
 
 Simple automated crypto trading app with advance AI. Crypto trading bots with AI systems enable trading based  on data and trends—not on emotional impulse. Ultimately,  this usually grows their profits, minimizes their risks,  and limits their losses across exchanges. 
 
-## Features
+**Features**
 
-### One Click Run
+**One Click Run**
 
 Straightly run your bot with one click and let AI do the rest. Skip months of learning or copy the strategies created by other traders without emotional impulse
 
-### Zero Experience Needed
+**Zero Experience Needed**
 
 No problem even if you are a beginner. Our automated AI bots will buy & sell for you with no interference from your side.
 
-### 24/7 Monitoring
+**24/7 Monitoring**
 
 Setup your bot & relax, let our AI bots monitor the market for you and seize opportunities even while you sleep.
 
-### Advance AI
+**Advance AI**
 
 The Advance AI perform thousands of complex calculations in seconds, allowing the AI to solve issues on their own, that requires no human interventionTransparency
 
-### Transparency
+**Transparency**
 
 You can view the history of all the trades with the timestamps.
 
-### Secure
+**Secure**
 
 We do not hold custody of your funds. Your funds will remain in your own account on your crypto exchange.
 
-## Introduction
+**Introduction**
 
 *Bots trade better than humans*
 
@@ -1480,33 +1480,33 @@ Bots are the future of trading. The world's leading investors have been trading 
 
 Skip months of learning or copy the strategies created by other traders without emotional impulse.
 
-## **FAQ**
+**FAQ**
 
-### What is AntBot AI?
+**What is AntBot AI?**
 
 AntBot AI is a premium quality crypto trading bots driven by AI, Quant & Mathematical models.
 
-### Why should i use AntBot AI?
+**Why should i use AntBot AI?**
 
 More than 90% of crypto traders or investors lose their money because markets trade 24/7, with high volatility which make it difficult to make a decision to buy or sell. Many significant data, signals and sentiment analysis are hard to interpret by humans.
 
-### Should we have to build our own bots or copy trading?
+**Should we have to build our own bots or copy trading?**
 
 No. We don't recommend you to build your own bots or copy other traders setting. We already developed the bots using the latest advances in AI Technology, Sentiment Analysis, Mathematical Models & Quantitative Finance.
 
-### How much can we earn in a day?
+**How much can we earn in a day?**
 
 Using AntBot AI is not an assured "pay-cheque". It will simplify your life by automating trades and over a time will perform better than humans and will achieve great returns.
 
-### Can we become rich by using AntBot AI?
+**Can we become rich by using AntBot AI?**
 
 Only the schemer promise investors a return on investment for each day or each month that their money is invested in the firm. We can promise you a steady return over a period of time but as always in crypto or any other assets come with risks.
 
-### Is AntBot AI non-custodial?
+**Is AntBot AI non-custodial?**
 
 Yes, your funds is safe and remain in your own account on your exchange.
 
-### Does BOTS charge fees?
+**Does BOTS charge fees?**
 
 Yes, the transaction fees are charged by platform by using "Energy". 100 Energy = 1 USDT.
 
@@ -1520,55 +1520,55 @@ Shenzhen, Guangdong, China
 
 2020, Antbot. All Rights Reserved
 
-# 附录11，网站文案四
+# 附录11，AntBot 网站文案四
 
-https://antbot.me（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+原文链接：https://antbot.me（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
 
-#### 小蚁量化机器人，API直连交易所，使用时请确保您的网络处于科学上网状态
+**小蚁量化机器人，API直连交易所，使用时请确保您的网络处于科学上网状态**
 
-### AntBot致力提供智能和专业的投资工具
+**AntBot致力提供智能和专业的投资工具**
 
-#### 本金安全
+**本金安全**
 
 你的本金是在交易所的账户，机器人无权转移本金
 
-#### 多套著名策略
+**多套著名策略**
 
 DCA策路，网格策略，动态调仓，趋势跟踪
 
-#### 支持多交易所
+**支持多交易所**
 
 支持多个交易所的现货和合约
 
-#### 团队分销奖励系统
+**团队分销奖励系统**
 
 邀请朋友一起赢取加密货币，高达60%的佣金
 
-### 量化策略
+**量化策略**
 
-#### 马丁格尔策略
+**马丁格尔策略**
 
 马丁格尔交易策略是一种平均成本法交易策略，它简单易懂，类似定投的逻辑，适合新手的使用的策略，在下跌中不断倍投加仓拉低均价，价格反弹中可以比普通的定投更快速回本。
 
-#### 通道震荡
+**通道震荡**
 
 通道震荡交易对很多交易者来说更有吸引力，因為它比趋势跟陏策略有更高的胜率，更适合计算自动化交易。即使市场处于既定趋势中，价格回归也经常发生。因此，从通道震荡交易中获利的机会更多。
 
-#### 双向网格合约
+**双向网格合约**
 
 双向网格策略是针对震荡行情可以同时
 做多和做空的合约网格策略。它是在小蚁现货网格Al上延伸而来的策略，可以把双向网格看作两个独立运行5倍杠杆率且方向相反两个网格Al机器人。
 
-#### 网格Al策路
+**网格Al策路**
 
 网格Al交易策略是小蚁团队基于经典网格策路对收益/风险比深度优化的现货震荡交易策略。
 
-#### 智能调仓
+**智能调仓**
 
 智能调仓是按设定比例持有多种现货资产，当持仓价值占比变动超过调仓阈值时，卖出持仓占比较高资产，买入持仓占比较低资产
 使得组合资产持仓占比回归到初始设定。
 
-#### CTA交易策略
+**CTA交易策略**
 
 CTA策略是一种趋势追踪策略，它追涨杀跌顺势而为，在趋势行情获利巨大。
 
@@ -1576,15 +1576,15 @@ CTA策略是一种趋势追踪策略，它追涨杀跌顺势而为，在趋势�
 
 © 2015-2022 AntBot版权所有 实盘数据币coin 微信53585863 微博:小蚁量化机器人
 
-# 附录12，网站文案五
+# 附录12，AntBot 网站文案五
 
 原文链接：https://blog.antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
 
-#### 您的当前位置：首页》联系找们
+**您的当前位置：首页》联系找们**
 
-### [联系我们] 小蚁量化工作室
+**[联系我们] 小蚁量化工作室**
 
-### 发布时间：2022年06月12日 阅读：164 次
+**发布时间：2022年06月12日 阅读：164 次**
 
 官网：antbot.me
 
@@ -1598,46 +1598,17 @@ CTA策略是一种趋势追踪策略，它追涨杀跌顺势而为，在趋势�
 
 Tag：
 
-#### 相关文章
+**相关文章**
 
 [联系我们] 小蚁量化工作室
 
-# 附录13，英文新闻文章一
+# 附录13，印尼爪哇语新闻文章
 
-https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy
-
-# Full-Featured Crypto Automated Trading System, Antbot Launches Relative-Value Trading Strategy
-
-Date 12/2/2022 3:12:43 PM
-
-(MENAFN- Dubai PR Network)
-
-SINGAPORE - **media outreach** - 29 November 2022 - AntBot, a full-featured crypto automated trading system, has officially launched.
-
-
-After several rounds of internal testing, it pioneers the relative-value trading strategy and the first intelligent long-short position management system. Since cryptos entered the bear market, mainstream cryptos have fallen by more than 80%, but AntBot has achieved even a 30% annualized rate of return for users with its relative-value trading strategy and crypto robots.
-AntBot is a leading full-featured crypto automated trading system, composed of well-known VC Institutions and top traders in the crypto field, ranked top 3 in Binance for 6 consecutive quarters of market volume, and is also a deep cooperative market maker with Binance, OKX and Bybit. It has a rich financial operation system and trading experience with a managed capital scale of over $100 million and a service group covering over 200,000 users in more than 100 countries and regions worldwide. It provides comprehensive crypto trading services with AI robots and compound powerful trading strategies.
-About relative-value trading strategy, one of its significant advantages over trend trading, grid trading and the Martingale Strategy is that it is not dependent on the market. Even if the fundamental and technical analysis is in place, it is impossible to predict the exact movement of the market 100%. At such times, market-dependent trading strategies can not make the action of take-profit and stop-loss in time. In the case of insufficient funds, the result is forced liquidation.
-AntBot's relative value strategy, ignoring bullish and bearish markets, uses the same assets, correlation and pricing differences of related assets to open long and short positions to arbitrage, and balancing the riskiness of the portfolio, and has the characteristics of high win percentage and low risk to achieve steady asset growth.
-In the current bear market, AntBot's relative-value strategy is like a duck to water, such as the big event brought by Luna and FTX, where the spread of the same crypto in different exchanges increased and the value of the correlated assets deviated greatly. The relative-value strategy is easy to get a profit from it, and AI automatically operates to open and close position immediately to take profit before the market returns to normal.
-In terms of strategy development, AntBot's relative value strategy screens out crypto pairs with similar attributes for strategy execution by reviewing the transaction big data of the crypto trading market for nearly 10 years and AI analysis of the correlation of global mainstream cryptos. At the same time, it is also verified that the strategy can resist 'black swan' events and multiple system concurrency risks.
-The strategy applies to three situations: the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
-At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market
-However, the relative-value trading strategy has a market issue after many times of verification. Due to the reliance on price trend convergence, this strategy can also cause losses if a small probability event occurs that the price trend does not converge. Of course, the trading market is volatile and no strategy can suit it 100% perfectly. In terms of strategy matching, AntBot carries out diversified strategies in parallel to solve the pain point of the relative-value trading strategy and to reduce the loss brought about by the risk of a single strategy. Diversified strategies in parallel guarantee the safety of users' assets. I always have chips for the next operation to grasp investment opportunities.
-Website:
-Hashtag: #Antbot
-
-The issuer is solely responsible for the content of this announcement.
-
-AntBot
-
-# 附录14，印尼爪哇语新闻文章二
-
-https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/
+原文链接：https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/
 
 [Beranda](https://www.androidponsel.com/) [Aplikasi](https://www.androidponsel.com/aplikasi/) 
 
-# **AntBot Robot Tranding Crypto Gratis Biaya Sewa**
+**AntBot Robot Tranding Crypto Gratis Biaya Sewa**
 
 https://www.androidponsel.com/author/kouple/
 
@@ -1655,11 +1626,9 @@ Sebelum Sobat mencoba Antbot tersebut, kami akan mencoba mengulasnya secara leng
 
 Perlu diketahui, AntBot ini tidak mengenakan biaya sewa, sebagai gantinya aplikasi bot ini menggunakan energy untuk dapat bekerja dari setiap langkah penjualan baik di spot ataupun di features Binance. Energy tersebut menjadi fee dari profit yang akan didapatkan.
 
-
-
 [Biaya Energy AntBot](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Biaya_Energy_AntBot)[Fitur AntBot Robot Tranding Crypto](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Fitur_AntBot_Robot_Tranding_Crypto)[Dukungan AI](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Dukungan_AI)[Transparansi](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Transparansi)[Winner Best New App 2021](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Winner_Best_New_App_2021)[Keamanan](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Keamanan)[Menggunakan AntBot dengan DCA AI](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Menggunakan_AntBot_dengan_DCA_AI)[Cara Daftar AntBot](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Cara_Daftar_AntBot)[Cara Menghubungkan Antbot dengan Binance menggunakan API](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Cara_Menghubungkan_Antbot_dengan_Binance_menggunakan_API)[FAQ](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#FAQ)[Akhir Kata](https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/#Akhir_Kata)
 
-## Biaya Energy AntBot
+**Biaya Energy AntBot**
 
 AntBot punya beberapa pilihan pembelian energy, Anda bisa melihatnya di bawah ini:
 
@@ -1670,33 +1639,33 @@ Antbot dapat digunakan dimarket perdagangan cyrpto terbesar di dunia yaitu Binan
 
 Jika Anda belum mempunyai akun Binance, kami sudah membahasnya secara lengkap[ cara daftar binance](https://www.androidponsel.com/31646/cara-daftar-dan-verifikasi-akun-binance/) hingga melakukan verifikasi dengan mudah.
 
-## Fitur AntBot Robot Tranding Crypto
+**Fitur AntBot Robot Tranding Crypto**
 
 Sebelum Anda benar-benar menggunakan bot trading ada baiknya kenali lebih dalam dari aplikasi bot tersebut termasuk juga dengan AntBot.
 
 Aplikasi ini punya beberapa fitur yang cukup menarik, diantaranya:
 
-### Dukungan AI
+**Dukungan AI**
 
 AntBot dilengkapi dengan program robot AI terbaru, yang melakukan ribuan perhitungan kompleks dalam hitungan detik, ini akan memungkinkan Antrobot untuk memecahkan masalah sendiri tanpa perlu campur tangan manusia.
 
-### Transparansi
+**Transparansi**
 
 Aplikasi ini punya fitur yang dapat melihat semua riwayat kperdagangan dengan tepat waktu.
 
-### Winner Best New App 2021
+**Winner Best New App 2021**
 
 AntBot menjadi applikasi terbaik karena memungkinkan bahkan jika Anda seorang pemula. Bot ANTBOT otomatis kami akan membeli & menjual untuk Anda tanpa gangguan.
 
-### Keamanan
+**Keamanan**
 
 Antbot punya tingkat keamanan yang sangat tinggi. Kami tidak menahan dana Anda. Kami menggunakan system API sehingga Dana Anda akan tetap berada di akun Anda sendiri di bursa kripto Anda. Jika Anda adalah pengguna Binance, dana Anda akan aman berada di Binance.
 
-## Menggunakan AntBot dengan DCA AI
+**Menggunakan AntBot dengan DCA AI**
 
 Untuk pengguna baru, disarankan untuk menggunakan fitur DCA AI, yang mana Antbot akan mengatur secara otomatis settingan dari bot yang akan Anda gunakan. Selain itu DCA AI juga akan menyesuaikan tingkat resiko jika Anda bermain Features. Untuk lebih jelas, panduan Antbot untuk pemula dapat dilihat di[ laman ini](https://antbot.gitbook.io/antbot/).
 
-## Cara Daftar AntBot
+**Cara Daftar AntBot**
 
 Jika tertarik ingin menggunakan AntBot sebagai alat untuk mendapatkan profit maksimal dari crypto, Anda bisa mengikuti langkah untuk cara daftar Antbot di bawah ini:
 
@@ -1705,7 +1674,7 @@ Jika tertarik ingin menggunakan AntBot sebagai alat untuk mendapatkan profit mak
 3. Selanjutnya set password yang aman dan mudah di ingat.
 4. Langkah terakhir silahkan download Aplikasi melalui link yang disediakan, dan mulai melakukan perdagangan crypto di Antbot, tapi sebelumnya pastikan sudah membeli Energy untuk menjalankan bot tersebut.
 
-## Cara Menghubungkan Antbot dengan Binance menggunakan API
+**Cara Menghubungkan Antbot dengan Binance menggunakan API**
 
 Jika Anda menggunakan market Binance, Anda harus menghubungkan Antbot dengan Binance menggunakan API. Sekarang silahkan buka aplikasi Antbot dan masuk ke menu API. (Lihat gambar di bawah ini).
 
@@ -1733,7 +1702,7 @@ Cara Membuat api Binance
 
 Jika API Binance sudah dihubungkan dengan Antbot, sekarang Anda sudah bisa menjalankan perdagangan Crypto dengan menggunakan AI dari aplikasi, pastikan Anda membaca panduan resmi yang sudah kami bagikan dibagian atas.
 
-## FAQ
+**FAQ**
 
 **Apa itu AntBot AI?**
 
@@ -1756,13 +1725,13 @@ Ya!, dana Anda sangat aman dan tetap berada di akun Anda sendiri di bursa Anda j
 Ya, biaya transaksi dibebankan oleh platform dengan menggunakan “Energi”. 100 Energi = 1 USDT / transaksi. Sehingga jika tidak terjadi transaksi maka anda tidak akan dikenankan biaya sama sekali.
 nb : 0,2 Energi x “Nilai Investasi” per transaksi untuk spot dan 0,1 Energi x “Nilai Investasi” per transaksi untuk berjangka.
 
-## Akhir Kata
+**Akhir Kata**
 
 Pastikan Anda mendaftar melalui [Link berikut ini](http://antbot.org/register?code=AF9RZH), hal ini agar kami akan selalu memberikan update terbaru terkait aplikasi dan robot trading crypto terbaru yang tentunya dapat menghasilkan profit yang maksimal untuk Anda.
 
 Bagaimana apakah Anda nampak jelas dengan cara daftar dan menggunakan Antbot ini? Silahkan sampaikan dikomentar.
 
-### Berita Terkait
+**Berita Terkait**
 
 [SnapTik CapCut: Cara Mudah Mengunduh Video TikTok Tanpa Watermark](https://www.androidponsel.com/53432/snaptik-capcut/)
 
@@ -1780,11 +1749,40 @@ Bagaimana apakah Anda nampak jelas dengan cara daftar dan menggunakan Antbot ini
 
 **[Antbot] https://www.androidponsel.com/tag/antbot/ [Robot Trading] https://www.androidponsel.com/tag/robot-trading/ [Robot Trading Crypto] https://www.androidponsel.com/tag/robot-trading-crypto/**
 
-# 附录15，英文新闻文章三
+# 附录14，英文新闻文章一
 
-https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
+原文链接：https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy
 
-# New Generation Expert Advisor AntBot Launches Relative Value Strategy
+**Full-Featured Crypto Automated Trading System, Antbot Launches Relative-Value Trading Strategy**
+
+Date 12/2/2022 3:12:43 PM
+
+(MENAFN- Dubai PR Network)
+
+SINGAPORE - **media outreach** - 29 November 2022 - AntBot, a full-featured crypto automated trading system, has officially launched.
+
+
+After several rounds of internal testing, it pioneers the relative-value trading strategy and the first intelligent long-short position management system. Since cryptos entered the bear market, mainstream cryptos have fallen by more than 80%, but AntBot has achieved even a 30% annualized rate of return for users with its relative-value trading strategy and crypto robots.
+AntBot is a leading full-featured crypto automated trading system, composed of well-known VC Institutions and top traders in the crypto field, ranked top 3 in Binance for 6 consecutive quarters of market volume, and is also a deep cooperative market maker with Binance, OKX and Bybit. It has a rich financial operation system and trading experience with a managed capital scale of over $100 million and a service group covering over 200,000 users in more than 100 countries and regions worldwide. It provides comprehensive crypto trading services with AI robots and compound powerful trading strategies.
+About relative-value trading strategy, one of its significant advantages over trend trading, grid trading and the Martingale Strategy is that it is not dependent on the market. Even if the fundamental and technical analysis is in place, it is impossible to predict the exact movement of the market 100%. At such times, market-dependent trading strategies can not make the action of take-profit and stop-loss in time. In the case of insufficient funds, the result is forced liquidation.
+AntBot's relative value strategy, ignoring bullish and bearish markets, uses the same assets, correlation and pricing differences of related assets to open long and short positions to arbitrage, and balancing the riskiness of the portfolio, and has the characteristics of high win percentage and low risk to achieve steady asset growth.
+In the current bear market, AntBot's relative-value strategy is like a duck to water, such as the big event brought by Luna and FTX, where the spread of the same crypto in different exchanges increased and the value of the correlated assets deviated greatly. The relative-value strategy is easy to get a profit from it, and AI automatically operates to open and close position immediately to take profit before the market returns to normal.
+In terms of strategy development, AntBot's relative value strategy screens out crypto pairs with similar attributes for strategy execution by reviewing the transaction big data of the crypto trading market for nearly 10 years and AI analysis of the correlation of global mainstream cryptos. At the same time, it is also verified that the strategy can resist 'black swan' events and multiple system concurrency risks.
+The strategy applies to three situations: the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
+At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market
+However, the relative-value trading strategy has a market issue after many times of verification. Due to the reliance on price trend convergence, this strategy can also cause losses if a small probability event occurs that the price trend does not converge. Of course, the trading market is volatile and no strategy can suit it 100% perfectly. In terms of strategy matching, AntBot carries out diversified strategies in parallel to solve the pain point of the relative-value trading strategy and to reduce the loss brought about by the risk of a single strategy. Diversified strategies in parallel guarantee the safety of users' assets. I always have chips for the next operation to grasp investment opportunities.
+Website:
+Hashtag: #Antbot
+
+The issuer is solely responsible for the content of this announcement.
+
+AntBot
+
+# 附录15，英文新闻文章二
+
+原文链接：https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
+
+**New Generation Expert Advisor AntBot Launches Relative Value Strategy**
 
 AntBot
 
@@ -1808,11 +1806,125 @@ AntBot website : [https://www.antrade.io](https://www.globenewswire.com/Tracker?
 
 CONTACT: Michael Musk AntBot business -at- antrade.io
 
-# 附录17，英文新闻文章五
+# 附录16，英文新闻文章三
 
-https://sg.finance.yahoo.com/news/antbot-full-featured-crypto-automated-040000752.html
+原文链接：https://sg.finance.yahoo.com/news/antbot-full-featured-crypto-automated-040000752.html
 
-# 附录16，英文新闻文章四
+**AntBot, a Full-featured Crypto Automated Trading System, Launched Relative-value Trading Strategy**
 
-https://fsr-develop.com/antbot-ai-review
+AntBot
+
+29 November 2022·4-min read
+
+SINGAPORE - [**Media OutReach**](https://www.media-outreach.com/) - 29 November 2022 - AntBot, a full-featured crypto automated trading system, has officially launched.
+
+
+After several rounds of internal testing, it pioneers the relative-value trading strategy and the first intelligent long-short position management system. Since cryptos entered the bear market, mainstream cryptos have fallen by more than 80%, but AntBot has achieved even a 30% annualized rate of return for users with its relative-value trading strategy and crypto robots.
+
+AntBot is a leading full-featured crypto automated trading system, composed of well-known VC Institutions and top traders in the crypto field, ranked top 3 in Binance for 6 consecutive quarters of market volume, and is also a deep cooperative market maker with Binance, OKX and Bybit. It has a rich financial operation system and trading experience with a managed capital scale of over $100 million and a service group covering over 200,000 users in more than 100 countries and regions worldwide. It provides comprehensive crypto trading services with AI robots and compound powerful trading strategies.
+
+About relative-value trading strategy, one of its significant advantages over trend trading, grid trading and the Martingale Strategy is that it is not dependent on the market. Even if the fundamental and technical analysis is in place, it is impossible to predict the exact movement of the market 100%. At such times, market-dependent trading strategies can not make the action of take-profit and stop-loss in time. In the case of insufficient funds, the result is forced liquidation.
+
+AntBot's relative value strategy, ignoring bullish and bearish markets, uses the same assets, correlation and pricing differences of related assets to open long and short positions to arbitrage, and balancing the riskiness of the portfolio, and has the characteristics of high win percentage and low risk to achieve steady asset growth.
+
+In the current bear market, AntBot's relative-value strategy is like a duck to water, such as the big event brought by Luna and FTX, where the spread of the same crypto in different exchanges increased and the value of the correlated assets deviated greatly. The relative-value strategy is easy to get a profit from it, and AI automatically operates to open and close position immediately to take profit before the market returns to normal.
+
+In terms of strategy development, AntBot's relative value strategy screens out crypto pairs with similar attributes for strategy execution by reviewing the transaction big data of the crypto trading market for nearly 10 years and AI analysis of the correlation of global mainstream cryptos. At the same time, it is also verified that the strategy can resist "black swan" events and multiple system concurrency risks.
+
+The strategy applies to three situations: the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
+
+At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market
+
+However, the relative-value trading strategy has a market issue after many times of verification. Due to the reliance on price trend convergence, this strategy can also cause losses if a small probability event occurs that the price trend does not converge. Of course, the trading market is volatile and no strategy can suit it 100% perfectly. In terms of strategy matching, AntBot carries out diversified strategies in parallel to solve the pain point of the relative-value trading strategy and to reduce the loss brought about by the risk of a single strategy. Diversified strategies in parallel guarantee the safety of users' assets. I always have chips for the next operation to grasp investment opportunities.
+
+Hashtag: #AntBot
+
+The issuer is solely responsible for the content of this announcement.
+
+# 附录17，英文新闻文章四
+
+原文链接：https://fsr-develop.com/antbot-ai-review
+
+**ANTBOT AI REVIEW | BEGINNER'S FRIENDLY GUIDE**
+
+**AntBot AI is a cryptocurrency bot platform featuring AI-powered trading algorithms. Focused on algo trading, the platform doesn’t allow you to tweak the bots manually. In this review, we’ll look into the platform’s functionality, as well as its connections and prices.**
+
+**Attention!** This article is for informational purposes only and does not contain recommendations or calls to action.
+
+The review has been prepared by the CScalp terminal team. You can get CScalp by leaving your e-mail in the form below.
+
+GET FOR FREE
+
+By clicking the 'Get for Free' button, you agree to the 'Privacy Policy'
+
+Content
+
+AntBot AI functionality
+Algorithmic trading on AntBot AI
+Smart coverage
+View trading results
+Risk Assessment: the “Position” tab
+News section
+Connections and prices
+Conclusion
+
+**AntBot AI functionality**
+
+**AntBot AI** offers quantitative arbitrage solutions and a management system specifically cut out for the secondary crypto asset market.
+
+There are no standard exchange instruments (depth chart, etc.) in the service. The trading process is fully automated and can be monitored in real-time.
+
+The platform has integrated tools for gathering statistics. The trading history is saved automatically, and you can view the detailed transaction history with timestamps. The cryptocurrency bots on AntBot AI support both spot and futures and can connect to 3 major crypto exchanges (**Binance, Huobi Global, OKEx**) via respective API keys.
+
+**Algorithmic trading on AntBot AI**
+
+Right after signing up on the **website**(http://www.antbot-ai.org/), you can access the control panel.
+
+There are four algorithms to choose from:
+
+**DCA (Dollar-cost averaging)** — This trading strategy is based on entering the market at set time intervals. Assets are purchased in small chunks at different points in time at different prices, resulting in a reduced risk from the best average price.
+
+**DCA AI** — Same as DCA, but this time with automatic adjustment of parameters according to market signals.
+
+**Grid bot** — Profit with minimal effort. After choosing a crypto asset and the starting amount of funds, the bot makes grid purchases when the price decreases and sells when it goes up.
+
+**Interval arbitrage** — An cross-exchange arbitrage trading bot that tracks fluctuations in the price of a crypto asset across two markets. The robot is constantly monitoring the performance of an asset across set markets and automatically finds the best entry points.
+
+**Note**: To activate cryptocurrency bots on AntBot AI, you first need to top up your internal balance.
+
+**Smart coverage**
+
+The platform offers a smart coverage feature. When the market suddenly falls or rises, the AntBot AI cryptocurrency bot stops buying coins for averaging up or averaging down. This is done to keep the trader's capital safe. The bot will wait for the market to change direction before it continues averaging. This feature can be invaluable in the case of deep market uncertainty.
+
+**View trading results**
+
+The platform workspace tracks the results of the bots’ trading. You can view and filter buy and sell positions by date, time, and their prices (opening & closing) in USDT. The last column displays the total value of profit and loss (PNL).
+
+**Risk Assessment: the “Position” tab**
+
+Clicking on the **Position** tab will give you a picture of the current risk for all open positions in both the spot and futures markets. Risk values are displayed as percentages and are assessed as “high” or “low” based on your portfolio.
+
+**News section**
+
+The section contains news & announcements related to new crypto exchanges and other digital assets trading platforms.
+
+**Connections and prices**
+
+AntBot AI can connect to **Binance**, **Huobi Global**, and **OKX**. To trade with AntBot AI, you need to fund your account with at least 100 USDT (TRC-20). These funds can be used to pay the bot's trading fees. All trading capital is stored on your trading account of the connected cryptocurrency exchange. The robot can only open and close deals without directly accessing and being able to withdraw your funds. The minimum trading capital is **200 USD**.
+
+The user is charged a fee only when selling a position. For the spot market, the transaction fee is **0.2%** of the transaction amount. For futures, it’s **0.1%** of the transaction value.
+
+**Conclusion**
+
+AntBot AI is well-suited for novice algo traders without experience in setting up trading robots and any prior crypto trading skills. It’s fairly user-friendly and offers pre-set strategies that can help you set up your first trading bots. The software code of the product has not yet been disclosed.
+
+**Trader’s Chat**
+
+Join our [**official trader’s chat**](https://t.me/cscalp_ENG). Here you can communicate with traders, find trading soulmates and discuss market. See you in [**our chat**](https://t.me/cscalp_crypto_EN)!
+
+Don't forget to subscribe our [**official CScalp news channel**](https://t.me/trading_cryptoscalp), [**trader signals**](https://t.me/daytrader_signals_EN) and get to know our [**bot**](https://t.me/CScalp_bot).
+
+If something is not clear, just contact support via Telegram [**@CScalp_support_bot**](https://t.me/CScalp_support_bot), you will get an answer in couple of seconds.
+
+You can also visit our [**Discord channel**](https://discord.gg/9AvmNwVQUJ) or subscribe to the [**CScalp TV YouTube channel**](https://www.youtube.com/channel/UCPNZia9Cm8hSCKk7SCvI18w/featured).
 
