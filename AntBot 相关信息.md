@@ -132,10 +132,6 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 [https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1](https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1) - 微信公众号 - yaobi_vip 妖币研习社 - 此文章已被删除
 
-
-
-
-
 # 五，AntBot 国内社交媒体
 
 ### 1，嫌疑人吴优芮相关信息：
@@ -458,7 +454,7 @@ Android APK 直接下载链接：
 
 http://ant-robot.oss-cn-shenzhen.aliyuncs.com/ant/install/android/antbot.apk
 
-
+https://ant-robot.oss-cn-shenzhen.aliyuncs.com/ant/install/android/antbot.apk
 
 宣传视频1下载：
 
@@ -486,7 +482,9 @@ https://antbot.org/register?code=P1OB3E - P1OB3E
 
 https://www.okex.com/join/10891423 - 10891423
 
-https://www.okx.com/join/3682381 - 3682381
+https://www.okx.com/join/3682381 - 3682381
+
+https://www.okx.com/cn/join/30630953 - 30630953
 
 #### 网站上的 Binance 邀请码：
 
@@ -496,9 +494,13 @@ https://accounts.binance.com/en/register?ref=116330605 - 116330605
 
 https://accounts.binancezh.top/zh-CN/register?ref=C0QWJ3K6 - C0QWJ3K6
 
+https://accounts.binance.com/en/register?ref=532923074 - 532923074
+
 #### 网站上的 ByBit 邀请码：
 
 https://www.bybit.com/en-US/invite?ref=5QVO6R - 5QVO6R
+
+https://www.bybit.com/en-US/invite?ref=7O80J8 - 7O80J8
 
 #### 网站上的 HuoBi 邀请码：
 
@@ -507,6 +509,12 @@ https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite
 inviter_id - 11345710
 
 invite_code - bvkh5223
+
+https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=ek9p6223
+
+inviter_id - 11345710
+
+invite_code - ek9p6223
 
 #### 网站上的 KuCoin 邀请码：
 
@@ -518,7 +526,21 @@ https://www.gate.io/signup/13095293 - 13095293
 
 #### 网站上的 BitGet 邀请码：
 
-https://partner.bitget.com/bg/N9ET26 - N9ET26
+https://partner.bitget.com/bg/N9ET26 - N9ET26
+
+
+
+https://web.archive.org/web/20220512160618/https://antbot.org/download/en
+
+
+
+
+
+
+
+
+
+
 
 # 九，AntBot 相关组织：
 
@@ -1406,3 +1428,28 @@ https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/
 https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
 
 https://fsr-develop.com/antbot-ai-review
+
+
+
+## Application Introduction
+
+小蚁EA, The English name is ANTBOT, which is a digital currency intelligent trading robot tool APP.
+ANTBOT was born in 2020 and is one of the top tools for quantitative trading of digital currencies in the world. It is headquartered in Shenzhen, China and radiates the global market.
+ANTBOT focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
+
+## Application Introduction
+
+https://web.archive.org/web/20220512160618/https://antbot.org/download/en
+
+AntBot is an intelligent crypto trading tools.
+AntBot advantages:
+
+1\. The team started in 2017 and has now become one of the top three quantitative trading partners of Binance in the world.
+
+2\. Encapsulate sophisticated algorithms into 10+ intelligent robots according to market conditions, making them easy to use.
+
+3\. AntBot has a very low threshold for use, no registration code fee, no annual fee.
+
+AntBot pioneered an intelligent position management system, a hedge futures arbitrage system，and is one of the top tools for quantitative trading of digital currencies in the world.
+
+AntBot focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
