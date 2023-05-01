@@ -4,6 +4,8 @@
 
 https://github.com/guhhhhaa/antbot-binance-weiquan
 
+https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip - 直下ZIP压缩包
+
 # 一，AntBot 邮箱
 
 1，【AntBot 邮箱1】- business@antrade.io - 推荐，很可能回复，邮箱显示用户名“Alice From AntBot”
