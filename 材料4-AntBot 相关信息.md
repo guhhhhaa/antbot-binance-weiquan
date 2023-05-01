@@ -72,111 +72,7 @@ https://www.antrade.io/ 有快照，访问链接 [https://web.archive.org/web/*
 
 https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
 
-# 四，AntBot 相关新闻链接
-
-#### 1，龙娟和小蚁机器人新闻信息
-
-标题：让小蚁量化炒币机器人带您走上全自动的轻松致富之路
-
-https://www.zhiguf.com/focusnews_detail/258397 - 指股网 - 自动备份
-
-https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
-
-原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
-
-#### 2，小蚁机器人相关微信公众号信息
-
-标题：小蚁AI炒币机器人交易理论详解
-
-[https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1](https://mp.weixin.qq.com/s?src=11&timestamp=1682912318&ver=4501&signature=Y6Gbag9ZpqyIgGFJg6hQiuAKDPN-03FD*UBnKl0aShJC7SLJOmFZ81QilpENSEm4YqqAjDogYp10-IgMywPmHUaWJY0SrTBvHVBI9hHzpcYzr6gFXlpZ2j7SsYVy4LWi&new=1) - 微信公众号 - yaobi_vip 妖币研习社 - 此文章已被删除
-
-#### 3，小蚁机器人相关百度贴吧信息
-
-https://tieba.baidu.com/p/7690502917 - 百度贴吧
-
-https://tieba.baidu.com/p/7691388773?pid=142813576424&cid=#142813576424 - 分享链接1
-
-https://tieba.baidu.com/p/7701399012?pid=142914516619&cid=#142914516619 - 分享链接2
-
-https://tieba.baidu.com/p/7701400633?pid=142914533399&cid=#142914533399 - 分享链接3
-
-https://tieba.baidu.com/p/7744890631?pid=143320676076&cid=#143320676076 - 分享链接4
-
-https://tieba.baidu.com/p/7766971651?pid=143527173164&cid=#143527173164 - 分享链接5
-
-#### 4，小蚁机器人相关经管之家信息
-
-https://bbs.pinggu.org/thread-10642141-1-1.html - 经管之家
-
-#### 5，龙娟和享抱团新闻信息
-
-标题：精英专访第四期：龙娟老师和她的享抱团联盟
-
-https://www.sohu.com/a/444521875_120864833 - 搜狐网
-
-https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
-
-#### 6，龙娟和淘小铺新闻信息
-
-标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
-
-https://mp.weixin.qq.com/s/VDIqKXGsZTu5WtjbYtC7RQ - 微信公众号 - 个创家
-
-https://www.sohu.com/a/428416683_120864833 - 搜狐
-
-https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
-
-标题：电商平台淘小铺运营商涉嫌传销，被冻结资产4400万元
-
-https://m.jiemian.com/article/4621739_qq.html
-
-标题：2020阿里巴巴淘小铺千人峰会杭州站
-
-http://www.weishangnews.com/m/view.php?aid=23480
-
-#### 7，龙娟新闻信息
-
-标题：专访龙娟-社交电商学会做人最重要
-
-https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
-
-https://www.sohu.com/a/420787769_120864833 - 搜狐
-
-https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
-
-#### 8，龙娟百度贴吧信息
-
-百度贴吧相关贴子：https://tieba.baidu.com/p/6552722397
-
-证明了此百度贴吧账号是龙娟：https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
-
-#### 9，云萃保和中联金安新闻信息
-
-标题：以“532基本法”布局保险行业，云粹保APP以何吸引群众关注？
-
-https://card.weibo.com/article/m/show/id/2309404585692012347671 - 头条文章 - 反传防骗粉灵魂
-
-https://www.163.com/dy/article/FUKJIDSD0534GWL4.html - 网易
-
-https://www.shilian.com/zixun/350144.html - 世链财经 - 需要使用VPN访问
-
-https://www.shilian.com/top/350144.html - 世链财经 - 正常访问
-
-http://m.chapianju.com/news/biquanzijinpan/202012/6517.html - 防骗网
-
-http://www.fcxzc110.com/yujingpuguang/1916.html - 中国反传销之窗网
-
-https://www.110cx.com/a/wzsw/20201224/3694.html - 传销举报中心
-
-腾讯新闻链接 - 已经被删除
-
-#### 10，中联金安新闻信息
-
-标题：近年来处罚事件不绝于耳，中联金安保险经纪有限公司现状如何？|中联|保险|保险公司|保险法|经纪有限公司|金安_手机网易网
-
-https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
-
-# 五，AntBot 国内社交媒体
+# 四，AntBot 国内社交媒体
 
 ### 1，嫌疑人吴优芮相关信息：
 
@@ -647,9 +543,13 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 # 十一，AntBot 团队地址位于：
 
-1，中国浙江杭州。（通过新闻信息）
+### 1，中国浙江杭州。（通过新闻信息）
 
-2，中国广东深圳。（通过网站信息）
+杭州天骄劳务服务有限公司 - 浙江省杭州市钱塘区下沙街道财通中心801-1室
+
+杭州天之骄教育科技有限公司 - 浙江省杭州经济技术开发区元成恒盛大楼5幢703室
+
+### 2，中国广东深圳。（通过网站信息）
 
 # 十二，相关公司信息
 
