@@ -122,13 +122,19 @@ https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org
 
 ### 1-3，AntBot 海外社交媒体
 
-社交媒体1 - Youtube - www.youtube.com/@antradeio
+社交媒体1-1 - Youtube - https://youtube.com/@antradeio
+
+社交媒体1-2 - Youtube - https://youtube.com/@antbot_cn
+
+这两个是官方账号
 
 社交媒体2 - Twitter - https://twitter.com/antrade_io
 
 社交媒体3-1 - Facebook - https://www.facebook.com/antbot.org - AntBot
 
 社交媒体3-2 - Facebook - https://www.facebook.com/p/AntBot-Auto-BOT-Fututures-Binance-Trade/ 或 https://www.facebook.com/profile.php?id=100077487474189 - AntBot Auto BOT Fututures Binance Trade
+
+社交媒体3-3 https://www.facebook.com/ANTBOTAI - Antbot AI
 
 社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
@@ -150,7 +156,43 @@ https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org
 
 社交媒体13 - 币安广场 - 中文 - https://www.binance.com/zh-CN/feed/profile/65248232 - 小蚁-免费的币安量化交易系统 - 已关闭
 
-社交媒体14 - 币安广场 - 英文 - https://www.binance.com/en/feed/profile/58344027 - AntBot - A Free Trading Tool of Binance - 已关闭
+社交媒体14 - 币安广场 - 英文 - https://www.binance.com/en/feed/profile/58344027 - AntBot - A Free Trading Tool of Binance - 已关闭
+
+其他推广 AntBot 的 Youtube 账号：
+
+https://youtube.com/@abiidabidoo - AntradeBotAdventures
+
+https://youtube.com/@XavitarOne - Xavitar
+
+https://youtube.com/@BroEdyFinance - Bro Edy
+
+https://youtube.com/@cryptocointradingwithedy9001 - Crypto Coin Trading with Edy
+
+https://youtube.com/@Fabiovalentefv - Fabio Valente
+
+https://youtube.com/@D0cCrypto - D0c Crypto
+
+https://youtube.com/@DiDiChanell - DiDi Chanel
+
+https://youtube.com/@harryonoChannel92 - harryono Channel
+
+https://youtube.com/@HelpTimes - Pro Tech Tips 
+
+https://youtube.com/@TjandraTedja - Tjandra Tedja
+
+https://youtube.com/@TechInTwi - Tech In Twi 
+
+https://youtube.com/@YanIwan86 - Yan Iwan #86
+
+https://youtube.com/@MRBoomTech - MR BoomTech
+
+https://youtube.com/@cryptomarg - Crypto Marg
+
+https://youtube.com/@CRYPTOBOTAN - CRYPTO BOTAN
+
+https://youtube.com/@TOPCRYPTO2023 - CRYPTO MANIACO
+
+https://youtube.com/@EduNogs - Edu Nogs
 
 ### 1-4，受害人王天佑对信息的分析，备注，总结
 
@@ -425,7 +467,9 @@ https://antbot.org/register?code=ZSZOWZ - ZSZOWZ
 
 https://antbot.org/register?code=4kqtNK - 4kqtNK
 
-https://antbot.org/register?code=P1OB3E - P1OB3E
+https://antbot.org/register?code=P1OB3E - P1OB3E
+
+https://www.antrade.io/4Y6JQT - 4Y6JQT
 
 #### 网站上的 OKEX 和 OKX 邀请码：（OKX 交易所 是 OKEX 交易所品牌升级后的名称）
 
