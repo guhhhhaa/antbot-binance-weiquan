@@ -22,9 +22,9 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 6，AntBot 隐藏邮箱7 - 53585863@qq.com
 
-7，AntBot 印尼电话：tel: +62 8114485790（+62是印度尼西亚共和国）
+7，AntBot 印尼电话：tel：+62 8114485790（+62是印度尼西亚共和国）
 
-8，AntBot 印尼电话：tel: +62 81223888167（+62是印度尼西亚共和国）
+8，AntBot 印尼电话：tel：+62 81223888167（+62是印度尼西亚共和国）
 
 # 二，AntBot 网站
 
@@ -74,25 +74,85 @@ https://www.antrade.io/ 有快照，访问链接 [https://web.archive.org/web/*
 
 https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
 
-# 四，AntBot 国内社交媒体
+# 四，AntBot 社交媒体信息
 
-### 1，嫌疑人吴优芮相关信息：
+##  1，嫌疑人社交媒体
 
-1-1，社交媒体 - QQ - 男1：53585863
+### 1-1，吴优芮社交媒体
 
-1-2，社交媒体 - 微信 - 男2：AntBot_me（微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系他被删好友后1小时内删除）
+1-1，QQ - 男1：53585863
 
-1-3，社交媒体 - 微信 - 男3：antbot_org（该用户不存在，删除时间未知）
+1-2，微信 - 男2：AntBot_me（微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系他被删好友后1小时内删除）
 
-1-4，社交媒体：微博：小蚁量化机器人 https://weibo.com/u/7750863098
+1-3，微信 - 男3：antbot_org（该用户不存在，删除时间未知）
+
+1-4，微博：小蚁量化机器人 https://weibo.com/u/7750863098
 
 （微博图片知，官网为：https://antbot.me/，与微信号 AntBot_me 一致）
 
-相关微博信息：https://weibo.com/7750863098/M7hM5jniW 2022-9-24 来自 iPhone 8 官网: AntBot.me 
+相关微博信息：https://weibo.com/7750863098/M7hM5jniW 2022-9-24 来自 iPhone 8 官网：AntBot.me 
 
-1-5，社交媒体：币Coin：小蚁量化机器人 http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
+1-5，币Coin：小蚁量化机器人 http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
 
-#### 受害人王天佑备注
+### 1-2，龙娟社交媒体
+
+2-1，微信 - longjuan2001314（微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除）
+
+2-2，微信 - pinganlongjuan（微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除）
+
+2-3，微博 - 享抱团联盟云萃保龙娟导师 https://weibo.com/u/7049285685 ，
+
+微博简介：V:longjuan2001314开公司13年，互联网经验5年，帮助更多的人成功是我的梦想
+
+微博内容中也有另一个微信号 - pinganlongjuan
+
+微博头像：是龙娟本人照片
+
+2-4，百度贴吧 - longjuan131455 https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+
+相关贴子：https://tieba.baidu.com/p/6552722397
+
+2-5，Telegram - Alice：https://t.me/AntbotJ （这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
+
+2-6，喜马拉雅 - 卫康百元新零售小龙女 - https://mhera.ximalaya.com/zhubo/223275738
+
+简介：创业11年杭州上千平方场地 互联网营销6年擅长培训搭建系统和引流
+
+头像：照片是龙娟本人照片
+
+### 1-3，AntBot 海外社交媒体
+
+社交媒体1：Youtube：www.youtube.com/@antradeio
+
+社交媒体2：Twitter：https://twitter.com/antrade_io
+
+社交媒体3：Facebook：https://www.facebook.com/antbot.org
+
+社交媒体4：Telegram账户 - Antbot EA - 小蚁AI：https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
+
+社交媒体5：Telegram账户 - Alice：https://t.me/AntbotJ （这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。）
+
+社交媒体6：Telegram账户 - Ants Support：https://t.me/antbotsupport/
+
+社交媒体7：Telegram群组：https://t.me/antbot_cta
+
+社交媒体8：Telegram群组：https://t.me/antbot_ai
+
+社交媒体9：Telegram群组：https://t.me/AntbotSupportOfficial
+
+社交媒体10：Telegram群组：https://t.me/AntBotQuantify
+
+社交媒体11：Telegram群组：https://t.me/AntBotIndonesia
+
+社交媒体12：Telegram群组：https://t.me/antbot_official（已关闭）
+
+社交媒体13：币安广场-中文：https://www.binance.com/zh-CN/feed/profile/65248232（已关闭）
+
+社交媒体14：币安广场-英文：https://www.binance.com/en/feed/profile/58344027（已关闭）
+
+### 1-4，受害人王天佑对信息的分析，备注，总结
+
+#### 1-4-1 受害人王天佑对吴优芮信息的备注
 
 受害人王天佑备注：从QQ号搜索得到微信号。
 
@@ -104,33 +164,7 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 
 受害人王天佑备注：此人性别是男性。
 
-### 2，嫌疑人龙娟相关信息
-
-2-1，社交媒体 - 微信 - longjuan2001314（微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除）
-
-2-2，社交媒体 - 微信 - pinganlongjuan（微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除）
-
-2-3，社交媒体 - 微博 - 享抱团联盟云萃保龙娟导师 https://weibo.com/u/7049285685 ，
-
-简介：V:longjuan2001314开公司13年，互联网经验5年，帮助更多的人成功是我的梦想
-
-微博内容中也有另一个微信号 - pinganlongjuan
-
-头像：是龙娟本人照片
-
-2-4，社交媒体 - 百度贴吧 - longjuan131455 https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
-
-相关贴子：https://tieba.baidu.com/p/6552722397
-
-2-5，社交媒体 - Telegram - Alice：https://t.me/AntbotJ （这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
-
-2-6，社交媒体 - 喜马拉雅 - 卫康百元新零售小龙女 - https://mhera.ximalaya.com/zhubo/223275738
-
-简介：创业11年杭州上千平方场地 互联网营销6年擅长培训搭建系统和引流
-
-头像：照片是龙娟本人照片
-
-#### 受害人王天佑备注
+#### 1-4-2-1 龙娟信息，受害人王天佑备注
 
 受害人王天佑备注：从 pinganlongjuan 微信信息可推知，此人姓名是：龙娟，因为前缀是pingan，是“平安”的拼音，而且从新闻信息推知，“云萃保”是一种保险，从“平安+保险”的信息组合，以及保险从业人员微信名的行业惯例，可推断其曾在中国平安保险公司工作过。通过微博信息相关图片，进一步佐证了龙娟女士曾在中国平安保险公司工作过。
 
@@ -154,7 +188,9 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 
 受害人王天佑备注：此人性别是女性。
 
-### 龙娟的个人信息总结
+受害人王天佑备注：中国平安保险公司的slogan，曾经是“专业 · 价值”，后来改为“保险 · 银行 · 投资”，后来改为“金融 · 科技”，目前又改为“专业 · 价值”。龙娟女士在“享抱团联盟帮扶政策”中，提到的“专业，价值”，也佐证了其在中国平安保险公司工作过。
+
+#### 1-4-2-2 从各个社交媒体获得的龙娟个人信息总结
 
 1，籍贯：四川省，未知？市。（身份证号前六位：51????）
 
@@ -187,11 +223,11 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 - 吉悠联席经销商
 - 卫康百元新零售
 
-### 图片信息总结
+#### 1-4-2-3 龙娟的图片信息总结
 
 受害人王天佑备注：新闻和微博中的图片包含以下信息：
 
-#### 图片一
+##### 1-4-2-3-1 龙娟的图片一
 
 龙娟
 
@@ -208,14 +244,14 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 - 云萃保商学院培训师
 - 百万系统营销策划导师
 
-#### 图片二
+##### 1-4-2-3-2 龙娟的图片二
 
 龙娟
 
 - 枫叶联盟，社群爆破创始人
   
 
-#### 图片三
+##### 1-4-2-3-3 龙娟的图片三
 
 - 享抱团联盟帮扶政策
 
@@ -225,7 +261,7 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
   价值
   服务
 
-#### 图片四
+##### 1-4-2-3-4 龙娟的图片四
 
 龙娟
 
@@ -236,8 +272,6 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 
 - 夭骄劳务董事长
 - 天骄教育创始人
-
-受害人王天佑备注：中国平安保险公司的slogan，曾经是“专业 · 价值”，后来改为“保险 · 银行 · 投资”，后来改为“金融 · 科技”，目前又改为“专业 · 价值”。龙娟女士在“享抱团联盟帮扶政策”中，提到的“专业，价值”，也佐证了其在中国平安保险公司工作过。
 
 # 五，AntBot 监守自盗的证据总结
 
@@ -345,35 +379,7 @@ QQ所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你�
 
 15，【事后行为——掩饰隐瞒，销毁证据，推卸责任】发生盗币事件后，AntBot 有掩饰隐瞒，销毁证据，推卸责任的做法，加深了 AntBot 监守自盗的嫌疑。
 
-# 六，AntBot 国外社交媒体
-
-社交媒体1：Youtube: www.youtube.com/@antradeio
-
-社交媒体2：Twitter: https://twitter.com/antrade_io
-
-社交媒体3：Facebook: https://www.facebook.com/antbot.org
-
-社交媒体4：Telegram账户 - Antbot EA - 小蚁AI：https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
-
-社交媒体5：Telegram账户 - Alice：https://t.me/AntbotJ （这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。）
-
-社交媒体6：Telegram账户 - Ants Support：https://t.me/antbotsupport/
-
-社交媒体7：Telegram群组: https://t.me/antbot_cta
-
-社交媒体8：Telegram群组: https://t.me/antbot_ai
-
-社交媒体9：Telegram群组: https://t.me/AntbotSupportOfficial
-
-社交媒体10：Telegram群组: https://t.me/AntBotQuantify
-
-社交媒体11：Telegram群组:  https://t.me/antbot_official（已关闭）
-
-社交媒体12：币安广场-中文: https://www.binance.com/zh-CN/feed/profile/65248232（已关闭）
-
-社交媒体13：币安广场-英文: https://www.binance.com/en/feed/profile/58344027（已关闭）
-
-# 七，下载链接：
+# 六，AntBot 相关文件下载链接：
 
 苹果 IOS TestFlight 下载链接：
 
@@ -399,7 +405,7 @@ https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/
 
 https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
-# 八，AntBot 网站上的相关邀请码和邀请链接
+# 七，AntBot 网站上的相关邀请码和邀请链接
 
 ### 注：警方可以去交易所，查KYC信息。
 
@@ -463,7 +469,7 @@ https://www.gate.io/signup/13095293 - 13095293
 
 https://partner.bitget.com/bg/N9ET26 - N9ET26
 
-# 九，AntBot 相关组织：
+# 八，AntBot 相关组织
 
 1，“小蚁量化工作室”（直接，从 https://antbot.me/ 网站了解的）
 
@@ -477,7 +483,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 6，中联金安保险经纪有限公司（“享抱团”现在推广，和“云萃保”有关的）
 
-# 十，AntBot APP曾用名和组织曾用名：
+# 九，AntBot APP曾用名和组织曾用名
 
 1，小蚁
 
@@ -543,7 +549,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 32，NewBee
 
-# 十一，AntBot 团队地址位于：
+# 十，AntBot 团队地址位于：
 
 ### 1，中国浙江杭州。（通过新闻信息）
 
@@ -553,7 +559,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 ### 2，中国广东深圳。（通过网站信息）
 
-# 十二，相关公司信息
+# 十一，相关公司信息
 
 ## 1，浙江云萃保科技有限公司 
 
@@ -732,7 +738,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 - 电子邮箱：821002127@qq.com
 - 邮政编码：510000
 
-# 十三，AntBot 相关 IP 地址 - ZoomEye 钟馗之眼
+# 十二，AntBot 相关 IP 地址 - ZoomEye 钟馗之眼
 
 101.36.117.216 165.154.41.100 36.255.222.23 165.154.60.7 101.36.127.124 101.36.108.79 122.10.161.141 165.154.60.119 165.154.44.65 
 
@@ -748,7 +754,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 975032018-08-29高危OpenSSH 2.3 < 7.7 - Username Enumeration(CVE-2018-15473)...
 
-928222017-03-23中危OpenSSH on Cygwin: directory traversal in SFTP client
+928222017-03-23中危OpenSSH on Cygwin：directory traversal in SFTP client
 
 925822016-12-21中危OpenSSH 安全认证绕过漏洞（CVE-2016-10012）
 
@@ -792,7 +798,7 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 976332018-10-30高危ACME Mini_httpd组件任意文件读取漏洞(CVE-2018-18778)
 
-965562017-09-20高危Apps industrial OT over Server: Anti-Web Local File Incl...
+965562017-09-20高危Apps industrial OT over Server：Anti-Web Local File Incl...
 
 #### ftp
 
@@ -848,7 +854,7 @@ Windows 10/Windows Server 2019
 
 45102
 
-# 十四，AntBot 相关链接 -  ZoomEye 钟馗之眼 
+# 十三，AntBot 相关链接 -  ZoomEye 钟馗之眼 
 
 https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ https://en.antrobotai.info/ https://zh.antrobotai.info/ https://vi.antrobotai.info/ https://de.antrobotai.info/ https://nl.antrobotai.info/ https://antbot.me/ https://ea.antbot.org/ https://www.antbot.org/ https://goldquant.club/ https://www.newbee.asia/
 
@@ -910,7 +916,7 @@ ucloud.cn
 
 15169
 
-# 十五，其他相关可能开发人员信息
+# 十四，其他相关可能开发人员信息
 
 1，17166570219（空号）
 
@@ -958,7 +964,7 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 # 附录，信息原文
 
-# 附录目录
+# 一，附录目录
 
 # 附录1，龙娟与小蚁关联信息
 
@@ -1128,7 +1134,7 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 标题：**ANTBOT AI REVIEW | BEGINNER'S FRIENDLY GUIDE**
 
-# 附录正文
+# 二，附录正文
 
 # 附录1，龙娟与小蚁关联信息
 
@@ -1168,7 +1174,7 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 所有参数,开启或关闭完全由自己决定,资产也是在自己的交易所账户里,机器人无法动用。真正做到安全,省心,快捷。
 
-小蚁量化机器人交易优势: 
+小蚁量化机器人交易优势：
 
 1、克服人性的弱点,没有贪婪和恐惧,纪律性强、严格执行投资策略,不受投资者情绪的变化而随意更改。 
 
@@ -2075,7 +2081,7 @@ Ya!, dana Anda sangat aman dan tetap berada di akun Anda sendiri di bursa Anda j
 **Apakah AntBot AI memungut biaya?**
 
 Ya, biaya transaksi dibebankan oleh platform dengan menggunakan “Energi”. 100 Energi = 1 USDT / transaksi. Sehingga jika tidak terjadi transaksi maka anda tidak akan dikenankan biaya sama sekali.
-nb : 0,2 Energi x “Nilai Investasi” per transaksi untuk spot dan 0,1 Energi x “Nilai Investasi” per transaksi untuk berjangka.
+nb ：0,2 Energi x “Nilai Investasi” per transaksi untuk spot dan 0,1 Energi x “Nilai Investasi” per transaksi untuk berjangka.
 
 **Akhir Kata**
 
@@ -2085,17 +2091,17 @@ Bagaimana apakah Anda nampak jelas dengan cara daftar dan menggunakan Antbot ini
 
 **Berita Terkait**
 
-[SnapTik CapCut: Cara Mudah Mengunduh Video TikTok Tanpa Watermark](https://www.androidponsel.com/53432/snaptik-capcut/)
+[SnapTik CapCut：Cara Mudah Mengunduh Video TikTok Tanpa Watermark](https://www.androidponsel.com/53432/snaptik-capcut/)
 
 [10 Cara Menghasilkan Uang 500rb Sehari Secara Online](https://www.androidponsel.com/53371/cara-menghasilkan-uang-500rb-sehari/)
 
-[VidHot APK: Aplikasi Tempat Mencari Konten Bokeh Viral untuk Dewasa](https://www.androidponsel.com/53307/vidhot-apk/)
+[VidHot APK：Aplikasi Tempat Mencari Konten Bokeh Viral untuk Dewasa](https://www.androidponsel.com/53307/vidhot-apk/)
 
-[SnackLink: Situs Shortener URL Penghasil Uang dengan Nilai CPM Tinggi](https://www.androidponsel.com/53293/snacklink/)
+[SnackLink：Situs Shortener URL Penghasil Uang dengan Nilai CPM Tinggi](https://www.androidponsel.com/53293/snacklink/)
 
-[Aplikasi Tokuplay APK: Menonton Tokusatsu dengan Mudah di Android](https://www.androidponsel.com/53272/tokuplay-apk/)
+[Aplikasi Tokuplay APK：Menonton Tokusatsu dengan Mudah di Android](https://www.androidponsel.com/53272/tokuplay-apk/)
 
-[IGLookup: Aplikasi Terbaik untuk Meningkatkan Interaksi dengan Audiens Instagram di Indonesia](https://www.androidponsel.com/53260/iglookup-aplikasi/)
+[IGLookup：Aplikasi Terbaik untuk Meningkatkan Interaksi dengan Audiens Instagram di Indonesia](https://www.androidponsel.com/53260/iglookup-aplikasi/)
 
 **Feedback:** Jika ada informasi yang keliru silahkan sampaikan melalui halaman [Kontak](https://www.androidponsel.com/contact/)
 
@@ -2122,11 +2128,11 @@ About relative-value trading strategy, one of its significant advantages over tr
 AntBot's relative value strategy, ignoring bullish and bearish markets, uses the same assets, correlation and pricing differences of related assets to open long and short positions to arbitrage, and balancing the riskiness of the portfolio, and has the characteristics of high win percentage and low risk to achieve steady asset growth.
 In the current bear market, AntBot's relative-value strategy is like a duck to water, such as the big event brought by Luna and FTX, where the spread of the same crypto in different exchanges increased and the value of the correlated assets deviated greatly. The relative-value strategy is easy to get a profit from it, and AI automatically operates to open and close position immediately to take profit before the market returns to normal.
 In terms of strategy development, AntBot's relative value strategy screens out crypto pairs with similar attributes for strategy execution by reviewing the transaction big data of the crypto trading market for nearly 10 years and AI analysis of the correlation of global mainstream cryptos. At the same time, it is also verified that the strategy can resist 'black swan' events and multiple system concurrency risks.
-The strategy applies to three situations: the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
+The strategy applies to three situations：the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
 At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market
 However, the relative-value trading strategy has a market issue after many times of verification. Due to the reliance on price trend convergence, this strategy can also cause losses if a small probability event occurs that the price trend does not converge. Of course, the trading market is volatile and no strategy can suit it 100% perfectly. In terms of strategy matching, AntBot carries out diversified strategies in parallel to solve the pain point of the relative-value trading strategy and to reduce the loss brought about by the risk of a single strategy. Diversified strategies in parallel guarantee the safety of users' assets. I always have chips for the next operation to grasp investment opportunities.
 Website:
-Hashtag: #Antbot
+Hashtag：#Antbot
 
 The issuer is solely responsible for the content of this announcement.
 
@@ -2158,9 +2164,9 @@ AntBot team is headquartered in Singapore, the international financial center, a
 
 As a new generation intelligent cryptocurrency trading system, AntBot covers almost the whole process of investment, including selecting investment objects, choosing the best time to buy and sell, how to arbitrage, how to allocate assets, risk control, etc. It uses computer technology to select multiple "high probability" events from huge historical data that can bring considerable returns to customize the strategy. Now you just need to tell it what you want it to do, and AntBot scans the entire cryptocurrency market in a matter of seconds, entering and executing orders faster than if you were to enter the same orders manually. If you want be more speedy and have more efficiency for your trade, employing a cryptocurrency trading bot could be the right choice. If you're the type of trader who tends to be driven by emotion rather than trading strategy, you're likely to execute a trade that results in a loss because of panic selling and fear buying. While when you rely on an automated trading robot, emotions will never influence you. AntBot allows you to be relaxed in the market while providing excellent trading guidance.
 
-AntBot website : [https://www.antrade.io](https://www.globenewswire.com/Tracker?data=tnYImChZkNpSspfWSvLQQYyvcdyDpubOfBUUqKDXZkT-BQdLmsh6-Tod0-FWT0JO78zE8zFrUw-AxhqbQwXgYKu1xzaUhhM5CAWoMPe65No=)
+AntBot website ：[https://www.antrade.io](https://www.globenewswire.com/Tracker?data=tnYImChZkNpSspfWSvLQQYyvcdyDpubOfBUUqKDXZkT-BQdLmsh6-Tod0-FWT0JO78zE8zFrUw-AxhqbQwXgYKu1xzaUhhM5CAWoMPe65No=)
 
-CONTACT: Michael Musk AntBot business -at- antrade.io
+CONTACT：Michael Musk AntBot business -at- antrade.io
 
 ## 附录3-EN-4，英文新闻文章三
 
@@ -2189,13 +2195,13 @@ In the current bear market, AntBot's relative-value strategy is like a duck to w
 
 In terms of strategy development, AntBot's relative value strategy screens out crypto pairs with similar attributes for strategy execution by reviewing the transaction big data of the crypto trading market for nearly 10 years and AI analysis of the correlation of global mainstream cryptos. At the same time, it is also verified that the strategy can resist "black swan" events and multiple system concurrency risks.
 
-The strategy applies to three situations: the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
+The strategy applies to three situations：the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
 
 At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market
 
 However, the relative-value trading strategy has a market issue after many times of verification. Due to the reliance on price trend convergence, this strategy can also cause losses if a small probability event occurs that the price trend does not converge. Of course, the trading market is volatile and no strategy can suit it 100% perfectly. In terms of strategy matching, AntBot carries out diversified strategies in parallel to solve the pain point of the relative-value trading strategy and to reduce the loss brought about by the risk of a single strategy. Diversified strategies in parallel guarantee the safety of users' assets. I always have chips for the next operation to grasp investment opportunities.
 
-Hashtag: #AntBot
+Hashtag：#AntBot
 
 The issuer is solely responsible for the content of this announcement.
 
@@ -2223,7 +2229,7 @@ AntBot AI functionality
 Algorithmic trading on AntBot AI
 Smart coverage
 View trading results
-Risk Assessment: the “Position” tab
+Risk Assessment：the “Position” tab
 News section
 Connections and prices
 Conclusion
@@ -2250,7 +2256,7 @@ There are four algorithms to choose from:
 
 **Interval arbitrage** — An cross-exchange arbitrage trading bot that tracks fluctuations in the price of a crypto asset across two markets. The robot is constantly monitoring the performance of an asset across set markets and automatically finds the best entry points.
 
-**Note**: To activate cryptocurrency bots on AntBot AI, you first need to top up your internal balance.
+**Note**：To activate cryptocurrency bots on AntBot AI, you first need to top up your internal balance.
 
 **Smart coverage**
 
@@ -2260,7 +2266,7 @@ The platform offers a smart coverage feature. When the market suddenly falls or 
 
 The platform workspace tracks the results of the bots’ trading. You can view and filter buy and sell positions by date, time, and their prices (opening & closing) in USDT. The last column displays the total value of profit and loss (PNL).
 
-**Risk Assessment: the “Position” tab**
+**Risk Assessment：the “Position” tab**
 
 Clicking on the **Position** tab will give you a picture of the current risk for all open positions in both the spot and futures markets. Risk values are displayed as percentages and are assessed as “high” or “low” based on your portfolio.
 
