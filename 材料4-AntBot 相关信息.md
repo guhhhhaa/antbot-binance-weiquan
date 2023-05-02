@@ -508,32 +508,32 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 13. 小蚁量化炒币机器人
 14. 小蚁AI炒币机器人
 15. 小蚁智能量化炒币机器人
-16. 小蚁量化工作室
-17. 掘金量化社区
-18. AntBot
-19. Ant Robot
-20. AntTrade
-21. AntBot-AI
-22. antbot_cta
-23. AntbotDCA
-24. AntbotEA 
-25. Antbot EA
-26. AntBotQuantify
-27. ANTBOT Next-Gen AI Trading 
-28. AntBot_me
-29. AntBot_org
-30. antbot_org
-31. Ants Support
-32. AntbotSupportOfficial
-33. antbot_official
-34. AntBotIndonesia
-35. AntBot Indonesia official
-36. AntBot Auto BOT Fututures Binance Trade
-37. 小蚁-免费的币安量化交易系统
-38. AntBot - A Free Trading Tool of Binance
-39. Crypto AI Bot | Ant Robot
-40. AntBot, a Full-featured Crypto Automated Trading System
-41. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
+16. 小蚁-免费的币安量化交易系统
+17. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
+18. 小蚁量化工作室
+19. 掘金量化社区
+20. AntBot
+21. Ant Robot
+22. AntTrade
+23. AntBot-AI
+24. antbot_cta
+25. AntbotDCA
+26. AntbotEA 
+27. Antbot EA
+28. AntBotQuantify
+29. ANTBOT Next-Gen AI Trading 
+30. AntBot_me
+31. AntBot_org
+32. antbot_org
+33. Ants Support
+34. AntbotSupportOfficial
+35. antbot_official
+36. AntBotIndonesia
+37. AntBot Indonesia official
+38. AntBot Auto BOT Fututures Binance Trade
+39. AntBot - A Free Trading Tool of Binance
+40. Crypto AI Bot | Ant Robot
+41. AntBot, a Full-featured Crypto Automated Trading System
 42. AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
 43. goldquant-club
 44. newbee-asia
