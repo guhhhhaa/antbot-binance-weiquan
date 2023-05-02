@@ -494,10 +494,10 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 # 九，AntBot APP 曾用名和 AntBot 组织曾用名
 
 1. 小蚁
-2. 小蚁AI
-3. 小蚁EA
-4. 小蚁CTA
-5. 小蚁DCA
+2. 小蚁AI - AI: Artificial Intelligence 人工智能
+3. 小蚁EA - EA: Expert Advisor 专家顾问
+4. 小蚁CTA - CTA: Commodity Trading Advisor 商品交易顾问
+5. 小蚁DCA - DCA: Dollar-Cost Averaging 美元成本平均法
 6. 小蚁AI量化交易
 7. 小蚁量化交易
 8. 小蚁机器人
