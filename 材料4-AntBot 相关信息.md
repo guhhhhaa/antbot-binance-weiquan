@@ -8,7 +8,7 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 # 一，AntBot 邮箱
 
-1，【AntBot 邮箱1】- business@antrade.io - 推荐，很可能回复，邮箱显示用户名“Alice From AntBot”
+1，AntBot 邮箱1 - business@antrade.io - 推荐，很可能回复，邮箱显示用户名“Alice From AntBot”
 
 2，AntBot 邮箱2 - support@antbot-ai.org - 基本不回复
 
@@ -22,17 +22,17 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 6，AntBot 隐藏邮箱7 - 53585863@qq.com
 
-7，AntBot 印尼电话：tel：+62 8114485790（+62是印度尼西亚共和国）
+7，AntBot 印尼电话 - tel：+62 8114485790（+62是印度尼西亚共和国）
 
-8，AntBot 印尼电话：tel：+62 81223888167（+62是印度尼西亚共和国）
+8，AntBot 印尼电话 - tel：+62 81223888167（+62是印度尼西亚共和国）
 
 # 二，AntBot 网站
 
-1，【AntBot 网站1】- https://www.antbot-ai.org/
+1，AntBot 网站1 - https://www.antbot-ai.org/
 
-2，【AntBot 网站2】 - https://www.antrade.io/
+2，AntBot 网站2  - https://www.antrade.io/
 
-3，【AntBot 网站3】 - https://www.antrobotai.info/
+3，AntBot 网站3  - https://www.antrobotai.info/
 
 3-1，AntBot 网站3-1 - https://www.antrobotai.info/copy-of-home（印尼语，ID）
 
@@ -68,11 +68,11 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 https://archive.org/ 是全球著名的网页快照储存网站，上面存储有AntBot网站的快照
 
-https://www.antbot.org/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antbot.org/](https://web.archive.org/web/*/https://www.antbot.org/)
+https://www.antbot.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot.org/](https://web.archive.org/web/*/https://www.antbot.org/)
 
-https://www.antrade.io/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antrade.io/](https://web.archive.org/web/*/https://www.antrade.io/)
+https://www.antrade.io/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antrade.io/](https://web.archive.org/web/*/https://www.antrade.io/)
 
-https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
+https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
 
 # 四，AntBot 社交媒体信息
 
@@ -80,39 +80,39 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 
 ### 1-1，吴优芮社交媒体
 
-1-1，QQ - 男1：53585863
+1-1，QQ - 男1 - 53585863
 
-1-2，微信 - 男2：AntBot_me（微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系他被删好友后1小时内删除）
+1-2，微信 - 男2 - AntBot_me - 微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系他被删好友后1小时内删除
 
-1-3，微信 - 男3：antbot_org（该用户不存在，删除时间未知）
+1-3，微信 - 男3 - antbot_org - 该用户不存在，删除时间未知
 
-1-4，微博：小蚁量化机器人 https://weibo.com/u/7750863098
+1-4，微博 - 小蚁量化机器人 - https://weibo.com/u/7750863098
 
-（微博图片知，官网为：https://antbot.me/，与微信号 AntBot_me 一致）
+微博图片知，官网 - https://antbot.me/ - 与微信号 AntBot_me 一致
 
-相关微博信息：https://weibo.com/7750863098/M7hM5jniW 2022-9-24 来自 iPhone 8 官网：AntBot.me 
+相关微博信息 - https://weibo.com/7750863098/M7hM5jniW - 2022-9-24 来自 iPhone 8 官网：AntBot.me 
 
-1-5，币Coin：小蚁量化机器人 http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
+1-5，币Coin - 小蚁量化机器人 - http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
 
 ### 1-2，龙娟社交媒体
 
-2-1，微信 - longjuan2001314（微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除）
+2-1，微信 - longjuan2001314 - 微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除
 
-2-2，微信 - pinganlongjuan（微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除）
+2-2，微信 - pinganlongjuan - 微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除
 
-2-3，微博 - 享抱团联盟云萃保龙娟导师 https://weibo.com/u/7049285685 ，
+2-3，微博 - 享抱团联盟云萃保龙娟导师 - https://weibo.com/u/7049285685 ，
 
-微博简介：V:longjuan2001314开公司13年，互联网经验5年，帮助更多的人成功是我的梦想
+微博简介：V:longjuan2001314 开公司13年，互联网经验5年，帮助更多的人成功是我的梦想
 
 微博内容中也有另一个微信号 - pinganlongjuan
 
 微博头像：是龙娟本人照片
 
-2-4，百度贴吧 - longjuan131455 https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+2-4，百度贴吧 - longjuan131455 - https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
 
-相关贴子：https://tieba.baidu.com/p/6552722397
+相关贴子 - https://tieba.baidu.com/p/6552722397
 
-2-5，Telegram - Alice：https://t.me/AntbotJ （这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。）
+2-5，Telegram - Alice - https://t.me/AntbotJ - 这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。
 
 2-6，喜马拉雅 - 卫康百元新零售小龙女 - https://mhera.ximalaya.com/zhubo/223275738
 
@@ -122,33 +122,33 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 
 ### 1-3，AntBot 海外社交媒体
 
-社交媒体1：Youtube：www.youtube.com/@antradeio
+社交媒体1 - Youtube - www.youtube.com/@antradeio
 
-社交媒体2：Twitter：https://twitter.com/antrade_io
+社交媒体2 - Twitter - https://twitter.com/antrade_io
 
-社交媒体3：Facebook：https://www.facebook.com/antbot.org
+社交媒体3 - Facebook - https://www.facebook.com/antbot.org
 
-社交媒体4：Telegram账户 - Antbot EA - 小蚁AI：https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
+社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
-社交媒体5：Telegram账户 - Alice：https://t.me/AntbotJ （这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。）
+社交媒体5 - Telegram账户 - Alice - https://t.me/AntbotJ - 这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。
 
-社交媒体6：Telegram账户 - Ants Support：https://t.me/antbotsupport/
+社交媒体6 - Telegram账户 - Ants Support - https://t.me/antbotsupport/
 
-社交媒体7：Telegram群组：https://t.me/antbot_cta
+社交媒体7 - Telegram群组 - https://t.me/antbot_cta
 
-社交媒体8：Telegram群组：https://t.me/antbot_ai
+社交媒体8 - Telegram群组 - https://t.me/antbot_ai
 
-社交媒体9：Telegram群组：https://t.me/AntbotSupportOfficial
+社交媒体9 - Telegram群组 - https://t.me/AntbotSupportOfficial
 
-社交媒体10：Telegram群组：https://t.me/AntBotQuantify
+社交媒体10 - Telegram群组 - https://t.me/AntBotQuantify
 
-社交媒体11：Telegram群组：https://t.me/AntBotIndonesia
+社交媒体11 - Telegram群组 - https://t.me/AntBotIndonesia
 
-社交媒体12：Telegram群组：https://t.me/antbot_official（已关闭）
+社交媒体12 - Telegram群组 - https://t.me/antbot_official - 已关闭
 
-社交媒体13：币安广场-中文：https://www.binance.com/zh-CN/feed/profile/65248232（已关闭）
+社交媒体13 - 币安广场 - 中文 - https://www.binance.com/zh-CN/feed/profile/65248232 - 已关闭
 
-社交媒体14：币安广场-英文：https://www.binance.com/en/feed/profile/58344027（已关闭）
+社交媒体14 - 币安广场 - 英文 - https://www.binance.com/en/feed/profile/58344027 - 已关闭
 
 ### 1-4，受害人王天佑对信息的分析，备注，总结
 
@@ -283,7 +283,7 @@ https://www.antbot-ai.org/ 有快照，访问链接 [https://web.archive.org/web
 
 【 龙娟——Alisa 】
 
-社交媒体：Telegram 账户 - Alice：https://t.me/AntbotJ ，这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 business@antrade.io 显示的 “Alice From AntBot”对应。
+社交媒体 - Telegram 账户 - Alice：https://t.me/AntbotJ ，这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 business@antrade.io 显示的 “Alice From AntBot”对应。
 
 3，【龙娟——longjuan2001314——爱情谐音干扰项】
 
@@ -343,7 +343,7 @@ https://antbot.me/ 和 https://goldquant.club/ 就是 AntBot 在中国的前身�
 
 并且可以通过，王天佑对 https://antbot.me/ 的手机截图，和 微博：小蚁量化机器人 https://weibo.com/u/7750863098 微博上发布的他自己的的手机截图，进一步确认，https://antbot.me/ 网站上的确曾经存在过相关的内容信息。
 
-而且https://antbot.me/ 网站上给出了 https://weibo.com/u/7750863098 的微博链接，这点也可以在 ZoomEye 钟馗之眼 数据库的搜索结果残留信息中确认。
+而且 - https://antbot.me/ - 网站上给出了 - https://weibo.com/u/7750863098 - 的微博链接，这点也可以在 ZoomEye 钟馗之眼 数据库的搜索结果残留信息中确认。
 
 11，【QQ 53585863——微信 AntBot_me】
 
@@ -359,13 +359,13 @@ https://antbot.me/ 和 https://goldquant.club/ 就是 AntBot 在中国的前身�
 
 QQ所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你情谊久”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音，
 
-12，【QQ 53585863——微信 AntBot_me】
+12，【QQ 53585863 ——微信 AntBot_me】
 
-【QQ 53585863——https://antbot.me/】
+【QQ 53585863 —— https://antbot.me/】
 
-【微信 AntBot_me——https://antbot.me/】
+【微信 AntBot_me —— https://antbot.me/】
 
-【微信 AntBot_me——https://antbot.me/】
+【微信 AntBot_me —— https://antbot.me/】
 
 【微博：小蚁量化机器人 https://weibo.com/u/7750863098——https://antbot.me/】
 
@@ -375,9 +375,9 @@ QQ所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你�
 
 从币Coin：小蚁量化机器人的账户签名备注了解到，签名备注中写了：加微信53585863
 
-14，【客服回应——自营业务——没有做好风险隔离——监守自盗】AntBot 客服说，AntBot 自己也在黑客事件中损失了，所以可推知 AntBot 经营了自营业务，没有做好投资风险隔离。加深了 AntBot 监守自盗的嫌疑。
+14，【客服回应 —— 自营业务 —— 没有做好风险隔离 —— 监守自盗】AntBot 客服说，AntBot 自己也在黑客事件中损失了，所以可推知 AntBot 经营了自营业务，没有做好投资风险隔离。加深了 AntBot 监守自盗的嫌疑。
 
-15，【事后行为——掩饰隐瞒，销毁证据，推卸责任】发生盗币事件后，AntBot 有掩饰隐瞒，销毁证据，推卸责任的做法，加深了 AntBot 监守自盗的嫌疑。
+15，【事后行为 —— 掩饰隐瞒，销毁证据，推卸责任】发生盗币事件后，AntBot 有掩饰隐瞒，销毁证据，推卸责任的做法，加深了 AntBot 监守自盗的嫌疑。
 
 # 六，AntBot 相关文件下载链接：
 
@@ -405,13 +405,13 @@ https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/
 
 https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
-（注：由此链接可知，AntBot.org一开始使用的服务器，是深圳的，阿里云服务器）
+（注：由此链接可知，AntBot.org 一开始使用的服务器，是深圳的，阿里云服务器）
 
 # 七，AntBot 网站上的相关邀请码和邀请链接
 
-### 注：警方可以去交易所，查KYC信息。
+### 注：警方可以去交易所，查 KYC 信息。
 
-### 可能会查出，邀请码对应交易所账户的KYC身份证信息。
+### 可能会查出，邀请码对应交易所账户的 KYC 身份证信息。
 
 #### 网站上的 AntBot 邀请码：
 
