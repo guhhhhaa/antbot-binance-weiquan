@@ -2533,20 +2533,31 @@ SINGAPORE - **media outreach** - 29 November 2022 - AntBot, a full-featured cryp
 
 
 After several rounds of internal testing, it pioneers the relative-value trading strategy and the first intelligent long-short position management system. Since cryptos entered the bear market, mainstream cryptos have fallen by more than 80%, but AntBot has achieved even a 30% annualized rate of return for users with its relative-value trading strategy and crypto robots.
+
 AntBot is a leading full-featured crypto automated trading system, composed of well-known VC Institutions and top traders in the crypto field, ranked top 3 in Binance for 6 consecutive quarters of market volume, and is also a deep cooperative market maker with Binance, OKX and Bybit. It has a rich financial operation system and trading experience with a managed capital scale of over $100 million and a service group covering over 200,000 users in more than 100 countries and regions worldwide. It provides comprehensive crypto trading services with AI robots and compound powerful trading strategies.
+
 About relative-value trading strategy, one of its significant advantages over trend trading, grid trading and the Martingale Strategy is that it is not dependent on the market. Even if the fundamental and technical analysis is in place, it is impossible to predict the exact movement of the market 100%. At such times, market-dependent trading strategies can not make the action of take-profit and stop-loss in time. In the case of insufficient funds, the result is forced liquidation.
+
 AntBot's relative value strategy, ignoring bullish and bearish markets, uses the same assets, correlation and pricing differences of related assets to open long and short positions to arbitrage, and balancing the riskiness of the portfolio, and has the characteristics of high win percentage and low risk to achieve steady asset growth.
 In the current bear market, AntBot's relative-value strategy is like a duck to water, such as the big event brought by Luna and FTX, where the spread of the same crypto in different exchanges increased and the value of the correlated assets deviated greatly. The relative-value strategy is easy to get a profit from it, and AI automatically operates to open and close position immediately to take profit before the market returns to normal.
+
 In terms of strategy development, AntBot's relative value strategy screens out crypto pairs with similar attributes for strategy execution by reviewing the transaction big data of the crypto trading market for nearly 10 years and AI analysis of the correlation of global mainstream cryptos. At the same time, it is also verified that the strategy can resist 'black swan' events and multiple system concurrency risks.
+
 The strategy applies to three situations：the performance of the same token in different public chains and different exchanges, highly correlated tokens with abnormal spreads to open positions, and highly undervalued tokens in the future. The strategy buys undervalued cryptos and sells overvalued cryptos to obtain spread returns, becoming a favorable tool for non-standard substitution. It is especially suitable for the current bear market to ensure open interest while increasing income and accumulating enough capital before the bull market comes.
-At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market
+
+At present, AntBot has been launched on Google Play and App Store, accumulating over 30,000 active users and providing free access to AI robots for users. Meanwhile, it also offers referral commissions of up to 60% for users without capital, helping users to quickly grow their assets and participate in the trading market.
+
 However, the relative-value trading strategy has a market issue after many times of verification. Due to the reliance on price trend convergence, this strategy can also cause losses if a small probability event occurs that the price trend does not converge. Of course, the trading market is volatile and no strategy can suit it 100% perfectly. In terms of strategy matching, AntBot carries out diversified strategies in parallel to solve the pain point of the relative-value trading strategy and to reduce the loss brought about by the risk of a single strategy. Diversified strategies in parallel guarantee the safety of users' assets. I always have chips for the next operation to grasp investment opportunities.
+
 Website:
+
 Hashtag：#Antbot
 
 The issuer is solely responsible for the content of this announcement.
 
 AntBot
+
+[MENAFN02122022003092003082ID1105261969](https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy)
 
 ## 附录3-EN-2，英文新闻文章二
 
