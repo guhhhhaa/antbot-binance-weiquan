@@ -405,6 +405,8 @@ https://video.wixstatic.com/video/f17f2b_331eea8d16d647c088892d932ab557c3/1080p/
 
 https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/mp4/file.mp4
 
+（注：由此链接可知，AntBot.org一开始使用的服务器，是深圳的，阿里云服务器）
+
 # 七，AntBot 网站上的相关邀请码和邀请链接
 
 ### 注：警方可以去交易所，查KYC信息。
@@ -1101,6 +1103,10 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 ## 附录2-5，AntBot.me 网站文案五
 
 原文链接：https://blog.antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+
+## 附录2-6，Antrade.io 网站文案六
+
+原文链接：https://www.antrade.io/
 
 # 附录3，海外新闻文章
 
@@ -1955,6 +1961,82 @@ Tag：
 **相关文章**
 
 [联系我们] 小蚁量化工作室
+
+## 附录2-6，Antrade.io 网站文案六
+
+原文链接：https://www.antrade.io/
+
+**A Free Automated Crypto Trading System for Everyone**
+
+Optimized 10+ well-known strategies, AI Grid, AI DCA, Rebalancing, Relative Value, AI Beta, DMA, Supertrend, Momentum, etc.
+
+Supported following exchanges, Binance, OKX, Bybit, KuCoin, Gate.io, Bitget, Huobi.
+
+2 Minutes to Start Your Trading Robot, Make Money Before Learning
+
+**Free and Professional Trading Tool**
+
+Free and abundant strategies, including Classic Grid, Rebalancing, AI Grid, AI DCA, Infinity Grid.
+
+The first long-short position management system and long-short dual arbitrage strategy.
+
+Completely free early alert functions, including price rise and fall, trend indicators, K-line patterns.
+
+**Easy to Use**
+
+One-click exchange API-Key binding.
+
+Spot strategies are totally free to use.
+
+It is provided in manual and AI modes. In AI mode, the strategy parameters are optimized in real-time according to the market.
+
+**The Crypto Asset Trading Expert in Your Pocket, for iOS & Android**
+
+Powerful and easy-to-use features break down the complexity of investing with intuitive tools that add efficiency and simplicity.
+
+**323,182 Number of Bots**
+
+**89.82% Strategies Accuracy**
+
+**38,791 Active Users**
+
+**$4,212 Average Deposits**
+
+**AntBot is Committed to Providing Smart and Professional Investment Tool**
+
+**Funds Security**
+
+The robot does not have the right to transfer the principal you initially deposited in the exchange account.
+
+**Several Famous Strategies**
+
+Optimized sets of Well-known strategies, including AI Grid, AI DCA, Rebalancing, Relative Value, Supertrend, Momentum, AI Beta, and DMA.
+
+**Offer Multiple Exchanges**
+
+Support Binance, OKX, Bybit, KuCoin, Gate.io, Bitget, Huobi, including spot and futures trading.
+
+**Team Distribution Reward System**
+
+Refer friends to win cryptos with up to 60% commission.
+
+**Are You Ready to Let AntBot Earn Passive Income for You?**
+
+**Follow these 3 simple steps below to start earning money on your live account**
+
+Number of Bots
+
+Bind the exchange API-Key
+
+Start a bot to make money
+
+**AntBot**
+
+AntBot is a comprehensive cryptocurrency investment ecosystem, covering the investment processes from project selection, seeking the best trading opportunities, optimizing arbitrage strategies, asset allocation, to risk management.
+
+**AntBot**
+
+©️2022 AntBot. All Rights Reserved
 
 # 附录3，海外新闻文章
 
