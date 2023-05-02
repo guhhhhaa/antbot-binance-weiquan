@@ -126,7 +126,9 @@ https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org
 
 社交媒体2 - Twitter - https://twitter.com/antrade_io
 
-社交媒体3 - Facebook - https://www.facebook.com/antbot.org
+社交媒体3-1 - Facebook - https://www.facebook.com/antbot.org - AntBot
+
+社交媒体3-2 - Facebook - https://www.facebook.com/p/AntBot-Auto-BOT-Fututures-Binance-Trade/ 或 https://www.facebook.com/profile.php?id=100077487474189 - AntBot Auto BOT Fututures Binance Trade
 
 社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
@@ -146,9 +148,9 @@ https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org
 
 社交媒体12 - Telegram群组 - https://t.me/antbot_official - 已关闭
 
-社交媒体13 - 币安广场 - 中文 - https://www.binance.com/zh-CN/feed/profile/65248232 - 已关闭
+社交媒体13 - 币安广场 - 中文 - https://www.binance.com/zh-CN/feed/profile/65248232 - 小蚁-免费的币安量化交易系统 - 已关闭
 
-社交媒体14 - 币安广场 - 英文 - https://www.binance.com/en/feed/profile/58344027 - 已关闭
+社交媒体14 - 币安广场 - 英文 - https://www.binance.com/en/feed/profile/58344027 - AntBot - A Free Trading Tool of Binance - 已关闭
 
 ### 1-4，受害人王天佑对信息的分析，备注，总结
 
@@ -389,6 +391,10 @@ Google Play 下载链接：
 
 https://play.google.com/store/apps/details?id=ea.antbot.org
 
+AntBot第三方下载链接：
+
+https://apksos.com/app/ea.antbot.org
+
 Android APK 直接下载链接：
 
 [https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk](https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk)
@@ -543,13 +549,25 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 28，antbot_official
 
-29，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
+29，AntBot Auto BOT Fututures Binance Trade
 
-30，goldquant-club
+30，小蚁-免费的币安量化交易系统
 
-31，newbee-asia
+31，AntBot - A Free Trading Tool of Binance
 
-32，NewBee
+32，Crypto AI Bot | Ant Robot
+
+33，AntBot, a Full-featured Crypto Automated Trading System
+
+34，小蚁量化机器人-AntBot-最好的数字货币量化交易工具
+
+35，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
+
+36，goldquant-club
+
+37，newbee-asia
+
+38，NewBee
 
 # 十，AntBot 团队地址位于：
 
@@ -1106,9 +1124,15 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 ## 附录2-6，Antrade.io 网站文案六
 
+### 附录2-6-1，Antrade.io 网站文案
+
 原文链接：https://www.antrade.io/
 
+### 附录2-6-2，英文文档
+
 英文文档：https://www.antrade.io/guide/docs/en/
+
+### 附录2-6-3，中文文档
 
 中文文档：https://www.antrade.io/guide/docs/cn/
 
@@ -1136,6 +1160,10 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 原文链接：https://sg.finance.yahoo.com/news/antbot-full-featured-crypto-automated-040000752.html
 
+原文链接：https://laotiantimes.com/2022/11/29/antbot-a-full-featured-crypto-automated-trading-system-launched-relative-value-trading-strategy/
+
+原文链接：https://brandspurng.com/2022/11/29/antbot-a-full-featured-crypto-automated-trading-system-launched-relative-value-trading-strategy/
+
 标题：AntBot, a Full-featured Crypto Automated Trading System, Launched Relative-value Trading Strategy
 
 ## 附录3-EN-4，英文新闻文章四
@@ -1143,6 +1171,18 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 原文链接：https://fsr-develop.com/antbot-ai-review
 
 标题：**ANTBOT AI REVIEW | BEGINNER'S FRIENDLY GUIDE**
+
+## 附录3-EN-5，英文新闻文章五
+
+https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8
+
+标题：**[AntBot AI](https://www.antbot-ai.org/)** App-based automated crypto trading platform offering trading bots
+
+## 附录3-EN-6，英文文章六
+
+https://www.quora.com/What-is-Antbot-for-cryptocurrency
+
+问题：What is Antbot for cryptocurrency?
 
 # 二，附录正文
 
@@ -2507,7 +2547,7 @@ Bagaimana apakah Anda nampak jelas dengan cara daftar dan menggunakan Antbot ini
 
 **[Antbot] https://www.androidponsel.com/tag/antbot/ [Robot Trading] https://www.androidponsel.com/tag/robot-trading/ [Robot Trading Crypto] https://www.androidponsel.com/tag/robot-trading-crypto/**
 
-## 附录3-EN-2，英文新闻文章一
+## 附录3-EN-1，英文新闻文章一
 
 原文链接：https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy
 
@@ -2538,7 +2578,7 @@ The issuer is solely responsible for the content of this announcement.
 
 AntBot
 
-## 附录3-EN-3，英文新闻文章二
+## 附录3-EN-2，英文新闻文章二
 
 原文链接：https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
 
@@ -2568,7 +2608,7 @@ AntBot website ：[https://www.antrade.io](https://www.globenewswire.com/Tracker
 
 CONTACT：Michael Musk AntBot business -at- antrade.io
 
-## 附录3-EN-4，英文新闻文章三
+## 附录3-EN-3，英文新闻文章三
 
 原文链接：https://sg.finance.yahoo.com/news/antbot-full-featured-crypto-automated-040000752.html
 
@@ -2605,7 +2645,7 @@ Hashtag：#AntBot
 
 The issuer is solely responsible for the content of this announcement.
 
-## 附录3-EN-5，英文新闻文章四
+## 附录3-EN-4，英文新闻文章四
 
 原文链接：https://fsr-develop.com/antbot-ai-review
 
@@ -2693,4 +2733,115 @@ Don't forget to subscribe our [**official CScalp news channel**](https://t.me/tr
 If something is not clear, just contact support via Telegram [**@CScalp_support_bot**](https://t.me/CScalp_support_bot), you will get an answer in couple of seconds.
 
 You can also visit our [**Discord channel**](https://discord.gg/9AvmNwVQUJ) or subscribe to the [**CScalp TV YouTube channel**](https://www.youtube.com/channel/UCPNZia9Cm8hSCKk7SCvI18w/featured).
+
+## 附录3-EN-5，英文新闻文章五
+
+https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8
+
+标题：**[AntBot AI](https://www.antbot-ai.org/)** App-based automated crypto trading platform offering trading bots
+
+[Take a demo to unlock full profile](https://tracxn.com/demo?utm_source=marketing-seo page&utm_medium=companies&utm_campaign=UnlockFullProfile&utm_content=cta)
+
+Last updated: April 9, 2023
+
+[ Suggest Edits](https://tracxn.com/b/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8/edit)[Founder? Claim Profile](https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8#claim-profile)
+
+[Overview](https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8)[Competitors](https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8/competitors)
+
+**AntBot AI Key Metrics**
+
+Founded Year
+
+2021
+
+Location
+
+Shenzhen, China
+
+Company Stage
+
+Unfunded
+
+Competitive Performance
+
+Ranked 1061st among 1061 competitors
+
+**AntBot AI About**
+
+App-based automated crypto trading platform offering trading bots. The crypto trading bots are driven by AI, quant and mathematical models. Automated AI bots buy & sell for users with no interference from their side. The app is available for Android platforms.
+
+**AntBot AI Market**
+
+AntBot AI serves in the B2C space in the [FinTech](https://tracxn.com/a/s/practicearea/5409cf05e4b0831de3527d64/), [Blockchain Technology](https://tracxn.com/a/s/practicearea/61c5c366750abe33aed8304c/) market segments.
+
+The primary business models of AntBot AI are:
+
+[FinTech > ********* ** **** ** > ******](https://tracxn.com/a/companies/M9pglMZPSczmi_KylEqIklAJu_cxI7YmcnwJyZgMBjc/antbot-ai.org/markets)[Blockchain Technology > ********* ** **** ** > ******](https://tracxn.com/a/companies/M9pglMZPSczmi_KylEqIklAJu_cxI7YmcnwJyZgMBjc/antbot-ai.org/markets)
+
+Let us walk you through our Companies database and other offerings.
+Designed with precision for VCs, PE, IBs, Incubators, M&A, Innovation and more
+
+[Request Demo](https://tracxn.com/demo?utm_source=marketing-seo page&utm_medium=companies&utm_campaign=schedule demo&utm_content=cta scheduleademo)
+
+**AntBot AI Funding & Investment**
+
+AntBot AI has not raised any funding rounds yet.
+
+**AntBot AI Competitors**
+
+AntBot AI's competitors include [3Commas](https://tracxn.com/d/companies/3commas/__l_Ky_qT3fKk82K1xf1jO-Xei422Qg4rDbyO5ZTeWI5w), [INX](https://tracxn.com/d/companies/inx/__QCe3_ul80Sp3vtCrRATOlyPN_yHHn9KbmaZTpMvgUyw), [Stacked](https://tracxn.com/d/companies/stacked/__WjysyL5u2xTOlNItYwJkxPXT5RfRQaI4G0MMrF-0ke8), [Mudrex](https://tracxn.com/d/companies/mudrex/__1HUkHauBnBlmx1zlrnIvh1aMYizdryQMMlX-cCCU4Uc). AntBot AI ranks 1061st among 1061 active competitors.
+
+View [AntBot AI Competitors](https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8/competitors)
+
+## 附录3-EN-6，英文文章六
+
+https://www.quora.com/What-is-Antbot-for-cryptocurrency
+
+What is Antbot for cryptocurrency?
+
+Ad by nexo.comHow can I earn interest on my cryptocurrency assets?An easy way to earn interest on over 30 top cryptocurrencies is to use a platform like Nexo. To date, over $200 million in interest has already been paid out to Nexo users, and you(Continue reading)
+
+Answers (4)
+
+Sort
+
+Recommended
+
+**[Balaji K N](https://www.quora.com/profile/Balaji-K-N-12)**
+
+Read and Love CryptoAuthor has **188** answers and **19.9K** answer views[Mar 13](https://www.quora.com/What-is-Antbot-for-cryptocurrency/answer/Balaji-K-N-12)
+
+Antbot is a free full-featured automated trading system for crypto.It supports Mean Reversion strategies (AI Dual Grid, AI DCA, Rebalancing, Relative-value) and Trend-following Strategies (Supertrend, Momentum,AI Beta,D-Kama) which are very useful in crypto trading.However, if you don't want to invest yet and want a low-stake environment to experiment, try StockGro. It is a virtual trading platform where you can join communities and interact with fellow traders. You also get daily updates on the crypto market and you can participate in leagues and competitions where you earn rewards that can be used to play crypto games.
+
+22 views View upvotes
+
+**[Montor Lee](https://www.quora.com/profile/Montor-Lee)**
+
+Studied The Future & Hypothetical Scenarios at University of Lagos (UNILAG) (Graduated 2022)[Feb 22](https://www.quora.com/What-is-Antbot-for-cryptocurrency/answer/Montor-Lee)
+
+An anti-bot system is a technology or process put in place to stop bad bots. **It detects bad bots by using machine learning algorithms that are constantly updating data about what bad bots do and trying new ways to detect them**. With these updates, it becomes harder for hackers to get into your system.
+
+Sponsored by Web3 AntivirusSecure Web3 journey - Use this Chrome extension.Ensure safe transactions with W3A - a thorough analysis of potential red flags.Learn More
+
+**[Sohail Rahi](https://www.quora.com/profile/Sohail-Rahi-3)**
+
+Teacher at Public Schools and College Jutial Gilgit (2020–present)[Feb 23](https://www.quora.com/What-is-Antbot-for-cryptocurrency/answer/Sohail-Rahi-3)
+
+**Antbots for Crypto Trading**
+
+An antbot is a type of automated trading bot that uses algorithms to analyze market trends and make trades on behalf of its user. These bots are typically designed to identify profitable trading opportunities and execute trades at lightning-fast speeds, often with the goal of capitalizing on small price movements.Antbots are named after ants because they are designed to mimic the behavior of ant colonies, where individual ants work together to achieve a common goal. Similarly, antbots are programmed to work together in a network to achieve a common goal of maximizing profits for their users.While antbots can be useful tools for cryptocurrency traders, it's important to remember that they are not foolproof and can't guarantee profits. As with any investment, there are always risks involved, and it's important to do your own research and make informed decisions before investing your money.
+
+39 views
+
+**[Azum](https://www.quora.com/profile/আজম-Azum)**
+
+BBA in Finance, Daffodil International University (Graduated 2020)Author has **95** answers and **7.4K** answer views[Feb 22](https://www.quora.com/What-is-Antbot-for-cryptocurrency/answer/আজম-Azum)
+
+Antbot is a cryptocurrency trading tool that uses artificial intelligence and machine learning algorithms to analyze market trends and execute trades automatically. The goal of Antbot is to help users maximize their profits by taking advantage of market conditions and making trades at the optimal time.With Antbot, traders can save time and effort by letting the tool handle the analysis and execution of trades. This allows traders to focus on other aspects of their investment strategy, such as researching new cryptocurrencies and tracking their portfolio. Antbot is especially useful for traders who are new to cryptocurrency or those who do not have the time or expertise to analyze market conditions manually.
+
+12 views
+
+
+
+
 
