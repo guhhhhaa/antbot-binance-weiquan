@@ -491,83 +491,53 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 
 6，中联金安保险经纪有限公司（“享抱团”现在推广，和“云萃保”有关的）
 
-# 九，AntBot APP曾用名和组织曾用名
+# 九，AntBot APP 曾用名和 AntBot 组织曾用名
 
-1，小蚁
-
-2，小蚁AI
-
-3，小蚁EA
-
-4，小蚁AI量化交易
-
-5，小蚁量化交易
-
-6，小蚁机器人
-
-7，小蚁量化机器人
-
-8，小蚁炒币机器人
-
-9，小蚁AI炒币机器人
-
-10，小蚁智能量化机器人
-
-11，小蚁量化炒币机器人
-
-12，小蚁AI炒币机器人
-
-13，小蚁智能量化炒币机器人
-
-14，小蚁量化工作室
-
-15，掘金量化社区
-
-16，AntBot
-
-17，Ant Robot
-
-18，AntTrade
-
-19，AntBot-AI
-
-20，antbot_cta
-
-21，AntbotEA 
-
-22，Antbot EA
-
-23，Ants Support
-
-24，AntBot_me
-
-25，AntBot_org 或 antbot_org
-
-26，AntBotQuantify
-
-27，AntbotSupportOfficial
-
-28，antbot_official
-
-29，AntBot Auto BOT Fututures Binance Trade
-
-30，小蚁-免费的币安量化交易系统
-
-31，AntBot - A Free Trading Tool of Binance
-
-32，Crypto AI Bot | Ant Robot
-
-33，AntBot, a Full-featured Crypto Automated Trading System
-
-34，小蚁量化机器人-AntBot-最好的数字货币量化交易工具
-
-35，AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
-
-36，goldquant-club
-
-37，newbee-asia
-
-38，NewBee
+1. 小蚁
+2. 小蚁AI
+3. 小蚁EA
+4. 小蚁CTA
+5. 小蚁DCA
+6. 小蚁AI量化交易
+7. 小蚁量化交易
+8. 小蚁机器人
+9. 小蚁量化机器人
+10. 小蚁炒币机器人
+11. 小蚁AI炒币机器人
+12. 小蚁智能量化机器人
+13. 小蚁量化炒币机器人
+14. 小蚁AI炒币机器人
+15. 小蚁智能量化炒币机器人
+16. 小蚁量化工作室
+17. 掘金量化社区
+18. AntBot
+19. Ant Robot
+20. AntTrade
+21. AntBot-AI
+22. antbot_cta
+23. AntbotDCA
+24. AntbotEA 
+25. Antbot EA
+26. AntBotQuantify
+27. ANTBOT Next-Gen AI Trading 
+28. AntBot_me
+29. AntBot_org
+30. antbot_org
+31. Ants Support
+32. AntbotSupportOfficial
+33. antbot_official
+34. AntBotIndonesia
+35. AntBot Indonesia official
+36. AntBot Auto BOT Fututures Binance Trade
+37. 小蚁-免费的币安量化交易系统
+38. AntBot - A Free Trading Tool of Binance
+39. Crypto AI Bot | Ant Robot
+40. AntBot, a Full-featured Crypto Automated Trading System
+41. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
+42. AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
+43. goldquant-club
+44. newbee-asia
+45. NewBee
 
 # 十，AntBot 团队地址位于：
 
@@ -1950,7 +1920,7 @@ Shenzhen, Guangdong, China
 
 **多套著名策略**
 
-DCA策路，网格策略，动态调仓，趋势跟踪
+DCA策略，网格策略，动态调仓，趋势跟踪
 
 **支持多交易所**
 
