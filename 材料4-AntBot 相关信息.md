@@ -1108,6 +1108,10 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 原文链接：https://www.antrade.io/
 
+英文文档：https://www.antrade.io/guide/docs/en/
+
+中文文档：https://www.antrade.io/guide/docs/cn/
+
 # 附录3，海外新闻文章
 
 ## 附录3-ID-1，印尼爪哇语新闻文章一
@@ -1964,6 +1968,8 @@ Tag：
 
 ## 附录2-6，Antrade.io 网站文案六
 
+### 附录2-6-1，Antrade.io 网站文案
+
 原文链接：https://www.antrade.io/
 
 **A Free Automated Crypto Trading System for Everyone**
@@ -2037,6 +2043,306 @@ AntBot is a comprehensive cryptocurrency investment ecosystem, covering the inve
 **AntBot**
 
 ©️2022 AntBot. All Rights Reserved
+
+### 附录2-6-2，英文文档
+
+原文链接：https://www.antrade.io/guide/docs/en/
+
+[Skip to content](https://www.antrade.io/guide/docs/en/#content)
+
+[AntBot | Crypto Trading Bot](https://www.antrade.io/guide/docs/en/)
+
+[Free AntBot](https://antrade.io/)
+
+Search for:
+
+**About Us**
+
+2
+
+NewPopular
+
+[User Agreement](https://www.antrade.io/guide/docs/en/privacy_agreement/)[What is AntBot?](https://www.antrade.io/guide/docs/en/about_us/)
+
+[View all](https://www.antrade.io/guide/docs/en/about-us/)
+
+**Beginner**
+
+35
+
+NewPopular
+
+[How to Create Bitget API Key?](https://www.antrade.io/guide/docs/en/binding_bitget/)
+
+[How to Create Gate.io API Key?](https://www.antrade.io/guide/docs/en/binding_gateio/)
+
+[How to Create KuCoin API Key?](https://www.antrade.io/guide/docs/en/binding_kucoin/)
+
+[Insufficient API Key Trading Permissions: How to Modify API Key Trading Permissions?](https://www.antrade.io/guide/docs/en/insufficient-api-trading-permissions/)
+
+[How Do I Fill in an IP Address in Binance?](https://www.antrade.io/guide/docs/en/ip-address-of-binance/)
+
+[View all](https://www.antrade.io/guide/docs/en/en-beginner/)
+
+**Function**
+
+12
+
+NewPopular
+
+[How to Create KuCoin API Key?](https://www.antrade.io/guide/docs/en/binding_kucoin/)
+
+[Crypto Fear & Greed Index](https://www.antrade.io/guide/docs/en/fear-and-greed-index/)
+
+[Binance: How to Transfer Funds to a Futures Wallet？](https://www.antrade.io/guide/docs/en/binance-how-to-transfer-funds-to-a-futures-wallet/)
+
+[How to Create Binance API Key?](https://www.antrade.io/guide/docs/en/binding_binance/)
+
+[How to Create OKX API Key?](https://www.antrade.io/guide/docs/en/binding_okx/)
+
+[View all](https://www.antrade.io/guide/docs/en/en-function/)
+
+**Indicators**
+
+10
+
+NewPopular
+
+[What is a Golden Cross and a Death Cross? ](https://www.antrade.io/guide/docs/en/what-is-a-golden-cross-and-a-death-cross/)
+
+[What is the Golden Cross?](https://www.antrade.io/guide/docs/en/what-is-the-golden-cross/)
+
+[Instantly Improve Your Trading Strategy with Support and Resistance](https://www.antrade.io/guide/docs/en/instantly-improve-your-trading-strategy-with-support-and-resistance/)
+
+[The Ultimate Moving Average Trading Guide](https://www.antrade.io/guide/docs/en/the-ultimate-moving-average-trading-guide/)
+
+[Detailed Explanation of Support and Resistance](https://www.antrade.io/guide/docs/en/support-resistance/)
+
+[View all](https://www.antrade.io/guide/docs/en/indicators/)
+
+**Learning**
+
+39
+
+NewPopular
+
+[How Can I Keep My Cryptocurrencies Safe?](https://www.antrade.io/guide/docs/en/keep-btc-safe/)
+
+[How to Secure API Keys](https://www.antrade.io/guide/docs/en/how-to-secureapi-keys/)
+
+[What is a Golden Cross and a Death Cross? ](https://www.antrade.io/guide/docs/en/what-is-a-golden-cross-and-a-death-cross/)
+
+[What is the Golden Cross?](https://www.antrade.io/guide/docs/en/what-is-the-golden-cross/)
+
+[Instantly Improve Your Trading Strategy with Support and Resistance](https://www.antrade.io/guide/docs/en/instantly-improve-your-trading-strategy-with-support-and-resistance/)
+
+[View all](https://www.antrade.io/guide/docs/en/en-learning/)
+
+**Patterns**
+
+9
+
+NewPopular
+
+[What is a Golden Cross and a Death Cross? ](https://www.antrade.io/guide/docs/en/what-is-a-golden-cross-and-a-death-cross/)
+
+[What is the Golden Cross?](https://www.antrade.io/guide/docs/en/what-is-the-golden-cross/)
+
+[10  Price Action Candlestick Patterns You Must Know](https://www.antrade.io/guide/docs/en/10-candlestick-patterns-you-must-know/)
+
+[What is Bearish Engulfing Patterns?](https://www.antrade.io/guide/docs/en/engulfing-bearish-patterns/)
+
+[What is Bullish Engulfing Patterns?](https://www.antrade.io/guide/docs/en/engulfing-bullish-patterns/)
+
+[View all](https://www.antrade.io/guide/docs/en/patterns/)
+
+**Questions**
+
+33
+
+NewPopular
+
+[How to Secure API Keys](https://www.antrade.io/guide/docs/en/how-to-secureapi-keys/)
+
+[Can Automated Trading Bots Really Make Money?](https://www.antrade.io/guide/docs/en/robots-make-money/)
+
+[How are AntBot's Initial Positions Calculated?](https://www.antrade.io/guide/docs/en/antbots-initial-positions-calculated/)
+
+[Can API-Keys of Two Exchanges Be Imported Under One Account?](https://www.antrade.io/guide/docs/en/two-api-keys-under-one-account/)
+
+[Binance Trading Fees](https://www.antrade.io/guide/docs/en/binance-trading-fees/)
+
+[View all](https://www.antrade.io/guide/docs/en/en-questions/)
+
+**Strategy**
+
+13
+
+NewPopular
+
+[What Is the Infinity Grid Trading Strategy?](https://www.antrade.io/guide/docs/en/infinity_grid/)
+
+[What is the Regular Investment Strategy?](https://www.antrade.io/guide/docs/en/regular_investment/)
+
+[What is the Formation Trading Strategy?](https://www.antrade.io/guide/docs/en/strategy_formation/)
+
+[What Is the Momentum Trading Strategy?](https://www.antrade.io/guide/docs/en/strategy-momentum/)
+
+[What Is the DMA Trading Strategy?](https://www.antrade.io/guide/docs/en/strategy_d-kama/)
+
+[View all](https://www.antrade.io/guide/docs/en/en-strategies/)
+
+@AntBot free trading bot
+
+### 附录2-6-3，中文文档
+
+原文链接：https://www.antrade.io/guide/docs/cn/
+
+[Skip to content](https://www.antrade.io/guide/docs/cn/#content)
+
+[AntBot | Crypto Trading Bot](https://www.antrade.io/guide/docs/cn/)
+
+[首页](https://www.antrade.io/guide/docs/cn/)[免费使用AntBot](https://antrade.io/)
+
+Search for:
+
+**关于我们**
+
+2
+
+NewPopular
+
+[关于我们](https://www.antrade.io/guide/docs/cn/about_us/)[用户协议](https://www.antrade.io/guide/docs/cn/privacy_agreement/)
+
+[View all](https://www.antrade.io/guide/docs/cn/about-us/)
+
+**功能说明**
+
+6
+
+NewPopular
+
+[恐惧与贪婪指数 Fear & Greed Index](https://www.antrade.io/guide/docs/cn/fear-and-greed-index/)
+
+[诚挚招募YouTube视频创作者](https://www.antrade.io/guide/docs/cn/cn_video_creators_wanted/)
+
+[AntBot红利分配模式表](https://www.antrade.io/guide/docs/cn/cn_team/)
+
+[如何充值USDT？](https://www.antrade.io/guide/docs/cn/cn_deposit_usdt/)
+
+[新手如何启动AntBot机器人？](https://www.antrade.io/guide/docs/cn/cn_startup_bot/)
+
+[View all](https://www.antrade.io/guide/docs/cn/cn-1dpg4h2hla7mo/)
+
+**常见问题**
+
+39
+
+NewPopular
+
+[如何绑定Bitget API？](https://www.antrade.io/guide/docs/cn/binding_bitget/)
+
+[如何绑定Gate.io API?](https://www.antrade.io/guide/docs/cn/binding_gateio/)
+
+[同个币种可以同时运行多个机器人吗？](https://www.antrade.io/guide/docs/cn/one-crypto-run-multiple-bots/)
+
+[在一个账户下可以导入两个交易所的API Key吗？](https://www.antrade.io/guide/docs/cn/two-api-keys-under-one-account/)
+
+[智能网格的盈利和交易所的盈利怎么不一样?](https://www.antrade.io/guide/docs/cn/the-profit-difference-in-ai-grid-and-exchange/)
+
+[View all](https://www.antrade.io/guide/docs/cn/cn-1dpg3cthijkng/)
+
+**快速学习**
+
+16
+
+NewPopular
+
+[启动机器人需要多少资金？](https://www.antrade.io/guide/docs/cn/how-much-capital-do-i-need-to-start-a-bot/)
+
+[如何减少手币安交易手续费？](https://www.antrade.io/guide/docs/cn/reducing-trading-fees/)
+
+[常见问题和解答](https://www.antrade.io/guide/docs/cn/frequently-asked-questions/)
+
+[如何绑定欧易API？](https://www.antrade.io/guide/docs/cn/binding_okx/)
+
+[如何绑定币安API？](https://www.antrade.io/guide/docs/cn/binding_binance/)
+
+[View all](https://www.antrade.io/guide/docs/cn/cn-1dnmtb50vo4uf/)
+
+**技术形态**
+
+6
+
+NewPopular
+
+[什么叫阴包阳形态？](https://www.antrade.io/guide/docs/cn/engulfing-bearish-patterns/)
+
+[什么叫阳包阴形态？](https://www.antrade.io/guide/docs/cn/engulfing-bullish-patterns/)
+
+[什么叫三只乌鸦形态？](https://www.antrade.io/guide/docs/cn/three-black-crows-patterns/)
+
+[什么叫红三兵形态？](https://www.antrade.io/guide/docs/cn/three-white-soldiers-patterns/)
+
+[什么叫锤子线形态？](https://www.antrade.io/guide/docs/cn/long-lower-shadow-patterns/)
+
+[View all](https://www.antrade.io/guide/docs/cn/patterns/)
+
+**技术指标**
+
+11
+
+NewPopular
+
+[支撑和阻力原理详解](https://www.antrade.io/guide/docs/cn/support-resistance/)
+
+[什么叫阴包阳形态？](https://www.antrade.io/guide/docs/cn/engulfing-bearish-patterns/)
+
+[什么叫阳包阴形态？](https://www.antrade.io/guide/docs/cn/engulfing-bullish-patterns/)
+
+[什么叫三只乌鸦形态？](https://www.antrade.io/guide/docs/cn/three-black-crows-patterns/)
+
+[什么叫锤子线形态？](https://www.antrade.io/guide/docs/cn/long-lower-shadow-patterns/)
+
+[View all](https://www.antrade.io/guide/docs/cn/indicator/)
+
+**策略学习**
+
+13
+
+NewPopular
+
+[什么是无限网格交易策略？](https://www.antrade.io/guide/docs/cn/infinity_grid/)
+
+[什么是定投策略？](https://www.antrade.io/guide/docs/cn/regular_investment/)
+
+[什么是阵型交易策略？](https://www.antrade.io/guide/docs/cn/strategy_formation/)
+
+[什么是动量交易策略？](https://www.antrade.io/guide/docs/cn/strategy-momentum/)
+
+[什么是双均线交易策略?](https://www.antrade.io/guide/docs/cn/d-kama/)
+
+[View all](https://www.antrade.io/guide/docs/cn/cn-strategy/)
+
+**进阶学习**
+
+32
+
+NewPopular
+
+[支撑和阻力原理详解](https://www.antrade.io/guide/docs/cn/support-resistance/)
+
+[如何减少手币安交易手续费？](https://www.antrade.io/guide/docs/cn/reducing-trading-fees/)
+
+[常见问题和解答](https://www.antrade.io/guide/docs/cn/frequently-asked-questions/)
+
+[什么叫阳包阴形态？](https://www.antrade.io/guide/docs/cn/engulfing-bullish-patterns/)
+
+[什么叫三只乌鸦形态？](https://www.antrade.io/guide/docs/cn/three-black-crows-patterns/)
+
+[View all](https://www.antrade.io/guide/docs/cn/cn-learning/)
+
+@AntBot free trading bot
 
 # 附录3，海外新闻文章
 
