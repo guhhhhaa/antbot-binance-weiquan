@@ -2,9 +2,9 @@
 
 # 均可以在以下链接下载。
 
-https://github.com/guhhhhaa/antbot-binance-weiquan - Github项目地址
+https://github.com/guhhhhaa/antbot-binance-weiquan - Github项目地址
 
-https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip - 直下ZIP压缩包
+https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip - 直下ZIP压缩包
 
 # 一，AntBot 邮箱
 
@@ -20,15 +20,15 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 6，AntBot 隐藏邮箱6 - antbots3DZ@gmail.com（从一个视频中得到）
 
-6，AntBot 隐藏邮箱7 - 53585863@qq.com
+7，AntBot 隐藏邮箱7 - 53585863@qq.com
 
-7，AntBot 印尼电话 - tel：+62 8114485790（+62是印度尼西亚共和国）
+8，AntBot 印尼电话 - tel：+62 8114485790（+62是印度尼西亚共和国）
 
-8，AntBot 印尼电话 - tel：+62 81223888167（+62是印度尼西亚共和国）
+9，AntBot 印尼电话 - tel：+62 81223888167（+62是印度尼西亚共和国）
 
 # 二，AntBot 网站
 
-#### 注：如果网站被删除，可以去 https://www.zoomeye.org/ 和 https://archive.org/ 和 http://webcache.googleusercontent.com/search?q= 进行搜索，获取证据。
+#### 注：如果网站被删除，可以去 https://www.zoomeye.org/ 和 https://archive.org/ 和 http://webcache.googleusercontent.com/search?q= 进行搜索，获取证据。
 
 1，AntBot 网站1 - https://www.antbot-ai.org/（有archive.org历史快照）
 
@@ -72,7 +72,7 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 https://www.antbot.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot.org/](https://web.archive.org/web/*/https://www.antbot.org/)
 
-https://www.antrade.io/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antrade.io/](https://web.archive.org/web/*/https://www.antrade.io/)
+https://www.antrade.io/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antrade.io/](https://web.archive.org/web/*/https://www.antrade.io/)
 
 https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
 
@@ -86,7 +86,7 @@ https://antbot.me/ - 有快照，访问链接 - [https://www.zoomeye.org/searchR
 
 http://www.goldquant.club - 有快照，访问链接 - http://webcache.googleusercontent.com/search?q=cache:http://www.goldquant.club&strip=0&vwsrc=0
 
-https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleusercontent.com/search?q=cache:https://www.newbee.asia/&strip=0&vwsrc=0
+https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleusercontent.com/search?q=cache:https://www.newbee.asia/&strip=0&vwsrc=0
 
 # 四，AntBot 社交媒体信息
 
@@ -104,7 +104,7 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuse
 
 1-5，微博 - 7750863098 - 小蚁量化机器人 - https://weibo.com/u/7750863098
 
-微博图片知，官网 - https://antbot.me/ - 与微信号 AntBot_me 一致
+微博图片知，官网 - https://antbot.me/ - 与微信号 AntBot_me 一致
 
 相关微博信息 - https://weibo.com/7750863098/M7hM5jniW - 2022-9-24 来自 iPhone 8 官网：AntBot.me 
 
@@ -158,15 +158,15 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuse
 
 社交媒体2 - Twitter - https://twitter.com/antrade_io
 
-社交媒体3-1 - Facebook - https://www.facebook.com/antbot.org - AntBot
+社交媒体3-1 - Facebook - https://www.facebook.com/antbot.org - AntBot
 
 社交媒体3-2 - Facebook - https://www.facebook.com/p/AntBot-Auto-BOT-Fututures-Binance-Trade/ 或 https://www.facebook.com/profile.php?id=100077487474189 - AntBot Auto BOT Fututures Binance Trade
 
-社交媒体3-3 https://www.facebook.com/ANTBOTAI - Antbot AI
+社交媒体3-3 https://www.facebook.com/ANTBOTAI - Antbot AI
 
-社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
+社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
-社交媒体5 - Telegram账户 - Alice - https://t.me/AntbotJ - 这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。
+社交媒体5 - Telegram账户 - Alice - https://t.me/AntbotJ - 这个J，很可能是龙娟中“娟”的拼音首字母J，和之前的新闻中龙娟对应，而且，英文名Alice和新闻中照片显示的英文名Alisa对应，且与邮箱“Alice From AntBot”对应。
 
 社交媒体6 - Telegram账户 - Ants Support - https://t.me/antbotsupport/
 
@@ -180,47 +180,47 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuse
 
 社交媒体11 - Telegram群组 - https://t.me/AntBotIndonesia
 
-社交媒体12 - Telegram群组 - https://t.me/antbot_official - 已关闭
+社交媒体12 - Telegram群组 - https://t.me/antbot_official - 已关闭
 
-社交媒体13 - 币安广场 - 中文 - https://www.binance.com/zh-CN/feed/profile/65248232 - 小蚁-免费的币安量化交易系统 - 已关闭
+社交媒体13 - 币安广场 - 中文 - https://www.binance.com/zh-CN/feed/profile/65248232 - 小蚁-免费的币安量化交易系统 - 已关闭
 
 社交媒体14 - 币安广场 - 英文 - https://www.binance.com/en/feed/profile/58344027 - AntBot - A Free Trading Tool of Binance - 已关闭
 
 其他推广 AntBot 的 Youtube 账号：
 
-https://youtube.com/@abiidabidoo - AntradeBotAdventures
+https://youtube.com/@abiidabidoo - AntradeBotAdventures
 
-https://youtube.com/@XavitarOne - Xavitar
+https://youtube.com/@XavitarOne - Xavitar
 
-https://youtube.com/@BroEdyFinance - Bro Edy
+https://youtube.com/@BroEdyFinance - Bro Edy
 
-https://youtube.com/@cryptocointradingwithedy9001 - Crypto Coin Trading with Edy
+https://youtube.com/@cryptocointradingwithedy9001 - Crypto Coin Trading with Edy
 
-https://youtube.com/@Fabiovalentefv - Fabio Valente
+https://youtube.com/@Fabiovalentefv - Fabio Valente
 
-https://youtube.com/@D0cCrypto - D0c Crypto
+https://youtube.com/@D0cCrypto - D0c Crypto
 
-https://youtube.com/@DiDiChanell - DiDi Chanel
+https://youtube.com/@DiDiChanell - DiDi Chanel
 
-https://youtube.com/@harryonoChannel92 - harryono Channel
+https://youtube.com/@harryonoChannel92 - harryono Channel
 
-https://youtube.com/@HelpTimes - Pro Tech Tips 
+https://youtube.com/@HelpTimes - Pro Tech Tips 
 
-https://youtube.com/@TjandraTedja - Tjandra Tedja
+https://youtube.com/@TjandraTedja - Tjandra Tedja
 
-https://youtube.com/@TechInTwi - Tech In Twi 
+https://youtube.com/@TechInTwi - Tech In Twi 
 
-https://youtube.com/@YanIwan86 - Yan Iwan #86
+https://youtube.com/@YanIwan86 - Yan Iwan #86
 
-https://youtube.com/@MRBoomTech - MR BoomTech
+https://youtube.com/@MRBoomTech - MR BoomTech
 
-https://youtube.com/@cryptomarg - Crypto Marg
+https://youtube.com/@cryptomarg - Crypto Marg
 
-https://youtube.com/@CRYPTOBOTAN - CRYPTO BOTAN
+https://youtube.com/@CRYPTOBOTAN - CRYPTO BOTAN
 
-https://youtube.com/@TOPCRYPTO2023 - CRYPTO MANIACO
+https://youtube.com/@TOPCRYPTO2023 - CRYPTO MANIACO
 
-https://youtube.com/@EduNogs - Edu Nogs
+https://youtube.com/@EduNogs - Edu Nogs
 
 ### 1-4，受害人王天佑对信息的分析，备注，总结
 
@@ -389,7 +389,7 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 【 龙娟——Alisa 】
 
-社交媒体 - Telegram 账户 - Alice：https://t.me/AntbotJ ，这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 business@antrade.io 显示的 “Alice From AntBot”对应。
+社交媒体 - Telegram 账户 - Alice：https://t.me/AntbotJ ，这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 business@antrade.io 显示的 “Alice From AntBot”对应。
 
 3，【龙娟——longjuan2001314——爱情谐音干扰项】
 
@@ -429,11 +429,11 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 10，【https://antbot.me/，https://goldquant.club/——https://www.antbot-ai.org/，http://www.antrade.io/】
 
-通过截图可知，https://antbot.me/，https://goldquant.club/ 和 https://www.antbot-ai.org/，http://www.antrade.io/ 使用同样的文档内容和标题，同样的名称，同样的LOGO，同样的制作风格。
+通过截图可知，https://antbot.me/，https://goldquant.club/ 和 https://www.antbot-ai.org/，http://www.antrade.io/ 使用同样的文档内容和标题，同样的名称，同样的LOGO，同样的制作风格。
 
-因此https://antbot.me/，https://goldquant.club/ 和 https://www.antbot-ai.org/，http://www.antrade.io/之间有直接关系。
+因此https://antbot.me/，https://goldquant.club/ 和 https://www.antbot-ai.org/，http://www.antrade.io/之间有直接关系。
 
-https://antbot.me/，https://goldquant.club/ 就是 https://www.antbot-ai.org/，http://www.antrade.io/ 在中国的前身网站。
+https://antbot.me/，https://goldquant.club/ 就是 https://www.antbot-ai.org/，http://www.antrade.io/ 在中国的前身网站。
 
 又因为受害人王天佑于2023年4月28日，联系微信：53585863 即 AntBot_me 询问，他与 AntBot 是什么关系。
 
@@ -449,7 +449,7 @@ https://antbot.me/ 和 https://goldquant.club/ 就是 AntBot 在中国的前身�
 
 并且可以通过，王天佑对 https://antbot.me/ 的手机截图，和 微博：小蚁量化机器人 https://weibo.com/u/7750863098 微博上发布的他自己的的手机截图，进一步确认，https://antbot.me/ 网站上的确曾经存在过相关的内容信息。
 
-而且 - https://antbot.me/ - 网站上给出了 - https://weibo.com/u/7750863098 - 的微博链接，这点也可以在 ZoomEye 钟馗之眼 数据库的搜索结果残留信息中确认。
+而且 - https://antbot.me/ - 网站上给出了 - https://weibo.com/u/7750863098 - 的微博链接，这点也可以在 ZoomEye 钟馗之眼 数据库的搜索结果残留信息中确认。
 
 11，【QQ 53585863——微信 AntBot_me】
 
@@ -499,6 +499,12 @@ AntBot第三方下载链接：
 
 https://apksos.com/app/ea.antbot.org
 
+- AntBot-Binance OKX Bybit Bot 2.3.6 APK - https://apksos.com/download-app/ea.antbot.org?version=8964551
+- AntBot-Binance OKX Bybit Bot 2.3.5 APKs - https://apksos.com/download-app/ea.antbot.org?version=8871641
+- AntBot-Binance OKX Bybit Bot 2.3.4 APKs - https://apksos.com/download-app/ea.antbot.org?version=8553945
+
+https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/
+
 Android APK 直接下载链接：
 
 [https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk](https://d35i5cxbmo6f5m.cloudfront.net/ant/install/downloads/AntBot(www.antrade.io).apk)
@@ -523,41 +529,41 @@ https://video.wixstatic.com/video/f17f2b_bfbacba0559d440f89acc9683ca9a4fc/1080p/
 
 ### 可能会查出，邀请码对应交易所账户的 KYC 身份证信息。
 
-#### 网站上的 AntBot 邀请码：
+#### 1，网站上的 AntBot 邀请码：
 
-https://antbot.org/register?code=ZSZOWZ - ZSZOWZ
+https://antbot.org/register?code=ZSZOWZ - ZSZOWZ
 
-https://antbot.org/register?code=4kqtNK - 4kqtNK
+https://antbot.org/register?code=4kqtNK - 4kqtNK
 
 https://antbot.org/register?code=P1OB3E - P1OB3E
 
-https://www.antrade.io/4Y6JQT - 4Y6JQT
+https://www.antrade.io/4Y6JQT - 4Y6JQT
 
-#### 网站上的 OKEX 和 OKX 邀请码：（OKX 交易所 是 OKEX 交易所品牌升级后的名称）
+#### 2，网站上的 OKEX 和 OKX 邀请码：（OKX 交易所 是 OKEX 交易所品牌升级后的名称）
 
 https://www.okex.com/join/10891423 - 10891423
 
 https://www.okx.com/join/3682381 - 3682381
 
-https://www.okx.com/cn/join/30630953 - 30630953
+https://www.okx.com/cn/join/30630953 - 30630953
 
-#### 网站上的 Binance 邀请码：
+#### 3，网站上的 Binance 邀请码：
 
-https://accounts.binance.com/en/register?ref=IOW7GPN4 - IOW7GPN4
+https://accounts.binance.com/en/register?ref=IOW7GPN4 - IOW7GPN4
 
 https://accounts.binance.com/en/register?ref=116330605 - 116330605
 
 https://accounts.binancezh.top/zh-CN/register?ref=C0QWJ3K6 - C0QWJ3K6
 
-https://accounts.binance.com/en/register?ref=532923074 - 532923074
+https://accounts.binance.com/en/register?ref=532923074 - 532923074
 
-#### 网站上的 ByBit 邀请码：
+#### 4，网站上的 ByBit 邀请码：
 
 https://www.bybit.com/en-US/invite?ref=5QVO6R - 5QVO6R
 
-https://www.bybit.com/en-US/invite?ref=7O80J8 - 7O80J8
+https://www.bybit.com/en-US/invite?ref=7O80J8 - 7O80J8
 
-#### 网站上的 HuoBi 邀请码：
+#### 5，网站上的 HuoBi 邀请码：
 
 https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11345710&invite_code=bvkh5223 
 
@@ -571,15 +577,15 @@ inviter_id - 11345710
 
 invite_code - ek9p6223
 
-#### 网站上的 KuCoin 邀请码：
+#### 6，网站上的 KuCoin 邀请码：
 
 https://www.kucoin.com/r/rf/rPM5ZXX - rPM5ZXX
 
-#### 网站上的 Gate\.io 邀请码：
+#### 7，网站上的 Gate\.io 邀请码：
 
 https://www.gate.io/signup/13095293 - 13095293
 
-#### 网站上的 BitGet 邀请码：
+#### 8，网站上的 BitGet 邀请码：
 
 https://partner.bitget.com/bg/N9ET26 - N9ET26
 
@@ -604,46 +610,56 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 3. 小蚁EA - EA: Expert Advisor 专家顾问
 4. 小蚁CTA - CTA: Commodity Trading Advisor 商品交易顾问
 5. 小蚁DCA - DCA: Dollar-Cost Averaging 美元成本平均法
-6. 小蚁AI量化交易
-7. 小蚁量化交易
-8. 小蚁机器人
-9. 小蚁量化机器人
-10. 小蚁炒币机器人
-11. 小蚁AI炒币机器人
-12. 小蚁智能量化机器人
-13. 小蚁量化炒币机器人
+6. 小蚁量化
+7. 小蟻量化
+8. 小蚁量化交易
+9. 小蚁AI量化交易
+10. 小蚁机器人
+11. 小蟻機器人
+12. 小蚁量化机器人
+13. 小蚁炒币机器人
 14. 小蚁AI炒币机器人
-15. 小蚁智能量化炒币机器人
-16. 小蚁-免费的币安量化交易系统
-17. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
-18. 小蚁量化工作室
-19. 掘金量化社区
-20. AntBot
-21. Ant Robot
-22. AntTrade
-23. AntBot-AI
-24. antbot_cta
-25. AntbotDCA
-26. AntbotEA 
-27. Antbot EA
-28. AntBotQuantify
-29. ANTBOT Next-Gen AI Trading 
-30. AntBot_me
-31. AntBot_org
-32. antbot_org
-33. Ants Support
-34. AntbotSupportOfficial
-35. antbot_official
-36. AntBotIndonesia
-37. AntBot Indonesia official
-38. AntBot Auto BOT Fututures Binance Trade
-39. AntBot - A Free Trading Tool of Binance
-40. Crypto AI Bot | Ant Robot
-41. AntBot, a Full-featured Crypto Automated Trading System
-42. AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
-43. goldquant-club
-44. newbee-asia
-45. NewBee
+15. 小蚁智能量化机器人
+16. 小蚁量化炒币机器人
+17. 小蚁量化交易机器人
+18. 小蚁智能搬砖量化机器人
+19. 小蚁AI炒币机器人
+20. 小蚁智能量化炒币机器人
+21. 小蟻機器人| 加密量化工具
+22. 小蚁机器人加密量化工具
+23. 小蚁-免费的币安量化交易系统
+24. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
+25. 小蚁量化工作室
+26. 掘金量化社区
+27. AntBot
+28. Ant Robot
+29. AntTrade
+30. AntBot-AI
+31. antbot_cta
+32. AntbotDCA
+33. AntbotEA 
+34. Antbot EA
+35. AntBotQuantify
+36. ANTBOT Next-Gen AI Trading 
+37. AntBot_me
+38. AntBot_org
+39. antbot_org
+40. Ants Support
+41. AntbotSupportOfficial
+42. antbot_official
+43. AntBotIndonesia
+44. AntBot Indonesia official
+45. AntBot-Binance OKX Bybit Bot
+46. antbot-binance-okx-bybit-bot
+47. AntBot Auto BOT Fututures Binance Trade
+48. AI Crypto Trading Bots | Fully Automated Trading ANTBOT AI
+49. AntBot - A Free Trading Tool of Binance
+50. Crypto AI Bot | Ant Robot
+51. AntBot, a Full-featured Crypto Automated Trading System
+52. AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
+53. goldquant-club
+54. newbee-asia
+55. NewBee
 
 # 十，AntBot 团队地址位于：
 
@@ -850,11 +866,11 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 101.36.117.216 165.154.41.100 36.255.222.23 165.154.60.7 101.36.127.124 101.36.108.79 122.10.161.141 165.154.60.119 165.154.44.65 
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的相关漏洞数据
+### 1，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的相关漏洞数据
 
 相关漏洞数据由 SeeBug 支持提供，仅供参考
 
-#### openssh
+#### 1-1，openssh
 
 996452023-02-09中危OpenSSH 远程DOS漏洞（CVE-2023-25136）
 
@@ -866,7 +882,7 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 925822016-12-21中危OpenSSH 安全认证绕过漏洞（CVE-2016-10012）
 
-#### ssh
+#### 1-2，ssh
 
 996452023-02-09中危OpenSSH 远程DOS漏洞（CVE-2023-25136）
 
@@ -878,13 +894,13 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 983142020-07-27中危OpenSSH 8.3p1中scp存在命令执行（CVE-2020-15778）
 
-#### apache httpd
+#### 1-3，apache httpd
 
 993642021-10-08高危Apache HTTPd 多个路径穿越与命令执行漏洞（CVE-2021-41773 CVE-2021-42013）...
 
 979002019-04-10高危CVE-2019-0211 Apache Root Privilege Escalation
 
-#### nginx
+#### 1-4，nginx
 
 962732017-07-13高危Nginx Remote Integer Overflow Vulnerability(CVE-2017-7529...
 
@@ -896,7 +912,7 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 625292013-12-01高危Nginx Blank Null Byte 代码执行漏洞
 
-#### http
+#### 1-5，http
 
 995612022-08-18高危muhttpd Web 服务器 未授权任意⽂件读取漏洞（CVE-2022-31793）
 
@@ -908,7 +924,7 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 965562017-09-20高危Apps industrial OT over Server：Anti-Web Local File Incl...
 
-#### ftp
+#### 1-6，ftp
 
 994642022-02-21高危WordPress UpdraftPlus 敏感信息泄露漏洞（CVE-2022-0633）
 
@@ -920,7 +936,7 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 926942017-02-20高危FTPShell Client 5.24 - 'PWD' Remote Buffer Overflow
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的组织
+### 2，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的组织
 
 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED （中国 香港）优刻得信息科技(香港)有限公司
 
@@ -928,7 +944,7 @@ Alibaba (US) Technology Co., Ltd.（美国 圣克拉拉）阿里巴巴
 
 ucloud.cn（中国 香港）UCloud优刻得-首家公有云科创板上市公司，A股股票代码：688158
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的运营商
+### 3，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的运营商
 
 ucloud.cn（中国 香港）
 
@@ -936,13 +952,13 @@ zenlayer.com（中国 香港）
 
 ALIYUN（美国 圣克拉拉）阿里云
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的国家和城市
+### 4，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的国家和城市
 
 中国 香港
 
 美国 圣克拉拉
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的邮编
+### 5，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的邮编
 
 999077 - 中国 香港 中西区
 
@@ -950,13 +966,13 @@ ALIYUN（美国 圣克拉拉）阿里云
 
 94102 - 美国 旧金山 San Francisco
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的操作系统类型
+### 6，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的操作系统类型
 
 Windows
 
 Windows 10/Windows Server 2019
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的自治系统号(ASN)
+### 7，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的自治系统号(ASN)
 
 135377
 
@@ -966,9 +982,9 @@ Windows 10/Windows Server 2019
 
 https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ https://en.antrobotai.info/ https://zh.antrobotai.info/ https://vi.antrobotai.info/ https://de.antrobotai.info/ https://nl.antrobotai.info/ https://antbot.me/ https://ea.antbot.org/ https://www.antbot.org/ https://goldquant.club/ https://www.newbee.asia/
 
-### 从相关链接在 ZoomEye 钟馗之眼 获得的相关漏洞数据
+### 1，从相关链接在 ZoomEye 钟馗之眼 获得的相关漏洞数据
 
-#### nginx
+#### 1-1，nginx
 
 962732017-07-13高危Nginx Remote Integer Overflow Vulnerability(CVE-2017-7529...]
 
@@ -980,7 +996,7 @@ https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ ht
 
 625292013-12-01高危Nginx Blank Null Byte 代码执行漏洞
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的标题
+### 2，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的标题
 
 Crypto AI Bot | Ant Robot
 
@@ -988,25 +1004,25 @@ AntBot, a Full-featured Crypto Automated Trading System
 
 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的组织
+### 3，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的组织
 
 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 
 Google LLC
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的运营商
+### 4，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的运营商
 
 cloud.google.com
 
 ucloud.cn
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的国家和城市
+### 5，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的国家和城市
 
 新加坡
 
 中国 香港
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的邮编
+### 6，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的邮编
 
 64106 - 美国 堪萨斯城 Kansas City
 
@@ -1014,11 +1030,11 @@ ucloud.cn
 
 999077 - 中国 香港 中西区
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的操作系统类型
+### 7，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的操作系统类型
 
 --（无）
 
-### 从相关 IP 地址在 ZoomEye 钟馗之眼 获得的自治系统号(ASN)
+### 8，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的自治系统号(ASN)
 
 135377
 
@@ -1068,7 +1084,7 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 谷歌搜索：http://www.smalltreebot.com/cn/ - 小树量化机器人海外网站
 
-百度搜索：http://www.mydbc.cn/ - 量化交易机器人，电话：18380514181
+百度搜索：http://www.mydbc.cn/ - 量化交易机器人，电话：18380514181
 
 # 附录，信息原文
 
@@ -1084,7 +1100,7 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 原文链接：https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
-原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
+原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
 
 ## 附录1-2，小蚁机器人相关微信公众号信息
 
@@ -1098,7 +1114,7 @@ https://www.showwen.com/search/notes?keywords=%E5%B0%8F%E6%A0%91%E6%9C%BA%E5%99%
 
 https://tieba.baidu.com/p/7690502917 - 百度贴吧原文
 
-https://tieba.baidu.com/p/7691388773?pid=142813576424&cid=#142813576424 - 分享链接1
+https://tieba.baidu.com/p/7691388773?pid=142813576424&cid=#142813576424 - 分享链接1
 
 https://tieba.baidu.com/p/7701399012?pid=142914516619&cid=#142914516619 - 分享链接2
 
@@ -1108,7 +1124,7 @@ https://tieba.baidu.com/p/7744890631?pid=143320676076&cid=#143320676076 - 分享
 
 https://tieba.baidu.com/p/7766971651?pid=143527173164&cid=#143527173164 - 分享链接5
 
-https://tieba.baidu.com/home/main?id=tb.1.4334752a.PSJNebgaBB_Zq6yK6HclUA&fr=pb&ie=utf-8 - 发帖用户主页
+https://tieba.baidu.com/home/main?id=tb.1.4334752a.PSJNebgaBB_Zq6yK6HclUA&fr=pb&ie=utf-8 - 发帖用户主页
 
 ## 附录1-4，小蚁机器人相关经管之家信息
 
@@ -1118,13 +1134,13 @@ https://bbs.pinggu.org/thread-10642141-1-1.html - 经管之家
 
 标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
-https://www.sohu.com/a/444521875_120864833 - 搜狐网
+https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
 https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
 ## 附录1-6，龙娟和淘小铺新闻信息
 
-### 1-6-1，龙娟和淘小铺新闻信息
+### 附录1-6-1，龙娟和淘小铺新闻信息
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
@@ -1134,27 +1150,27 @@ https://www.sohu.com/a/428416683_120864833 - 搜狐
 
 https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
-### 1-6-2，龙娟和淘小铺新闻信息
+### 附录1-6-2，龙娟和淘小铺新闻信息
 
 标题：电商平台淘小铺运营商涉嫌传销，被冻结资产4400万元
 
-https://m.jiemian.com/article/4621739_qq.html - 界面
+https://m.jiemian.com/article/4621739_qq.html - 界面
 
-### 1-6-3，龙娟和淘小铺新闻信息
+### 附录1-6-3，龙娟和淘小铺新闻信息
 
 标题：2020阿里巴巴淘小铺千人峰会杭州站
 
-http://www.weishangnews.com/m/view.php?aid=23480 - 微商世界
+http://www.weishangnews.com/m/view.php?aid=23480 - 微商世界
 
 ## 附录1-7，龙娟新闻信息
 
 标题：专访龙娟-社交电商学会做人最重要
 
-https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
+https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
 
-https://www.sohu.com/a/420787769_120864833 - 搜狐
+https://www.sohu.com/a/420787769_120864833 - 搜狐
 
-https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
+https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 ## 附录1-8，龙娟百度贴吧信息
 
@@ -1178,7 +1194,7 @@ http://m.chapianju.com/news/biquanzijinpan/202012/6517.html - 防骗网
 
 http://www.fcxzc110.com/yujingpuguang/1916.html - 中国反传销之窗网
 
-https://www.110cx.com/a/wzsw/20201224/3694.html - 传销举报中心
+https://www.110cx.com/a/wzsw/20201224/3694.html - 传销举报中心
 
 腾讯新闻链接 - 已经被删除
 
@@ -1188,67 +1204,103 @@ https://www.110cx.com/a/wzsw/20201224/3694.html - 传销举报中心
 
 https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
-# 附录2，AntBot 网站文案
+# 附录2 小蚁机器人宣传信息
 
-## 附录2-1，AntBot.org 网站文案一
+## 附录2-1，小蚁机器人知乎信息
+
+https://www.zhihu.com/people/47-92-41-98
+
+## 附录2-2，小蚁机器人财经视野网文章
+
+原文链接：https://www.alleyeshot.com/caijing/202106/062327764.html
+
+标题：【佣金】小蚁智能搬砖量化机器人炒币收益怎么样？佣金如何兑换？
+
+## 附录2-3，小蚁机器人财经视野网文章
+
+原文链接：https://www.alleyeshot.com/caijing/202106/062327763.html
+
+标题：【团队】小蚁智能搬砖量化机器人一手团队怎么对接？怎么推广？
+
+## 附录2-4，小蚁机器人中部法治观察网文章
+
+链接：http://www.lkhdzx.com/SheHui/s55585.html
+
+标题：【重磅】小蚁智能搬砖量化机器人轻松搞定无需盯盘！
+
+# 附录3，AntBot 网站文案
+
+## 附录3-1，AntBot.org 网站文案一
 
 原文链接：https://web.archive.org/web/20210930093657/http://antbot.org/download/en
 
-## 附录2-2，AntBot.org 网站文案二
+## 附录3-2，AntBot.org 网站文案二
 
 原文链接：https://web.archive.org/web/20220512160618/https://antbot.org/download/en
 
-## 附录2-3，AntBot-AI.org 网站文案三
+## 附录3-3，AntBot-AI.org 网站文案三
 
 原文链接：https://web.archive.org/web/20211215114613/https://www.antbot-ai.org/
 
-## 附录2-4，AntBot.me 网站文案四
+## 附录3-4，AntBot.me 网站文案四
 
 原文链接：https://antbot.me （有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-## 附录2-5，AntBot.me 网站文案五
+## 附录3-5，AntBot.me 网站文案五
 
 原文链接：https://blog.antbot.me/?id=9（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-## 附录2-6，AntBot.me 网站文案六
+## 附录3-6，AntBot.me 网站文案六
 
 原文链接：https://blog.antbot.me/（无截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-## 附录2-7，Antrade.io 网站文案七
+## 附录3-7，Antrade.io 网站文案七
 
-### 附录2-7-1，Antrade.io 网站文案
+### 附录3-7-1，Antrade.io 网站文案
 
 原文链接：https://www.antrade.io/
 
-### 附录2-7-2，英文文档
+### 附录3-7-2，英文文档
 
 英文文档：https://www.antrade.io/guide/docs/en/
 
-### 附录2-7-3，中文文档
+### 附录3-7-3，中文文档
 
 中文文档：https://www.antrade.io/guide/docs/cn/
 
-# 附录3，海外新闻文章
+## 附录3-8，AntBot 在 apkcombo.com 的文案
 
-## 附录3-ID-1，印尼爪哇语新闻文章一
+链接：https://apkcombo.com/antbot-binance-okx-bybit-bot/ea.antbot.org/
+
+标题：[ANTBOT-BINANCE OKX BYBIT BOT APP](https://apkcombo.com/antbot-binance-okx-bybit-bot/ea.antbot.org/)
+
+## 附录3-9，AntBot 在 apksos.com 的文案
+
+链接：https://apksos.com/app/ea.antbot.org
+
+标题：[Home ](https://apksos.com/)» [Tools ](https://apksos.com/category/tools)» AntBot-Binance OKX Bybit Bot
+
+# 附录4，海外新闻文章
+
+## 附录4-ID-1，印尼爪哇语新闻文章一
 
 原文链接：https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/
 
 标题：AntBot Robot Tranding Crypto Gratis Biaya Sewa
 
-## 附录3-EN-1，英文新闻文章一
+## 附录4-EN-1，英文新闻文章一
 
 原文链接：https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy
 
 标题：Full-Featured Crypto Automated Trading System, Antbot Launches Relative-Value Trading Strategy
 
-## 附录3-EN-2，英文新闻文章二
+## 附录4-EN-2，英文新闻文章二
 
 原文链接：https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
 
 标题：New Generation Expert Advisor AntBot Launches Relative Value Strategy
 
-## 附录3-EN-3，英文新闻文章三
+## 附录4-EN-3，英文新闻文章三
 
 原文链接：https://sg.finance.yahoo.com/news/antbot-full-featured-crypto-automated-040000752.html
 
@@ -1258,19 +1310,19 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 标题：AntBot, a Full-featured Crypto Automated Trading System, Launched Relative-value Trading Strategy
 
-## 附录3-EN-4，英文新闻文章四
+## 附录4-EN-4，英文新闻文章四
 
 原文链接：https://fsr-develop.com/antbot-ai-review
 
 标题：**ANTBOT AI REVIEW | BEGINNER'S FRIENDLY GUIDE**
 
-## 附录3-EN-5，英文新闻文章五
+## 附录4-EN-5，英文新闻文章五
 
 https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8
 
 标题：**[AntBot AI](https://www.antbot-ai.org/)** App-based automated crypto trading platform offering trading bots
 
-## 附录3-EN-6，英文文章六
+## 附录4-EN-6，英文文章六
 
 https://www.quora.com/What-is-Antbot-for-cryptocurrency
 
@@ -1288,7 +1340,7 @@ https://www.quora.com/What-is-Antbot-for-cryptocurrency
 
 原文链接：https://www.blockvalue.com/baike/20210319843427.html - 玩币族 - 自动备份
 
-原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
+原始链接无法获得，但是可在备份链接查看内容 \- 金色财经 - 已经被删除
 
 2021-03-19 17:58:38 
 
@@ -1358,7 +1410,7 @@ https://www.quora.com/What-is-Antbot-for-cryptocurrency
 
 https://tieba.baidu.com/p/7690502917 - 百度贴吧原文
 
-https://tieba.baidu.com/p/7691388773?pid=142813576424&cid=#142813576424 - 分享链接1
+https://tieba.baidu.com/p/7691388773?pid=142813576424&cid=#142813576424 - 分享链接1
 
 https://tieba.baidu.com/p/7701399012?pid=142914516619&cid=#142914516619 - 分享链接2
 
@@ -1368,7 +1420,7 @@ https://tieba.baidu.com/p/7744890631?pid=143320676076&cid=#143320676076 - 分享
 
 https://tieba.baidu.com/p/7766971651?pid=143527173164&cid=#143527173164 - 分享链接5
 
-https://tieba.baidu.com/home/main?id=tb.1.4334752a.PSJNebgaBB_Zq6yK6HclUA&fr=pb&ie=utf-8 - 发帖用户主页
+https://tieba.baidu.com/home/main?id=tb.1.4334752a.PSJNebgaBB_Zq6yK6HclUA&fr=pb&ie=utf-8 - 发帖用户主页
 
 开发数字货币量化交易系统有哪些好处呢?
 
@@ -1466,7 +1518,7 @@ w17166570219@163.com
 
 标题：精英专访第四期：龙娟老师和她的享抱团联盟
 
-https://www.sohu.com/a/444521875_120864833 - 搜狐网
+https://www.sohu.com/a/444521875_120864833 - 搜狐网
 
 https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
@@ -1532,7 +1584,7 @@ https://mp.weixin.qq.com/s/gf2C-0ATyre7qaSZTahTZg - 微信公众号 - 个创家
 
 ## 附录1-6，龙娟和淘小铺新闻信息
 
-### 1-6-1，龙娟和淘小铺新闻信息
+### 附录1-6-1，龙娟和淘小铺新闻信息
 
 标题：淘小铺赋能团队长，打造个性IP，掌柜专属货架
 
@@ -1580,11 +1632,11 @@ https://baijiahao.baidu.com/s?id=1681968845841330721 - 百度 - 百家号
 
 微商、社交电商、直销各类信息请找个创家（gechuangjia.com）。
 
-### 1-6-2，龙娟和淘小铺新闻信息
+### 附录1-6-2，龙娟和淘小铺新闻信息
 
 标题：电商平台淘小铺运营商涉嫌传销，被冻结资产4400万元
 
-https://m.jiemian.com/article/4621739_qq.html - 界面
+https://m.jiemian.com/article/4621739_qq.html - 界面
 
 据中国裁判文书网6月29日发布的《滨州市滨城区市场监督管理局、广州三帅六将教育科技有限公司其他行政裁定书》（以下简称《裁定书》）显示，淘宝旗下社交电商平台淘小铺运营方等相关多家企业因涉嫌传销，被山东省滨州市滨城区人民法院冻结资产共计4400万元。
 
@@ -1594,11 +1646,11 @@ https://m.jiemian.com/article/4621739_qq.html - 界面
 
 依照相关法律法规，法院裁定冻结广州三帅六将教育科技有限公司及相关公司资产。
 
-### 1-6-3，龙娟和淘小铺新闻信息
+### 附录1-6-3，龙娟和淘小铺新闻信息
 
 标题：2020阿里巴巴淘小铺千人峰会杭州站
 
-http://www.weishangnews.com/m/view.php?aid=23480 - 微商世界
+http://www.weishangnews.com/m/view.php?aid=23480 - 微商世界
 
 朋友们大家好!我是沈老师，之前一直在各地进行淘小铺的招商演讲，马上临近端午，提前祝大家端午节快乐，当然如果有些朋友想要抓住今年下半年社交电商的风口，就赶快加入我们淘小铺吧!(有兴趣可以看我的朋友圈sjjtxp)
 
@@ -1620,11 +1672,11 @@ http://www.weishangnews.com/m/view.php?aid=23480 - 微商世界
 
 标题：专访龙娟-社交电商学会做人最重要
 
-https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
+https://mp.weixin.qq.com/s/b2X7Tk_weXeQGpVkpPI9SA - 微信公众号 - 个创家
 
-https://www.sohu.com/a/420787769_120864833 - 搜狐
+https://www.sohu.com/a/420787769_120864833 - 搜狐
 
-https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
+https://baijiahao.baidu.com/s?id=1678783902931659424 - 百度 - 百家号
 
 原创 个创家 2020-09-25 14:33
 
@@ -1741,7 +1793,7 @@ http://m.chapianju.com/news/biquanzijinpan/202012/6517.html - 防骗网
 
 http://www.fcxzc110.com/yujingpuguang/1916.html - 中国反传销之窗网
 
-https://www.110cx.com/a/wzsw/20201224/3694.html - 传销举报中心
+https://www.110cx.com/a/wzsw/20201224/3694.html - 传销举报中心
 
 腾讯新闻链接 - 已经被删除
 
@@ -1940,9 +1992,249 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 特别声明：本文为网易自媒体平台“网易号”作者上传并发布，仅代表该作者观点。网易仅提供信息发布平台。
 
-# 附录2，AntBot 网站文案
+# 附录2 小蚁机器人宣传信息
 
-## 附录2-1，AntBot.org 网站文案一
+## 附录2-1，小蚁机器人知乎信息
+
+https://www.zhihu.com/people/47-92-41-98
+
+IP 属地未知
+
+小蚁量化资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+ 查看详细资料
+
+他的动态
+
+回答了问题2022-03-30 14:42
+
+[想靠炒股成为有钱人，靠谱吗？](https://www.zhihu.com/question/24296470/answer/2414778478)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+现在[炒股](https://www.zhihu.com/search?q=炒股&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2414778478})不如币圈，就算是小白不抱着暴富的心态做量化也很稳定
+
+[发布于 2022-03-30 14:42](https://www.zhihu.com/question/24296470/answer/2414778478)
+
+回答了问题2022-03-30 14:40
+
+[现在区块链这么火，作为小白应该怎么投资？如果买币的话，有什么推荐的？](https://www.zhihu.com/question/267140740/answer/2414775577)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+小白建议做量化，不管是合约还是现货都是稳定的阅读全文
+
+回答了问题2022-03-26 15:39
+
+[现在大环境这么不好，有没有哪一种理财安全可靠，收益高？](https://www.zhihu.com/question/522061955/answer/2408346469)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+可以交给我们，资金在你账户，我们可以实现月化15%阅读全文
+
+回答了问题2022-03-26 15:38
+
+[2022年有50w应该如何投资理财？](https://www.zhihu.com/question/523430442/answer/2408345452)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+我这里合约量化和资管服务，月化稳定15%阅读全文
+
+回答了问题2022-03-26 15:37
+
+[基金赔了，现在还有什么理财可以挣点钱啊？](https://www.zhihu.com/question/522009577/answer/2408344346)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+来我这里做资管或者合约量化吧，理财类型，月化收益15%～40%阅读全文
+
+回答了问题2022-03-26 15:36
+
+[累积定投基金6万元，已经亏了1.2万元，是不是不适合理财？还有必要坚持定投吗？](https://www.zhihu.com/question/520624570/answer/2408342661)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+选择错误，可以尝试其他的，比如合约量化阅读全文
+
+回答了问题2022-03-26 15:35
+
+[手上有闲钱5万，打算做理财，做什么好呢？](https://www.zhihu.com/question/519798324/answer/2408340459)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+可以试着来我这里做合约量化，资金都是在你自己账户，月化稳定15%～40%阅读全文
+
+回答了问题2022-03-26 15:34
+
+[现金200万怎么做长期理财，可以不用经常打理?](https://www.zhihu.com/question/514912612/answer/2408339329)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+找资管，我这边保本保利月化5%，每月分成一次，可观摩阅读全文
+
+回答了问题2022-03-26 15:31
+
+[大学生有必要花几千块钱学理财吗?](https://www.zhihu.com/question/517915087/answer/2408335533)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+如果几千块钱不是你全身家当，可以试试阅读全文
+
+回答了问题2022-03-26 15:30
+
+[理财真的重要吗？](https://www.zhihu.com/question/516375138/answer/2408333768)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+理财很重要，但是基于你有闲钱去理财的基础上，我也一样理财不过是在币圈，只要稳定有收入就行阅读全文
+
+回答了问题2022-03-26 11:57
+
+[一个老哥，才认识四天就一直给我推荐虚拟币，我不懂也不感兴趣，该怎么委婉的提醒他？](https://www.zhihu.com/question/518505976/answer/2408038796)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+其实可以尝试着进入币圈，如果想挣点小钱还不错阅读全文
+
+回答了问题2022-03-23 16:08
+
+[数字货币合约，一万开始，目标142万，一年时间，可能吗？](https://www.zhihu.com/question/514458940/answer/2403461740)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+可能，执行力，心态，还有运气要到位阅读全文
+
+回答了问题2022-03-23 16:07
+
+[币圈全部回暖，这是为什么？](https://www.zhihu.com/question/515552281/answer/2403458988)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+不做现货，涨跌影响不大阅读全文
+
+回答了问题2022-03-23 16:06
+
+[大学生，22年用2000元炒币，只要1w能实现吗？](https://www.zhihu.com/question/513224279/answer/2403457413)
+
+[小蚁量化](https://www.zhihu.com/people/47-92-41-98)
+
+资管中心，量化中心，对接有能力团队返佣高达85%技术成熟稳定
+
+可以实现
+
+## 附录2-2，小蚁机器人财经视野网文章
+
+原文链接：https://www.alleyeshot.com/caijing/202106/062327764.html
+
+标题：【佣金】小蚁智能搬砖量化机器人炒币收益怎么样？佣金如何兑换？
+
+时间：2021-06-23 10:54:05 
+
+来源：搜狐
+
+如果你没了解过量化交易，或者不知道市面上哪些智能量化比较好的话，老师这边建议直接使用智能量化交易软件就可以全自动赚钱了。这里老师推荐小蚁量化机器人，小蚁智能量化机器人是适用于现货和合约的一款全自动炒币机器人，让小蚁智能搬砖量化机器人带您走上全自动的轻松致富之路!
+
+量化机器人对接V:76781813
+
+小蚁量化机器人交易优势:1、克服人性的弱点,没有贪婪和恐惧,纪律性强、严格执行投资策略,不受投资者情绪的变化而随意更改。2、模型的系统性:多层次的量化模型、多角度的观察及海量数据的处理,结合大数据处理技术到更多的投资机会。人的经验和总结和大数据相比就显得手工交易的机会比较有限。3、及时、快速、准确:及时快速地跟踪市场变化,不断发现能够提供超额收益的新的统计模型,寻找新的交易机会。并且下单的准确无误,这是主观交易无法相提并论的。在数字货场比传统市场更适合量化交易的几个特征:1、交易不间断:数字货场 7*24h*365天不间断,通过程序化交易策略才能实现不间断交易,靠人工根本无法达到。2、交易品种多:目前种类繁多,再加上不同的定价,形成更多的交易对。通过程序化交易不会错失机会,多品种和多市场只能靠程序完成。
+
+基于历史数据的回测检验和优化:程序化可以将你的策略参数化和结果提前进行预测,让你对交易策略本身的理解更加透彻,形成自己的交易系统。虽然现在市场看起来并没有想象中的那么美好，但有句话说得很好：“机会永远是给有准备的人”，我们要对将来的机会做好准备。许多人都不知道应该怎么炒币，毕竟不是任何人能够准确判断什么时候买入，什么时候卖出的，在这种情况下我们应该如何去赚取更多的钱?小蚁智能量化机器人将区块链技术和人的大脑思维体系完美结合,利用数学、统计学、信息技术并结合人的投资经验来管理投资组合,利用电脑弥补人脑不能快速处理大量信息和情绪化行为的不足。
+
+由此形成一套完美的智能运行代码,代替人工操作,完全解放双手。所有参数,开启或关闭完全由自己决定,资产也是在自己的里,机器人无法动用。真正做到安全,省心,快捷。
+
+量化机器人对接V:76781813
+
+声明：文章仅代表原作者观点，不代表本站立场；如有侵权、违规，可直接反馈本站，我们将会作修改或删除处理。
+
+## 附录2-3，小蚁机器人财经视野网文章
+
+原文链接：https://www.alleyeshot.com/caijing/202106/062327763.html
+
+标题：【团队】小蚁智能搬砖量化机器人一手团队怎么对接？怎么推广？
+
+时间：2021-06-23 10:53:55
+
+来源：
+
+如果你没了解过量化交易，或者不知道市面上哪些智能量化比较好的话，老师这边建议直接使用智能量化交易软件就可以全自动赚钱了。这里老师推荐小蚁量化机器人，小蚁智能量化机器人是适用于现货和合约的一款全自动炒币机器人，让小蚁智能搬砖量化机器人带您走上全自动的轻松致富之路!
+
+量化机器人对接V:76781813
+
+小蚁量化机器人交易优势:1、克服人性的弱点,没有贪婪和恐惧,纪律性强、严格执行投资策略,不受投资者情绪的变化而随意更改。2、模型的系统性:多层次的量化模型、多角度的观察及海量数据的处理,结合大数据处理技术到更多的投资机会。人的经验和总结和大数据相比就显得手工交易的机会比较有限。3、及时、快速、准确:及时快速地跟踪市场变化,不断发现能够提供超额收益的新的统计模型,寻找新的交易机会。并且下单的准确无误,这是主观交易无法相提并论的。在数字货场比传统市场更适合量化交易的几个特征:1、交易不间断:数字货场 7*24h*365天不间断,通过程序化交易策略才能实现不间断交易,靠人工根本无法达到。2、交易品种多:目前种类繁多,再加上不同的定价,形成更多的交易对。通过程序化交易不会错失机会,多品种和多市场只能靠程序完成。
+
+基于历史数据的回测检验和优化:程序化可以将你的策略参数化和结果提前进行预测,让你对交易策略本身的理解更加透彻,形成自己的交易系统。虽然现在市场看起来并没有想象中的那么美好，但有句话说得很好：“机会永远是给有准备的人”，我们要对将来的机会做好准备。许多人都不知道应该怎么炒币，毕竟不是任何人能够准确判断什么时候买入，什么时候卖出的，在这种情况下我们应该如何去赚取更多的钱?小蚁智能量化机器人将区块链技术和人的大脑思维体系完美结合,利用数学、统计学、信息技术并结合人的投资经验来管理投资组合,利用电脑弥补人脑不能快速处理大量信息和情绪化行为的不足。
+
+由此形成一套完美的智能运行代码,代替人工操作,完全解放双手。所有参数,开启或关闭完全由自己决定,资产也是在自己的里,机器人无法动用。真正做到安全,省心,快捷。
+
+量化机器人对接V:76781813
+
+声明：文章仅代表原作者观点，不代表本站立场；如有侵权、违规，可直接反馈本站，我们将会作修改或删除处理。
+
+## 附录2-4，小蚁机器人中部法治观察网文章
+
+链接：http://www.lkhdzx.com/SheHui/s55585.html
+
+标题：【重磅】小蚁智能搬砖量化机器人轻松搞定无需盯盘！
+
+来源： 
+
+作者：
+
+时间：2021-06-23 21:42:02
+
+如果你没了解过量化交易，或者不知道市面上哪些智能量化比较好的话，老师这边建议直接使用智能量化交易软件就可以全自动赚钱了。这里老师推荐小蚁量化机器人，小蚁智能量化机器人是适用于现货和合约的一款全自动炒币机器人，让小蚁智能搬砖量化机器人带您走上全自动的轻松致富之路!
+
+量化机器人对接V:76781813
+
+小蚁量化机器人交易优势:
+
+1、克服人性的弱点,没有贪婪和恐惧,纪律性强、严格执行投资策略,不受投资者情绪的变化而随意更改。
+
+2、模型的系统性:多层次的量化模型、多角度的观察及海量数据的处理,结合大数据处理技术到更多的投资机会。人的经验和总结和大数据相比就显得手工交易的机会比较有限。
+
+3、及时、快速、准确:及时快速地跟踪市场变化,不断发现能够提供超额收益的新的统计模型,寻找新的交易机会。并且下单的准确无误,这是主观交易无法相提并论的。
+
+在数字货场比传统市场更适合量化交易的几个特征:
+
+1、交易不间断:数字货场 7*24h*365天不间断,通过程序化交易策略才能实现不间断交易,靠人工根本无法达到。
+
+2、交易品种多:目前种类繁多,再加上不同的定价,形成更多的交易对。通过程序化交易不会错失机会,多品种和多市场只能靠程序完成。
+
+基于历史数据的回测检验和优化:程序化可以将你的策略参数化和结果提前进行预测,让你对交易策略本身的理解更加透彻,形成自己的交易系统。虽然现在市场看起来并没有想象中的那么美好，但有句话说得很好：“机会永远是给有准备的人”，我们要对将来的机会做好准备。许多人都不知道应该怎么炒币，毕竟不是任何人能够准确判断什么时候买入，什么时候卖出的，在这种情况下我们应该如何去赚取更多的钱?小蚁智能量化机器人将区块链技术和人的大脑思维体系完美结合,利用数学、统计学、信息技术并结合人的投资经验来管理投资组合,利用电脑弥补人脑不能快速处理大量信息和情绪化行为的不足。
+
+由此形成一套完美的智能运行代码,代替人工操作,完全解放双手。所有参数,开启或关闭完全由自己决定,资产也是在自己的里,机器人无法动用。真正做到安全,省心,快捷。
+
+量化机器人对接V:76781813
+
+# 附录3，AntBot 内部网站文案
+
+## 附录3-1，AntBot.org 网站文案一
 
 原文链接：https://web.archive.org/web/20210930093657/http://antbot.org/download/en
 
@@ -1952,7 +2244,7 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 ANTBOT was born in 2020 and is one of the top tools for quantitative trading of digital currencies in the world. It is headquartered in Shenzhen, China and radiates the global market.
 ANTBOT focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
 
-## 附录2-2，AntBot.org 网站文案二
+## 附录3-2，AntBot.org 网站文案二
 
 原文链接：https://web.archive.org/web/20220512160618/https://antbot.org/download/en
 
@@ -1972,7 +2264,7 @@ AntBot pioneered an intelligent position management system, a hedge futures arbi
 
 AntBot focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
 
-## 附录2-3，AntBot-AI.org 网站文案三
+## 附录3-3，AntBot-AI.org 网站文案三
 
 原文链接：https://web.archive.org/web/20211215114613/https://www.antbot-ai.org/
 
@@ -2056,7 +2348,7 @@ Shenzhen, Guangdong, China
 
 2020, Antbot. All Rights Reserved
 
-## 附录2-4，AntBot.me 网站文案四
+## 附录3-4，AntBot.me 网站文案四
 
 原文链接：https://antbot.me（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
@@ -2542,11 +2834,11 @@ Certificate:
          34:be:87:dd
 ```
 
-## 附录2-5，AntBot.me 网站文案五
+## 附录3-5，AntBot.me 网站文案五
 
 原文链接：https://blog.antbot.me/?id=9（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-**您的当前位置：首页》联系找们**
+**您的当前位置：首页 » 联系找们**
 
 **[联系我们] 小蚁量化工作室**
 
@@ -2568,7 +2860,7 @@ Tag：
 
 [联系我们] 小蚁量化工作室
 
-## 附录2-6，AntBot.me 网站文案六
+## 附录3-6，AntBot.me 网站文案六
 
 原文链接：https://blog.antbot.me/（无截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
@@ -2794,9 +3086,9 @@ Certificate:
          51:a6:8a:2c
 ```
 
-## 附录2-7，Antrade.io 网站文案七
+## 附录3-7，Antrade.io 网站文案七
 
-### 附录2-7-1，Antrade.io 网站文案
+### 附录3-7-1，Antrade.io 网站文案
 
 原文链接：https://www.antrade.io/
 
@@ -2872,7 +3164,7 @@ AntBot is a comprehensive cryptocurrency investment ecosystem, covering the inve
 
 ©️2022 AntBot. All Rights Reserved
 
-### 附录2-7-2，英文文档
+### 附录3-7-2，英文文档
 
 原文链接：https://www.antrade.io/guide/docs/en/
 
@@ -3022,7 +3314,7 @@ NewPopular
 
 @AntBot free trading bot
 
-### 附录2-7-3，中文文档
+### 附录3-7-3，中文文档
 
 原文链接：https://www.antrade.io/guide/docs/cn/
 
@@ -3172,9 +3464,101 @@ NewPopular
 
 @AntBot free trading bot
 
-# 附录3，海外新闻文章
+## 附录3-8，AntBot 在 apkcombo.com 的文案
 
-## 附录3-ID-1，印尼爪哇语新闻文章
+链接：https://apkcombo.com/antbot-binance-okx-bybit-bot/ea.antbot.org/
+
+标题：[ANTBOT-BINANCE OKX BYBIT BOT APP](https://apkcombo.com/antbot-binance-okx-bybit-bot/ea.antbot.org/)
+
+Welcome to AntBot, a groundbreaking cryptocurrency auto trading robot designed to optimize your trading experience and profits. AntBot employs cutting-edge trading algorithms and strategies to maintain a leading position in the market and minimize risks. Download AntBot now and experience the difference!
+
+Key Features:
+
+Long and Short Arbitrage Strategy: AntBot offers unique strategies, including Dual Grid, Dual DCA, and Relative Value, which calculate the most advantageous trades in real-time based on the fluctuation of the underlying assets and other attributes.
+
+Trend Following Strategy: With powerful trend following strategies like AI Beta, Momentum, DMA, and Supertrend, AntBot monitors trend changes and executes trades at the optimal entry and exit points, profiting from following strong market trends.
+
+Copy Trading System: Improve your trading performance by leveraging the expertise of top traders through replicating successful traders' strategies.
+
+Real-time Stop-loss Risk Control: Automatically control your risk exposure in real-time based on market conditions and your risk tolerance, ensuring your investments are protected even during extreme market fluctuations.
+
+Precise Backtesting System: Test your strategies using historical data, identify their strengths and weaknesses, and refine them before deployment.
+
+Customizable and Smart Parameter Integration: Customize parameters to suit your unique preferences and risk tolerance, allowing the system to learn and adapt to your trading style, maximizing your profits.
+
+Multiple Exchanges and Cryptocurrency Support: Supports major exchanges such as Binance, OKX, Bybit, KuCoin, Gate.io, Bitget, and Huobi, as well as over 200 cryptocurrencies.
+
+AntBot is a comprehensive investment system, covering investment screening, arbitrage strategies, asset allocation, and risk control. It's a powerful weapon that allows you to compete with professional algorithmic traders. Don't miss out on this powerful tool! Download AntBot now and experience unparalleled advantages.
+
+Website: www.antrade.io
+
+Youtube: www.youtube.com/@antradeio
+
+Twitter: twitter.com/antrade_io
+
+Telegram: t.me/AntBotQuantify
+
+## 附录3-9，AntBot 在 apksos.com 的文案
+
+链接：https://apksos.com/app/ea.antbot.org
+
+标题：[Home ](https://apksos.com/)» [Tools ](https://apksos.com/category/tools)» AntBot-Binance OKX Bybit Bot
+
+**AntBot-Binance OKX Bybit Bot 2.3.6 APK**
+
+- Version: 2.3.6
+- File size: 35.43MB
+- Requires: Android 4.0+
+- Package Name: ea.antbot.org
+- Developer: [stargamevip](https://apksos.com/developer/stargamevip)
+- Updated: March 15, 2023
+- Price: Free
+- Rate 4.37 stars – based on 667 reviews
+
+[Download APK (35.43MB)](https://apksos.com/download-app/ea.antbot.org)
+[Play On Windows PC](https://en.ldplayer.net/?n=43295964#utm_source=aff&utm_medium=aff&utm_campaign=aff43295964)
+
+**What's new**
+
+------
+
+1.Offers Binance,Okx,Bybit,KuCoin,Coinbase,Huobi,Bitget including Spot and Futures
+2.Offers AI Grid,Classic Grid,Dual DCA,AI DCA,Beta AI,Rebalancing
+3.Released the referral rebate system, rebate up to 60%
+4.Released Long-Short Dual Grid futures strategy, based on ATR、support/resistance algorithm, intelligent layout Grid Number and Grid Interval
+5.Released CTA indicators strategy, offers TD,MACD,KDJ,BOLL,MA,EMA,WR,RSI,KAMA, custom period
+
+**The description of Digital World AntBot-Binance OKX Bybit Bot**
+
+------
+
+We provide **AntBot-Binance OKX Bybit Bot 2.3.6 APK** file for Android 4.0+ and up. AntBot-Binance OKX Bybit Bot is a free Tools app. It's easy to download and install to your mobile phone.
+Please be aware that ApkSOS only share the original and free pure apk installer for AntBot-Binance OKX Bybit Bot 2.3.6 APK without any modifications.
+
+The average rating is 4.37 out of 5 stars on playstore. If you want to know more about AntBot-Binance OKX Bybit Bot then you may visit stargamevip support center for more information
+
+All the apps & games here are for home or personal use only. If any apk download infringes your copyright, please contact us. AntBot-Binance OKX Bybit Bot is the property and trademark from the developer stargamevip.
+
+小蚁EA, The English name is AntBot, which is a digital currency intelligent trading robot tool APP.
+AntBot adopts the invitation system, please contact your recommender to obtain the invitation code.
+We pioneered smart position management. With our futures robot, you can sleep peacefully.
+
+AntBot was born in 2020 and is one of the top tools for quantitative trading of digital currencies in the world. It is headquartered in Shenzhen, China and radiates the global market.
+AntBot focuses on encrypted finance as its strategic direction, relying on years of professional accumulation in the traditional financial quantitative market and deep cultivation of the digital asset market, and has provided technical and strategic services for many exchanges, liquidity providers, and marketers. The platform is committed to building a quantitative arbitrage solution and guidance system for the secondary market of encrypted assets, opening the door to quantification of digital assets for global institutional investors and ordinary investors, and providing high-performance, multi-strategy, multi-dimensional, safe and stable digital asset quantification service.
+
+Show Less
+
+**All Version**
+
+------
+
+- [AntBot-Binance OKX Bybit Bot 2.3.6 APK](https://apksos.com/download-app/ea.antbot.org?version=8964551)
+- [AntBot-Binance OKX Bybit Bot 2.3.5 APKs](https://apksos.com/download-app/ea.antbot.org?version=8871641)
+- [AntBot-Binance OKX Bybit Bot 2.3.4 APKs](https://apksos.com/download-app/ea.antbot.org?version=8553945)
+
+# 附录4，海外新闻文章
+
+## 附录4-ID-1，印尼爪哇语新闻文章
 
 原文链接：https://www.androidponsel.com/34271/antbot-robot-tranding-crypto/
 
@@ -3323,7 +3707,7 @@ Bagaimana apakah Anda nampak jelas dengan cara daftar dan menggunakan Antbot ini
 
 **[Antbot] https://www.androidponsel.com/tag/antbot/ [Robot Trading] https://www.androidponsel.com/tag/robot-trading/ [Robot Trading Crypto] https://www.androidponsel.com/tag/robot-trading-crypto/**
 
-## 附录3-EN-1，英文新闻文章一
+## 附录4-EN-1，英文新闻文章一
 
 原文链接：https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy
 
@@ -3365,7 +3749,7 @@ AntBot
 
 [MENAFN02122022003092003082ID1105261969](https://menafn.com/1105261969/Full-Featured-Crypto-Automated-Trading-System-Antbot-Launches-Relative-Value-Trading-Strategy)
 
-## 附录3-EN-2，英文新闻文章二
+## 附录4-EN-2，英文新闻文章二
 
 原文链接：https://finance.yahoo.com/news/generation-expert-advisor-antbot-launches-150000139.html?guccounter=1
 
@@ -3395,7 +3779,7 @@ AntBot website ：[https://www.antrade.io](https://www.globenewswire.com/Tracker
 
 CONTACT：Michael Musk AntBot business -at- antrade.io
 
-## 附录3-EN-3，英文新闻文章三
+## 附录4-EN-3，英文新闻文章三
 
 原文链接：https://sg.finance.yahoo.com/news/antbot-full-featured-crypto-automated-040000752.html
 
@@ -3432,7 +3816,7 @@ Hashtag：#AntBot
 
 The issuer is solely responsible for the content of this announcement.
 
-## 附录3-EN-4，英文新闻文章四
+## 附录4-EN-4，英文新闻文章四
 
 原文链接：https://fsr-develop.com/antbot-ai-review
 
@@ -3521,11 +3905,11 @@ If something is not clear, just contact support via Telegram [**@CScalp_support_
 
 You can also visit our [**Discord channel**](https://discord.gg/9AvmNwVQUJ) or subscribe to the [**CScalp TV YouTube channel**](https://www.youtube.com/channel/UCPNZia9Cm8hSCKk7SCvI18w/featured).
 
-## 附录3-EN-5，英文新闻文章五
+## 附录4-EN-5，英文新闻文章五
 
 https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8
 
-标题：**[AntBot AI](https://www.antbot-ai.org/)** App-based automated crypto trading platform offering trading bots
+标题：**[AntBot AI](https://www.antbot-ai.org/)** App-based automated crypto trading platform offering trading bots
 
 [Take a demo to unlock full profile](https://tracxn.com/demo?utm_source=marketing-seo page&utm_medium=companies&utm_campaign=UnlockFullProfile&utm_content=cta)
 
@@ -3580,7 +3964,7 @@ AntBot AI's competitors include [3Commas](https://tracxn.com/d/companies/3commas
 
 View [AntBot AI Competitors](https://tracxn.com/d/companies/antbot-ai/__S5Mucps_2nNgjuk2BwqMzOnS_1PsQnNq_pmGO0AlGD8/competitors)
 
-## 附录3-EN-6，英文文章六
+## 附录4-EN-6，英文文章六
 
 https://www.quora.com/What-is-Antbot-for-cryptocurrency
 
