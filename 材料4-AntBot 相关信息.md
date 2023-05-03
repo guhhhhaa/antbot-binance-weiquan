@@ -62,13 +62,13 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 7，AntBot 网站7 - https://www.antbot.org/（无截图，有archive.org历史快照，无法访问，删除时间未知）
 
-8，AntBot 网站8 - http://www.goldquant.club（有截图，有谷歌快照，无法访问，删除时间2023年4月28日）
+8，AntBot 网站8 - http://www.goldquant.club/（有截图，有谷歌快照，无法访问，删除时间2023年4月28日）
 
 9，AntBot 网站9 - https://www.newbee.asia/（无截图，有谷歌快照，无法访问，删除时间2023年4月28日）
 
 # 三，AntBot 网站快照
 
-**1，https://archive.org/ 是全球著名的网页快照储存网站，上面存储有AntBot网站的快照**
+**1，https://archive.org/ 是全球著名的网页快照储存网站，上面存储有AntBot网站的快照。（需要使用VPN访问）**
 
 https://www.antbot.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot.org/](https://web.archive.org/web/*/https://www.antbot.org/)
 
@@ -78,11 +78,11 @@ https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org
 
 **2，https://www.zoomeye.org/ 钟馗之眼是中国知道创宇公司的网络空间搜索网站，上面存储有AntBot网站的快照和数据。**
 
-https://antbot.me/ - 有快照，访问链接 - https://www.zoomeye.org/searchResult?q=antbot.me
+https://antbot.me/ - 有快照，访问链接 - [https://www.zoomeye.org/searchResult?q=antbot.me/](https://www.zoomeye.org/searchResult?q=antbot.me/)
 
-https://blog.antbot.me/  - 有快照，访问链接 - 
+[https://blog.antbot.me/](https://blog.antbot.me/) - 有快照，访问链接 - [https://www.zoomeye.org/searchResult?q=blog.antbot.me/](https://www.zoomeye.org/searchResult?q=blog.antbot.me/)
 
-**3，http://webcache.googleusercontent.com/ 是谷歌缓存，上面存储有AntBot网站的快照。**
+**3，http://webcache.googleusercontent.com/ 是谷歌缓存，上面存储有AntBot网站的快照。（需要使用VPN访问）**
 
 http://www.goldquant.club - 有快照，访问链接 - http://webcache.googleusercontent.com/search?q=cache:http://www.goldquant.club&strip=0&vwsrc=0
 
