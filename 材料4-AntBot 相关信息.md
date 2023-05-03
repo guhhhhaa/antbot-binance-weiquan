@@ -2,7 +2,7 @@
 
 # 均可以在以下链接下载。
 
-https://github.com/guhhhhaa/antbot-binance-weiquan
+https://github.com/guhhhhaa/antbot-binance-weiquan - Github项目地址
 
 https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip - 直下ZIP压缩包
 
@@ -28,9 +28,11 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 # 二，AntBot 网站
 
-1，AntBot 网站1 - https://www.antbot-ai.org/
+#### 注：如果网站被删除，可以去 https://www.zoomeye.org/ 和 https://archive.org/ 和 http://webcache.googleusercontent.com/search?q= 进行搜索，获取证据。
 
-2，AntBot 网站2  - https://www.antrade.io/
+1，AntBot 网站1 - https://www.antbot-ai.org/（有archive.org历史快照）
+
+2，AntBot 网站2  - https://www.antrade.io/（有archive.org历史快照）
 
 3，AntBot 网站3  - https://www.antrobotai.info/
 
@@ -52,21 +54,21 @@ https://github.com/guhhhhaa/antbot-binance-weiquan/archive/refs/heads/main.zip 
 
 4，AntBot 网站4 - https://antbot.gitbook.io/
 
-5，AntBot 网站5 - https://antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+5，AntBot 网站5 - https://antbot.me/（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-5-1，AntBot 网站5-1 - https://blog.antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+5-1，AntBot 网站5-1 - https://blog.antbot.me/（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-6，AntBot 网站6 - https://ea.antbot.org/（无截图，无法访问，删除时间未知）
+6，AntBot 网站6 - https://ea.antbot.org/（无截图，无存档，无法访问，删除时间未知）
 
-7，AntBot 网站7 - https://www.antbot.org/（无截图，无法访问，删除时间未知）
+7，AntBot 网站7 - https://www.antbot.org/（无截图，有archive.org历史快照，无法访问，删除时间未知）
 
-8，AntBot 网站8 - https://goldquant.club/（有截图，无法访问，删除时间2023年4月28日）
+8，AntBot 网站8 - http://www.goldquant.club（有截图，有谷歌快照，无法访问，删除时间2023年4月28日）
 
-9，AntBot 网站9 - https://www.newbee.asia/（无截图，无法访问，删除时间2023年4月28日）
+9，AntBot 网站9 - https://www.newbee.asia/（无截图，有谷歌快照，无法访问，删除时间2023年4月28日）
 
 # 三，AntBot 网站快照
 
-https://archive.org/ 是全球著名的网页快照储存网站，上面存储有AntBot网站的快照
+**1，https://archive.org/ 是全球著名的网页快照储存网站，上面存储有AntBot网站的快照**
 
 https://www.antbot.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot.org/](https://web.archive.org/web/*/https://www.antbot.org/)
 
@@ -74,33 +76,55 @@ https://www.antrade.io/ - 有快照，访问链接 - [https://web.archive.org/w
 
 https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org/web/*/https://www.antbot-ai.org/](https://web.archive.org/web/*/https://www.antbot-ai.org/)
 
+**2，https://www.zoomeye.org/ 钟馗之眼是中国知道创宇公司的网络空间搜索网站，上面存储有AntBot网站的快照和数据。**
+
+https://antbot.me/ - 有快照，访问链接 - https://www.zoomeye.org/searchResult?q=antbot.me
+
+https://blog.antbot.me/  - 有快照，访问链接 - 
+
+**3，http://webcache.googleusercontent.com/ 是谷歌缓存，上面存储有AntBot网站的快照。**
+
+http://www.goldquant.club - 有快照，访问链接 - http://webcache.googleusercontent.com/search?q=cache:http://www.goldquant.club&strip=0&vwsrc=0
+
+https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleusercontent.com/search?q=cache:https://www.newbee.asia/&strip=0&vwsrc=0
+
 # 四，AntBot 社交媒体信息
 
 ##  1，嫌疑人社交媒体
 
-### 1-1，吴优芮社交媒体
+### 1-1，吴优芮社交媒体账号
 
-1-1，QQ - 男1 - 53585863
+1-1，QQ - 53585863
 
-1-2，微信 - 男2 - AntBot_me - 微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系他被删好友后1小时内删除
+1-2，电话 - 18269727394，安徽安庆移动
 
-1-3，微信 - 男3 - antbot_org - 该用户不存在，删除时间未知
+1-3，微信 - AntBot_me - 微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，当事人王天佑联系他被删好友后1小时内删除
 
-1-4，微博 - 小蚁量化机器人 - https://weibo.com/u/7750863098
+1-4，微信 - antbot_org - 该用户不存在，删除时间未知
+
+1-5，微博 - 7750863098 - 小蚁量化机器人 - https://weibo.com/u/7750863098
 
 微博图片知，官网 - https://antbot.me/ - 与微信号 AntBot_me 一致
 
 相关微博信息 - https://weibo.com/7750863098/M7hM5jniW - 2022-9-24 来自 iPhone 8 官网：AntBot.me 
 
-1-5，币Coin - 小蚁量化机器人 - http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
+1-6，抖音 - ID: antbot_org - 量化理论研究 - https://v.douyin.com/DpNEfss/
 
-### 1-2，龙娟社交媒体
+1-7，币Coin - 小蚁量化机器人 - http://test1.bicoin.info/page/goDownload?intiviteCode=79420298
 
-2-1，微信 - longjuan2001314 - 微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除
+1-7-1，币Coin - 小蚁量化机器人 - kolUserId=89711924 - leaderId=843520 - https://blz.bicoin.com.cn/web/modules/user.html#/personalInformation?kolUserId=89711924&leaderId=843520 - 对应：微博小蚁量化机器人，微信 AntBot_me，QQ 53585863
 
-2-2，微信 - pinganlongjuan - 微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除
+1-7-2，币Coin - 小蚁EA - kolUserId=89554613 - leaderId=610914 https://blz.bicoin.com.cn/web/modules/user.html#/personalInformation?kolUserId=89554613&leaderId=610914 - 对应 微信 antbot_org
 
-2-3，微博 - 享抱团联盟云萃保龙娟导师 - https://weibo.com/u/7049285685 ，
+以上信息来源于搜索引擎和各大平台搜索。
+
+### 1-2，龙娟社交媒体账号
+
+2-1，微信 - ID: longjuan2001314 - 微信昵称：龙，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年4月29日，系当事人王天佑联系她后5分钟内删除
+
+2-2，微信 - ID: pinganlongjuan - 微信昵称：龙女，地址：浙江杭州，曾用头像是龙娟本人照片，该用户不存在，删除时间2023年5月1日，系当事人王天佑联系她后5分钟内删除
+
+2-3，微博 - ID: 7049285685 - 享抱团联盟云萃保龙娟导师 - https://weibo.com/u/7049285685 ，
 
 微博简介：V:longjuan2001314 开公司13年，互联网经验5年，帮助更多的人成功是我的梦想
 
@@ -108,17 +132,21 @@ https://www.antbot-ai.org/ - 有快照，访问链接 - [https://web.archive.org
 
 微博头像：是龙娟本人照片
 
-2-4，百度贴吧 - longjuan131455 - https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
+2-4，百度贴吧 - ID: longjuan131455 - https://tieba.baidu.com/home/main?id=tb.1.6cb8177.hTsolkzFSD9DzA8q2JbX4w?t=1663033972&fr=pb
 
 相关贴子 - https://tieba.baidu.com/p/6552722397
 
-2-5，Telegram - Alice - https://t.me/AntbotJ - 这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。
+2-5，抖音 - ID: dyzrkalbj0ys - 创业女神龙娟 - https://v.douyin.com/DpNVpoW/ 
 
-2-6，喜马拉雅 - 卫康百元新零售小龙女 - https://mhera.ximalaya.com/zhubo/223275738
+2-6，喜马拉雅 - ID: 223275738 - 卫康百元新零售小龙女 - https://mhera.ximalaya.com/zhubo/223275738
 
 简介：创业11年杭州上千平方场地 互联网营销6年擅长培训搭建系统和引流
 
 头像：照片是龙娟本人照片
+
+2-7，Telegram - https://t.me/AntbotJ - Alice - 这个字母“J”，很可能是龙娟中“娟”的拼音首字母“Juan”的“J”，和之前的新闻中龙娟对应，而且，英文名 Alice 和新闻中照片显示的英文名 Alisa 对应，且与邮箱 “Alice From AntBot”对应。
+
+以上信息来源于搜索引擎和各大平台搜索。
 
 ### 1-3，AntBot 海外社交媒体
 
@@ -1130,23 +1158,27 @@ https://m.163.com/dy/article/FUHV4RG10545MRV0.html?spss=adap_pc - 网易
 
 ## 附录2-4，AntBot.me 网站文案四
 
-原文链接：https://antbot.me（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+原文链接：https://antbot.me （有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
 ## 附录2-5，AntBot.me 网站文案五
 
-原文链接：https://blog.antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+原文链接：https://blog.antbot.me/?id=9（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
-## 附录2-6，Antrade.io 网站文案六
+## 附录2-6，AntBot.me 网站文案六
 
-### 附录2-6-1，Antrade.io 网站文案
+原文链接：https://blog.antbot.me/（无截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
+
+## 附录2-7，Antrade.io 网站文案七
+
+### 附录2-7-1，Antrade.io 网站文案
 
 原文链接：https://www.antrade.io/
 
-### 附录2-6-2，英文文档
+### 附录2-7-2，英文文档
 
 英文文档：https://www.antrade.io/guide/docs/en/
 
-### 附录2-6-3，中文文档
+### 附录2-7-3，中文文档
 
 中文文档：https://www.antrade.io/guide/docs/cn/
 
@@ -1980,7 +2012,7 @@ Shenzhen, Guangdong, China
 
 ## 附录2-4，AntBot.me 网站文案四
 
-原文链接：https://antbot.me（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+原文链接：https://antbot.me（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
 **小蚁量化机器人，API直连交易所，使用时请确保您的网络处于科学上网状态**
 
@@ -2032,11 +2064,441 @@ CTA策略是一种趋势追踪策略，它追涨杀跌顺势而为，在趋势�
 
 在趋势反转时及时止损，但在震荡行情会失效。
 
-© 2015-2022 AntBot版权所有 实盘数据币coin 微信53585863 微博:小蚁量化机器人
+© 2015-2022 AntBot版权所有 实盘数据 币coin 微信 53585863 微博:小蚁量化机器人
+
+#### 网站原始HTML
+
+```html
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sat, 22 Apr 2023 08:16:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://antbot.me/
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="小蚁量化机器人，AntBot，量化交易,数字货币,虚拟货币,区块链,比特币,以太坊,瑞波,莱特币,比特币现金,柚子,BTC,ETH,XRP,LTC,BCH,EOS,火币,币安,okcoin,bitmex,zb">
+  <meta name="description" content="小蚁量化机器人（AntBot）是一款数字货币量化交易工具，引入先进的数学量化模型代替人为主观判断，多空双向套利，可以支持比特币,以太坊,瑞波,莱特币,狗狗币,柚子等币种的量化交易。">
+
+  
+
+  <link rel="shortcut icon" href="static/favicon.ico">
+
+  <title>小蚁量化机器人-AntBot-最好的数字货币量化交易工具</title>
+
+
+    <!-- syntax highlighting -->
+    <link rel="stylesheet" href="static/css/pygments.css">
+
+    <!-- bootstrap & aurora theme -->
+    <link rel="stylesheet" href="static/css/styles.css">
+
+
+    <link rel="stylesheet" href="static/2019-7-1/css/style_new-1.min.css">
+    <link rel="stylesheet" href="static/2019-7-1/css/material-grid.min.css">
+
+    <!-- lato font -->
+    <link href="static/css.css" rel="stylesheet" type="text/css">
+    <!-- jquery and bootstrap and flaskbb.js -->
+
+    <script src="static/js/scripts-5.min.js"></script>
+    <script src="static/2019-7-1/js/script_new.min.js"></script>
+    <script src=""></script>
+
+    <!-- emoji -->
+
+    <script src="static/js/twemoji.min.js"></script>
+
+
+</head>
+
+<body>
+<!-- Navigation -->
+
+  <ul class="navs" id="nav">
+    <div class="large-screen">
+      <span class="site-name">VN.PY</span>
+      <li><a href="">首页</a></li>
+      <!--
+      <li><a href="demo.html">Demo</a></li>
+      <li><a href="forum/index.html">社区</a></li>
+      -->
+      <li><a href="https://blog.antbot.me/" target="_blank">博客</a></li>
+      <li><a href="https://antbot.me/register.html" target="_blank">注册</a></li>
+
+
+      <li></li>
+    </div>
+    <li class="small-screen" onclick="toggleMenu();">
+      <img src="static/2019-7-1/img/menu.svg">
+    </li>
+  </ul>
+
+  <ul class="side-menu">
+    <li><a href="" class="active">首页</a></li>
+
+
+    <li><a href="/blog" target="_blank">博客</a></li>
+      <li><a href="https://antrade.io/38EK6Z" target="_blank">注册</a></li>
+    <li></li>
+    <img src="static/2019-7-1/img/close.svg" onclick="toggleMenu();" class="close-menu">
+  </ul>
+
+
+
+
+<div class="banner">
+    <div class="mask">
+        <div class="center ">
+            <img src="static/2019-7-1/img/ripple.svg" class="ripple" alt="">
+            <img src="static/2019-7-1/img/Oval.svg" class="round" alt="">
+        </div>
+    </div>
+    <div class="center" style="position: relative">
+        <img width="150px" src="static/img/vnpy-white.png">
+        <div class="desc">小蚁量化机器人，API直连交易所，使用时请确保您的网络处于科学上网状态</div>
+        <div class="btn-wrap">
+            <a class="btns left" href="https://blog.antbot.me/" target="_blank">
+                教程
+            </a>
+            <a class="btns left" href="https://antbot.me/register.html" target="_blank">
+                注册
+            </a>
+             <a class="btns left" href="/addWeiChat" target="_blank">
+                下载
+            </a>
+
+
+            <!-- <a class="btns right" href="javascript:;" target="_blank">
+                 <img src="static/2019-7-1/img/code.svg" alt="">
+                 <span>GitHub</span>
+                 </a>
+            -->
+        </div>
+    </div>
+</div>
+
+<div class="mdl-layout" style="margin-bottom: 50px;">
+    <div class="mdl-grid sections" style="max-width:700px;">
+        <div class="mdl-grid section-title">AntBot致力提供智能和专业的投资工具</div>
+
+
+        </div>
+    </div>
+
+    <div class="mdl-grid" style="max-width:1200px;">
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone item">
+            <img src="static/img/1_gateway.svg" alt="">
+            <div class="item-title">本金安全</div>
+            <div class="item-desc">
+                你的本金是在交易所的账户，机器人无权转移本金
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone item">
+            <img src="static/img/2_app.svg" alt="">
+            <div class="item-title">多套著名策略</div>
+            <div class="item-desc">
+                DCA策略，网格策略，动态调仓，趋势跟踪
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone item">
+            <img src="static/img/3_extend.svg" alt="">
+            <div class="item-title">支持多交易所</div>
+            <div class="item-desc">
+                支持多个交易所的现货和合约
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone item">
+            <img src="static/img/4_open.svg" alt="">
+            <div class="item-title">团队分销奖励系统</div>
+            <div class="item-desc">
+                邀请朋友一起赢取加密货币，高达60%的佣金
+            </div>
+        </div>
+    </div>
+
+
+<div class="mdl-layout feature">
+    <div class="feature-bg">
+        <div class="dot">
+            <img src="static/2019-7-1/img/bgripple1.png">
+        </div>
+    </div>
+    <div class="mdl-grid sections" style="max-width:500px;">
+        <div class="mdl-grid section-title">量化策略</div>
+
+
+    </div>
+
+    <div class="mdl-grid card">
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone feature-item">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col card-title">
+                    马丁格尔策略
+                </div>
+                <div class="mdl-cell mdl-cell--8-col card-desc">
+                    马丁格尔交易策略是一种平均成本法交易策略，它简单易懂，类似定投的逻辑，适合新手的使用的策略，在下跌中不断倍投加仓拉低均价，价格反弹中可以比普通的定投更快速回本。
+                </div>
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone feature-item">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col card-title">
+                    网格AI策略
+                </div>
+                <div class="mdl-cell mdl-cell--8-col card-desc">
+                    网格AI交易策略是小蚁团队基于经典网格策略对收益/风险比深度优化的现货震荡交易策略。
+                </div>
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone feature-item">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col card-title">
+                    通道震荡
+                </div>
+                <div class="mdl-cell mdl-cell--8-col card-desc">
+                    通道震荡交易对很多交易者来说更有吸引力，因為它比趋势跟随策略有更高的胜率，更适合计算自动化交易。即使市场处于既定趋势中，价格回归也经常发生。因此，从通道震荡交易中获利的机会更多。
+                </div>
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone feature-item">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col card-title">
+                    智能调仓
+                </div>
+                <div class="mdl-cell mdl-cell--8-col card-desc">
+                    智能调仓是按设定比例持有多种现货资产，当持仓价值占比变动超过调仓阈值时，卖出持仓占比较⾼资产，买⼊持仓占比较低资产，使得组合资产持仓占比回归到初始设定。
+                </div>
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone feature-item">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col card-title">
+                    双向网格合约
+                </div>
+                <div class="mdl-cell mdl-cell--8-col card-desc">
+                    双向网格策略是针对震荡行情可以同时做多和做空的合约网格策略。它是在小蚁现货网格AI上延伸而来的策略，可以把双向网格看作两个独立运行5倍杠杆率且方向相反两个网格AI机器人。
+                </div>
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--2-col-phone feature-item">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col card-title">
+                    CTA交易策略
+                </div>
+                <div class="mdl-cell mdl-cell--8-col card-desc">
+                    CTA策略是一种趋势追踪策略，它追涨杀跌顺势而为，在趋势行情获利巨大，在趋势反转时及时止损，但在震荡行情会失效。
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="footer">
+    <div class="footer-title">
+        <div style="display: flex;justify-content: center;">
+            <div class="row">
+            <a href="javascript:;" target="_blank"><img src="github/release-pre/vnpy/vnpy.svg"></a>
+
+
+            <a href="javascript:;" target="_blank"><img src="github/forks/vnpy/vnpy.svg" alt="Github Forks"></a>
+            <a href="javascript:;" target="_blank"><img src="github/stars/vnpy/vnpy.svg" alt="Github Stars"></a>
+            <a href="javascript:;" target="_blank"><img src="pypi/l/vnpy.svg" alt="MIT License"></a>
+            <a href="javascript:;" target="_blank"><img src="github/issues/vnpy/vnpy.svg"></a>
+            <a href="javascript:;" target="_blank"><img src="github/issues-pr/vnpy/vnpy.svg"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .footer-title{
+        margin-bottom: 40px;
+    }
+
+
+    .footer-title div{
+        margin-top: 8px;
+    }
+
+    .footer-title a{
+        margin: 0px 3px;
+    }
+
+
+</style>
+
+
+
+
+<!-- the forum footer -->
+
+  <div style="height: 20px;">
+  </div>
+  <div class="ft">
+    <div>© 2015-2022 <a href="#">AntBot</a>版权所有&nbsp;&nbsp;实盘数据<a href="http://test1.bicoin.info/page/goDownload?intiviteCode=79420298" target="_blank">币coin</a>&nbsp;&nbsp;微信:<a href="#" target="_blank">53585863</a>&nbsp;&nbsp;微博:<a href="#" target="_blank">小蚁量化机器人</a></div>
+
+
+     <!--<div>
+      <a href="javascript:;" style="color: inherit; text-decoration: none;">wechat：68300227</a>
+    </div>
+
+    <div style="width:300px" class="">
+      <a href="javascript:;" style="color: inherit; text-decoration: none;">
+       <img src="static/img/police.png" style="float:left;">
+        <p>mail: lingdrug@gmail.com</p>
+      </a>
+    </div>-->
+
+  </div>
+
+
+  <style>
+    .ft {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      padding: 0px 10%;
+      height: 50px;
+      background-color: #F6F9FC;
+      color: rgba(0, 0, 0, 0.4);
+      position: absolute;
+      width: 100%;
+      bottom: 0px;
+      left: 0px;
+    }
+  </style>
+
+
+
+
+
+  <script type="text/javascript">
+      var FORUM_URL_PREFIX = "/forum";
+
+
+      $(function () {
+          $('[data-toggle="tooltip"]').tooltip()
+      })
+  </script>
+
+  <script>
+  (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      if (curProtocol === 'https'){
+     bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else{
+    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+  })();
+  </script>
+
+
+
+
+
+
+</body>
+
+</html>
+```
+
+#### SSL证书
+
+```
+SSL Certificate
+Version: TLS 1.2
+CipherSuit: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Handshake Message: x509: certificate has expired or is not yet valid: current time 2023-04-22T16:16:46+08:00 is after 2022-12-23T03:19:56Z
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 290663251080930713155866169294095515593237 (0x3562eb9e622f6bec0f39fcde1297def2a15)
+    Signature Algorithm: SHA256-RSA
+        Issuer: C=US,O=Let's Encrypt,CN=R3
+        Validity
+            Not Before: Sep 24 03:19:03 2022 UTC
+            Not After : Dec 23 03:19:03 2022 UTC
+        Subject: CN=antbot.me
+        Subject Public Key Info:
+            Public Key Algorithm: RSA
+                Public-Key: (2048 bit)
+                Modulus:   
+                    b4:04:57:a1:20:b1:c1:bd:57:9b:a5:87:bd:44:c6:
+                    9e:6b:57:bc:15:c2:fa:ca:5e:6c:1c:e6:05:b7:4e:
+                    85:e3:48:6c:dc:d9:bd:55:29:04:a1:91:1f:e8:9a:
+                    03:53:28:8b:d0:51:58:f9:f6:28:04:d1:89:6d:b1:
+                    cd:67:7e:9a:81:98:3c:66:f4:16:42:69:1b:7b:d5:
+                    4c:1e:b3:d1:b6:84:3a:cd:20:79:ff:1e:e0:13:1a:
+                    75:cd:fa:3d:60:dc:a1:6b:f1:fa:63:71:a8:05:80:
+                    0d:36:33:9a:4c:f7:5b:cc:9b:95:20:4e:0a:db:c3:
+                    7f:40:d0:b9:07:bf:58:9c:39:73:54:b6:3f:d4:9d:
+                    23:a1:91:46:9f:6b:1c:b3:1b:16:12:6d:e7:81:99:
+                    0b:0e:96:2c:44:1f:a5:54:a7:b7:76:57:67:06:1d:
+                    4c:9a:94:44:32:f6:53:1d:54:5e:55:30:4a:e0:45:
+                    c1:0a:25:ff:e7:46:99:98:fc:9b:c1:04:9c:a5:4d:
+                    25:5a:6a:eb:4d:fd:31:d6:35:32:10:39:5d:45:57:
+                    71:56:d9:7f:d1:2b:aa:48:3b:3a:99:15:8d:33:b7:
+                    4e:ef:69:3c:6b:c5:df:2d:5c:66:d6:62:d8:e7:35:
+                    7d:d1:f5:07:8e:12:48:79:0a:f9:a4:6e:77:e3:86:
+                    f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name:
+                DNS:antbot.me
+            Authority Information Access:
+                OCSP - URI:http://r3.o.lencr.org
+                CA Issuers - URI:http://r3.i.lencr.org/
+
+            X509v3 Authority Key Identifier:
+                keyid:14:2E:B3:17:B7:58:56:CB:AE:50:09:40:E6:1F:AF:9D:8B:14:C2:C6
+            X509v3 Basic Constraints: critical
+                CA:False
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            Unknown extension 1.3.6.1.4.1.11129.2.4.2
+ 
+            X509v3 Extended Key Usage:
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies:
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.44947.1.1.1
+            X509v3 Subject Key Identifier:
+                19:09:0A:FD:92:82:D7:16:2E:89:6B:10:55:C1:CB:A0:EF:01:2A:BC
+    Signature Algorithm: SHA256-RSA
+         ab:21:d3:78:be:b9:2c:a6:7f:11:3a:cd:96:b0:a0:d9:1e:7b:
+         63:48:c3:1e:19:d9:15:60:ea:5c:20:2d:48:7e:ac:bb:3a:34:
+         25:17:a7:0d:d6:0a:0d:8c:4e:a8:5d:3c:4b:8b:5a:ec:f6:f4:
+         d3:5c:fc:ba:fc:54:71:8c:e3:07:14:77:6c:d5:e1:1f:f8:ab:
+         bb:fa:57:51:84:c7:2a:55:01:b7:57:a6:63:be:99:e6:92:ef:
+         56:b4:18:0a:4d:ab:4d:5f:2b:21:b8:2f:d3:78:0f:3c:e3:3b:
+         a0:b9:e6:5d:fb:39:9c:11:98:00:e2:01:80:89:ab:55:56:2f:
+         5a:54:b2:5b:6f:ce:5a:a7:67:96:15:ae:0a:93:4f:37:0b:ea:
+         0b:68:fc:fd:c3:18:86:f5:ac:bb:07:62:2e:7b:8e:1d:e4:fc:
+         e1:48:41:d4:0c:a3:62:33:db:54:e1:f2:64:ff:fb:a5:08:47:
+         15:f3:76:08:00:eb:5b:b3:43:9a:15:cc:10:21:70:41:f5:3e:
+         2f:a9:af:ef:b5:39:6c:9b:7a:af:5c:29:1b:da:4b:fb:3c:1b:
+         fd:59:79:c9:6a:ad:38:f4:ac:5c:75:08:45:dc:4e:e0:e3:0b:
+         ba:bf:4e:a6:19:82:27:f8:71:73:ca:a5:3c:7f:9d:51:c5:bd:
+         34:be:87:dd
+```
 
 ## 附录2-5，AntBot.me 网站文案五
 
-原文链接：https://blog.antbot.me/（有截图，有搜索记录，无存档，无法访问，删除时间2023年4月28日）
+原文链接：https://blog.antbot.me/?id=9（有截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
 
 **您的当前位置：首页》联系找们**
 
@@ -2060,9 +2522,235 @@ Tag：
 
 [联系我们] 小蚁量化工作室
 
-## 附录2-6，Antrade.io 网站文案六
+## 附录2-6，AntBot.me 网站文案六
 
-### 附录2-6-1，Antrade.io 网站文案
+原文链接：https://blog.antbot.me/（无截图，有搜索记录，钟馗之眼快照，无法访问，删除时间2023年4月28日）
+
+#### 网站原始HTML
+
+```html
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sat, 22 Apr 2023 06:49:16 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://blog.antbot.me/
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>小蚁量化工作室-小蚁量化机器人-AntBot-最好的数字货币量化交易机器人</title>
+<meta name="Keywords" content="小蚁量化机器人，AntBot，量化交易,数字货币,虚拟货币,区块链,比特币,以太坊,瑞波,莱特币,比特币现金,柚子,BTC,ETH,XRP,LTC,BCH,EOS,火币,币安,okcoin,bitmex,zb">
+<meta name="description" content="小蚁量化机器人（AntBot）是一款数字货币量化交易工具，引入先进的数学量化模型代替人为主观判断，多空双向套利，可以支持比特币,以太坊,瑞波,莱特币,狗狗币,柚子等币种的量化交易。">
+<meta name="generator" content="Z-BlogPHP 1.7.2" />
+<link rel="stylesheet" href="https://blog.antbot.me/zb_users/theme/bijiblog/style/style.css" />
+<link rel="stylesheet" href="https://blog.antbot.me/zb_users/theme/bijiblog/source/prestyle.css" />
+<script src="https://blog.antbot.me/zb_system/script/jquery-2.2.4.min.js" type="text/javascript"></script>
+<script src="https://blog.antbot.me/zb_system/script/common.js" type="text/javascript"></script>
+<script src="https://blog.antbot.me/zb_system/script/c_html_js_add.php" type="text/javascript"></script>
+<script src="https://blog.antbot.me/zb_users/theme/bijiblog/source/prettify.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+$('pre').addClass('prettyprint linenums').attr('style', 'overflow:auto');
+window.prettyPrint && prettyPrint();
+});
+</script>
+	<link rel="alternate" type="application/rss+xml" href="https://blog.antbot.me/feed.php" title="小蚁量化工作室" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.antbot.me/zb_system/xml-rpc/?rsd" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.antbot.me/zb_system/xml-rpc/wlwmanifest.xml" /> 
+</head>
+<body>
+<header>
+<div class="dh">
+<div class="nav">
+<span class="nav-on"><i></i><i></i><i></i></span>
+<ul>
+   <li class="navbar-item"><a href="https://blog.antbot.me/" title="">首页</a></li><li class="navbar-item"><a href="https://blog.antbot.me/?id=2" title="">留言本</a></li><li class="navbar-item"><a href="https://blog.antbot.me/?id=5" title="">联系我</a></li></ul>
+</div>
+</div>
+<script>
+	$(".nav-on").click(function(){
+    $(".nav>ul").slideToggle();
+});
+</script>
+<div class="clear"></div>
+	<div class="logo">
+	<img src="https://blog.antbot.me/zb_users/theme/bijiblog/include/touxiang.jpg" width="100" title="小蚁量化工作室" />
+	<h1><a href="/">小蚁量化工作室</a></h1>
+	</div>
+</header>
+<div class="search">
+  <form action="https://blog.antbot.me/zb_system/cmd.php?act=search" method="post">
+    <p><input type="text" name="q" id="s" class="search-input" placeholder="输入您要搜索的关键词"></p>
+    <input type="submit" class="sub" value="搜索">
+  </form>
+</div>
+<div class="wrap index">
+	<div class="title">
+	<b>
+					最新
+			</b>
+	</div>
+	<div class="list">
+		<ul>
+		
+				<li>
+<span>2022-06-12</span>
+<b style="color: #04B872;">[ 置顶 ]</b> <a href="https://blog.antbot.me/?id=9" target="_blank">[联系我们] 小蚁量化工作室</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=28" target="_blank">什么是CTA交易策略？</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=27" target="_blank">什么是双向网格合约交易策略？</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=26" target="_blank">什么是智能调仓策略？</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=25" target="_blank">什么是通道震荡交易策略？</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=24" target="_blank">什么是网格交易策略？</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=23" target="_blank">什么是网格AI交易策略？</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=22" target="_blank">马丁格尔机器人参数介绍</a>
+</li>				
+		
+				<li>
+<span>2022-09-24</span>
+[<a href="https://blog.antbot.me/?cate=4">量化策略</a>] <a href="https://blog.antbot.me/?id=21" target="_blank">什么是马丁格尔交易策略？</a>
+</li>				
+				</ul>
+	</div>
+	<div id="pagenavi">
+		
+
+<a href="https://blog.antbot.me/">‹‹</a>
+
+<span>1</span>
+
+<a href="https://blog.antbot.me/">››</a>
+	</div>
+</div>
+<footer>
+    <!--
+	<p>Powered By <a href="https://www.zblogcn.com/" title="Z-BlogPHP 1.7.2 Build 173050" target="_blank" rel="noopener norefferrer">Z-BlogPHP 1.7.2</a></p>
+	<p>小蚁量化机器人-AntBot-最好的数字货币量化交易机器人</p>
+	<p>Theme By <a href="http://www.haobug.com" target="_blank">zblog主题</a></p>
+	-->
+	<p>Powered By AntBot.me</p>
+
+</footer>
+</body>
+</html><!--86.82 ms , 6 queries , 2387kb memory , 0 error-->
+```
+
+#### SSL证书
+
+```
+SSL Certificate
+Version: TLS 1.2
+CipherSuit: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Handshake Message: x509: certificate has expired or is not yet valid: current time 2023-04-22T14:55:46+08:00 is after 2022-12-23T14:34:40Z
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 281818109149860773354440379604249499574842 (0x33c3061873a2117dba0e280f6cf10c6a23a)
+    Signature Algorithm: SHA256-RSA
+        Issuer: C=US,O=Let's Encrypt,CN=R3
+        Validity
+            Not Before: Sep 24 14:34:02 2022 UTC
+            Not After : Dec 23 14:34:02 2022 UTC
+        Subject: CN=blog.antbot.me
+        Subject Public Key Info:
+            Public Key Algorithm: RSA
+                Public-Key: (2048 bit)
+                Modulus:   
+                    be:62:83:42:bc:bb:fa:fc:a2:f8:c1:f5:30:20:3b:
+                    c4:b2:f7:a4:06:bf:4b:24:95:7d:3c:65:92:46:64:
+                    49:5f:4c:15:95:0f:0c:ed:73:f7:40:40:7f:75:65:
+                    80:69:05:a2:b2:94:64:df:5c:93:70:3c:22:c2:8e:
+                    aa:7d:12:96:b2:40:5e:55:76:3e:6d:8a:58:7f:25:
+                    9d:1a:a0:1f:7e:94:39:21:f0:e8:30:81:4f:2b:e3:
+                    41:45:3f:1a:bd:49:a3:94:ec:85:b2:e5:04:e7:74:
+                    93:0c:8d:fe:df:6d:be:43:fc:cb:e9:6d:10:bc:2b:
+                    78:83:aa:36:00:21:fd:93:0b:a2:5b:2f:17:13:c1:
+                    46:1d:cb:4a:2c:cd:cd:46:13:6c:81:39:60:e7:00:
+                    ce:97:19:52:e4:3d:4e:b1:aa:6a:b0:e9:02:d4:c6:
+                    2c:3e:67:ca:96:dc:fd:f3:8e:db:df:65:44:54:d4:
+                    70:d3:3c:ec:3d:18:60:51:d2:f1:34:59:a8:8c:89:
+                    2b:c6:78:fd:3b:4c:20:2b:be:db:b2:3c:f0:52:3c:
+                    5d:f7:c1:4c:ae:52:ba:32:ae:21:d0:81:4d:77:a5:
+                    d4:fc:b7:f5:b5:85:8d:0a:b8:97:01:3e:7b:57:5b:
+                    58:9c:cc:6e:bd:cb:9d:55:ba:c7:5d:36:a0:c6:4d:
+                    9d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name:
+                DNS:blog.antbot.me
+            Authority Information Access:
+                OCSP - URI:http://r3.o.lencr.org
+                CA Issuers - URI:http://r3.i.lencr.org/
+
+            X509v3 Authority Key Identifier:
+                keyid:14:2E:B3:17:B7:58:56:CB:AE:50:09:40:E6:1F:AF:9D:8B:14:C2:C6
+            X509v3 Basic Constraints: critical
+                CA:False
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            Unknown extension 1.3.6.1.4.1.11129.2.4.2
+ 
+            X509v3 Extended Key Usage:
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies:
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.44947.1.1.1
+            X509v3 Subject Key Identifier:
+                29:0C:44:39:6F:80:C3:83:4E:14:79:A6:8E:D2:DF:8E:32:F7:5E:1F
+    Signature Algorithm: SHA256-RSA
+         04:a6:a4:6a:3f:db:bd:4a:df:c8:18:6a:24:cd:3f:ed:05:03:
+         fb:14:0b:95:8e:86:4a:39:0c:1b:17:f2:96:ce:56:50:2e:3b:
+         a3:77:3a:af:9c:87:31:77:0d:0b:45:ff:10:c8:c7:eb:8f:68:
+         52:06:49:87:9f:d6:26:75:f6:62:69:51:32:7f:a4:e5:5e:7f:
+         e5:ef:07:d8:bf:1d:bb:c6:5c:73:49:3d:5a:79:1b:20:fe:94:
+         00:a9:66:91:d3:01:55:fc:17:3e:27:f4:14:d7:5b:6b:6c:21:
+         5f:53:2a:38:c1:da:53:4d:71:47:c0:c2:c4:c9:8d:29:51:14:
+         59:a6:50:4a:47:e3:91:3c:5e:6d:56:27:3d:e6:ae:28:18:f0:
+         f8:53:d2:03:b7:44:02:4e:1d:99:88:cb:26:75:31:1f:3c:61:
+         35:d0:eb:df:77:af:57:14:25:84:b9:e2:46:6b:56:54:b5:00:
+         d1:08:ad:95:8c:7f:3f:2a:76:be:44:4e:03:a0:14:aa:c3:ed:
+         ec:2d:b6:63:2f:94:e5:81:6a:9b:92:1e:30:fb:e5:35:da:7a:
+         25:5b:41:f5:29:f9:cc:65:e9:6c:da:0e:a4:bf:e6:e2:4b:07:
+         a3:dd:cc:63:79:28:19:57:3f:03:09:c4:d3:67:cb:85:be:06:
+         51:a6:8a:2c
+```
+
+## 附录2-7，Antrade.io 网站文案七
+
+### 附录2-7-1，Antrade.io 网站文案
 
 原文链接：https://www.antrade.io/
 
@@ -2138,7 +2826,7 @@ AntBot is a comprehensive cryptocurrency investment ecosystem, covering the inve
 
 ©️2022 AntBot. All Rights Reserved
 
-### 附录2-6-2，英文文档
+### 附录2-7-2，英文文档
 
 原文链接：https://www.antrade.io/guide/docs/en/
 
@@ -2288,7 +2976,7 @@ NewPopular
 
 @AntBot free trading bot
 
-### 附录2-6-3，中文文档
+### 附录2-7-3，中文文档
 
 原文链接：https://www.antrade.io/guide/docs/cn/
 
