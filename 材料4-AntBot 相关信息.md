@@ -94,9 +94,11 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuser
 
 ### 1-1，吴优芮社交媒体账号
 
-1-1，QQ - 53585863
+1-1，QQ - 53585863，邮箱 - 53585863@qq.com
 
-1-2，电话 - 18269727394，安徽安庆移动
+1-2-1，电话 - 18269727394 - 安徽安庆 - 中国移动
+
+1-2-2，电话 - 15357947596 - 安徽合肥 - 中国电信
 
 1-3，微信 - AntBot_me - 微信昵称：NewBee，地址：浙江杭州，该用户不存在，删除时间2023年4月29日，当事人王天佑联系他被删好友后1小时内删除
 
@@ -347,19 +349,38 @@ https://youtube.com/@EduNogs - Edu Nogs
 
 #### 1-4-2-4 最终总结
 
-AntBot 最开始的网站是 antbot.me，antbot.me 网站是用中文书写的，并且上面有“科学上网”字样，antbot.me 网站上有中国的 微信（用QQ号查微信），微博，因此 AntBot 是中国产品。
+##### 1-4-2-4-1 AntBot 并不是海外软件，只是一个来自中国的骗局
 
-查询 antbot.me 网站上的 微信，QQ 的地址，是位于浙江杭州的，而龙娟和吴优芮的微信QQ地址，也是位于中国浙江杭州的，这并不是巧合。
+1，小蚁antrade.io不挂VPN访问，提示根据监管要求，不对中国用户提供服务的，字样，这样的话术只有中国人做的网站才会有。
 
-查询 AntBot 一开始在 antbot.me 和 antbot.org 用的服务器是深圳的阿里云服务器，优刻得服务器，所以 AntBot 在网站上写自己位于广东深圳，但他们的总部地址真的在深圳吗？
+2，小蚁antbot-ai.org下面底部栏提示，位于广东深圳。查询 AntBot 一开始在 antbot.me 和 antbot.org 用的服务器是深圳的阿里云服务器，优刻得服务器，所以 AntBot 在网站上写自己位于广东深圳。后来 antrade.io 用的是香港的 Ucloud 服务器（Ucloud公司的中文名是优刻得，在中国A类股票上市） 
 
-后来 antrade.io 用的是香港的 Ucloud 服务器（Ucloud公司的中文名是优刻得，在中国A类股票上市） 
+3，但他们的总部地址真的在深圳吗？查询 antbot.me 网站上的 微信，QQ 的地址，是位于浙江杭州的，而龙娟和吴优芮的微信QQ地址，也是位于中国浙江杭州的，这并不是巧合。
 
-因此，AntBot 并不是国际品牌，只是一个来自中国的骗局。
+4，拉网站历史知道，小蚁最开始的安卓软件下载链接是在阿里云深圳服务器的，如下:
+https://ant-robot.oss-cn-shenzhen.aliyuncs.com/ant/install/android/antbot.apk
+
+5，小蚁的文档只有中文和英文，这点只有中国开发的程序才会有。
+
+6，AntBot 最开始的网站是 antbot.me，antbot.me 网站是用中文书写的，antbot.me给出了微信，QQ（用QQ号查微信），微博，币Coin账号的链接，并且上面有“科学上网”字样，这点只有中国的软件才会有。
+
+由以上6点可以知道，AntBot小蚁的创始团队位于中国。
 
 AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地址和公司信息，试图把 AntBot 伪装成国际化的页面，AntBot 试图逃过中国和国际两方面的监管和制裁。
 
-可是 AntBot 这样做，终究是藏不住的。更何况， AntBot 已经发生了监守自盗，盗取客户加密资产的事件呢？
+可是，AntBot 这样做，终究是藏不住的。
+
+更何况， AntBot 已经发生了监守自盗，盗取客户加密资产的事件。
+
+##### 1-4-2-4-2 总结以上内容
+
+1，AntBot位于中国。
+
+2，黑客位于中国。
+
+3，黑客几乎就是龙娟和吴优芮。因为合约交易量记录和账号ID，生日，都用了爱情谐音数字作为干扰项。而且，地址是重合的，Telegram昵称，也是重合的。
+
+##### 1-4-2-4-3 龙娟的所为超出民事案件范畴，新账旧账需要一起算
 
 受害者王天佑认为，龙娟女士之前做的事情是，微商，传销，假保险。
 
@@ -378,6 +399,20 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 如果警方认为，这个案件是民事纠纷案件的话，受害者王天佑不能同意，并认为此案应该是刑事案件。
 
 而且，龙娟女士和吴优芮先生的新账和旧账，得一起算了。
+
+##### 1-4-2-4-4 吴优芮先生在安庆和合肥的电话，推出的信息
+
+查地图可知，安庆市和合肥市是接壤的，均位于安徽省，合肥是安徽省会，而安徽省和浙江省也是接壤的，而杭州是浙江省会。
+
+所以吴优芮先生，可能老家在安庆，去了省会合肥发展，又去了省会杭州发展。
+
+杭州市，有两个特点，一个是电商产业中心，一个是区块链产业中心。至少他们对外宣传和产业发展是这样。
+
+我推测，AntBot 是这样的，首先，总部在杭州，开发在深圳.
+
+后来，由于币安在香港有服务器，为了降低交易延时，他们就把服务器放在香港了。
+
+但是开发团队还在深圳，总部还在杭州。
 
 # 五，AntBot 监守自盗的证据总结
 
@@ -457,19 +492,17 @@ https://antbot.me/ 和 https://goldquant.club/ 就是 AntBot 在中国的前身�
 
 【微信 AntBot_me——浙江杭州】
 
-【QQ 53585863——出生日期：2000年7月19日——爱情谐音干扰项】
+【QQ 53585863——出生日期：2000年7月19日——爱情谐音干扰项“爱恋你情谊久”】
 
 【合约交易记录——爱情谐音干扰项】
 
-在微信中搜索，QQ 53585863，可以直接搜到，微信 AntBot_me，且QQ 53585863，和微信 AntBot_me，地址均位于浙江杭州。
+在微信中搜索，QQ 53585863，可以直接搜到，微信 AntBot_me，且QQ 53585863，和微信 AntBot_me，地址均位于浙江杭州，而龙娟的两个微信地址也均位于浙江杭州，这不是巧合。
 
-QQ所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你情谊久”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音，
+QQ 所示的出生日期：2000年7月19日，其中2000719是代表“爱恋你情谊久”的干扰项，与合约交易记录的干扰项类似，均是爱情谐音，这不是巧合。
 
 12，【QQ 53585863 ——微信 AntBot_me】
 
 【QQ 53585863 —— https://antbot.me/】
-
-【微信 AntBot_me —— https://antbot.me/】
 
 【微信 AntBot_me —— https://antbot.me/】
 
@@ -497,13 +530,13 @@ https://play.google.com/store/apps/details?id=ea.antbot.org
 
 AntBot 第三方 安卓 Android 下载链接：
 
-https://apksos.com/app/ea.antbot.org
+1，APKSOS：https://apksos.com/app/ea.antbot.org
 
-- AntBot-Binance OKX Bybit Bot 2.3.6 APK - https://apksos.com/download-app/ea.antbot.org?version=8964551
+- AntBot-Binance OKX Bybit Bot 2.3.6 APK - https://apksos.com/download-app/ea.antbot.org?version=8964551
 - AntBot-Binance OKX Bybit Bot 2.3.5 APKs - https://apksos.com/download-app/ea.antbot.org?version=8871641
 - AntBot-Binance OKX Bybit Bot 2.3.4 APKs - https://apksos.com/download-app/ea.antbot.org?version=8553945
 
-https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/
+2，APKCOMBO：https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/
 
 AntBot 官网上 Android APK 直接下载链接：
 
@@ -3467,6 +3500,8 @@ NewPopular
 
 ## 附录3-8，AntBot 在 apkcombo.com 的文案
 
+### 附录 3-8-1，英文文案
+
 链接：https://apkcombo.com/antbot-binance-okx-bybit-bot/ea.antbot.org/
 
 标题：[ANTBOT-BINANCE OKX BYBIT BOT APP](https://apkcombo.com/antbot-binance-okx-bybit-bot/ea.antbot.org/)
@@ -3490,6 +3525,64 @@ Customizable and Smart Parameter Integration: Customize parameters to suit your 
 Multiple Exchanges and Cryptocurrency Support: Supports major exchanges such as Binance, OKX, Bybit, KuCoin, Gate.io, Bitget, and Huobi, as well as over 200 cryptocurrencies.
 
 AntBot is a comprehensive investment system, covering investment screening, arbitrage strategies, asset allocation, and risk control. It's a powerful weapon that allows you to compete with professional algorithmic traders. Don't miss out on this powerful tool! Download AntBot now and experience unparalleled advantages.
+
+Website: www.antrade.io
+
+Youtube: www.youtube.com/@antradeio
+
+Twitter: twitter.com/antrade_io
+
+Telegram: t.me/AntBotQuantify
+
+### 附录 3-8-2，中文文案
+
+标题：[ANTBOT-BINANCE OKX BYBIT BOT APP](https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/)
+
+链接：https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/
+
+[AntBot-Binance OKX Bybit Bot](https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/) 2.3.6 [Crypto Trading Bot](https://apkcombo.com/zh/developer/Crypto Trading Bot/)
+
+免费的加密货币自动交易机器人，支持Binance、OKX、Bybit、Huobi、KuCoin、Bitget和Gate.io
+
+[最新版本](https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/download/apk)
+
+版本 [2.3.6 (236)](https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/download/apk)
+
+更新 2023年3月15日
+
+开发者 [Crypto Trading Bot](https://apkcombo.com/zh/developer/Crypto Trading Bot)
+
+分类 [财务](https://apkcombo.com/zh/category/finance/)
+
+Google Play ID [ea.antbot.org](https://play.google.com/store/apps/details?id=ea.antbot.org&ref=apkcombo.com)
+
+安装次数 10,000+
+
+APP APKS
+
+小蚁EA APK AntBot APK
+
+正文：
+
+欢迎使用 AntBot，这是一款独创性的加密货币自动交易机器人，旨在优化您的交易体验和利润。 AntBot 使用最先进的交易算法和策略来保持市场领先地位并将风险降至最低。 立即下载 AntBot，体验不同之处！
+
+主要特征：
+
+多头和空头套利策略：AntBot 提供独特的策略，包括双向网格、双向DCA 和相对价值，根据行情实时计算标的的波动等属性做出最有利的交易。
+
+趋势跟踪策略：拥有强大的趋势跟踪策略，例如 AI Beta、Momentum、DMA 和 Supertrend，监控趋势变化并在最佳进出点执行交易，通过跟随强劲的市场趋势获利。
+
+跟单交易系统：通过复制成功交易者的策略利用顶级交易员的专业知识，提高您的交易绩效。
+
+实时止损风险控制：根据市场情况和您的风险承受能力，实时自动止损控制您的风险敞口，确保您的投资即使在极端市场波动期间也能得到保护。
+
+精确的回测系统：使用历史数据测试您的策略，在部署前识别它们的优势和劣势并完善它们。
+
+可自定义和智能参数集成：自定义参数以适合您的独特偏好和风险承受能力，让系统学习并适应您的交易风格，最大化您的利润。
+
+多交易所和加密货币支持：支持 Binance、OKX、Bybit、KuCoin、Gate.io、Bitget 和 Huobi 等主要交易所，以及 200 多种加密货币。
+
+AntBot是一个完整的投资系统，涵盖了投资筛选、套利策略、资产配置和风险控制。 它是一种强大的武器，可让您与专业的算法交易员一较高下。 不要错过这个强大的武器！ 立即下载 AntBot，体验无与伦比的优势。
 
 Website: www.antrade.io
 
