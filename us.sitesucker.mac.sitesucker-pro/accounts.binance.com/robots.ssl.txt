@@ -1,0 +1,68 @@
+User-Agent: *
+Allow: /
+Disallow: *?return=
+Disallow: */authorize
+Disallow: *?ref=
+Disallow: */reset-password
+Disallow: *?utm_source=
+Disallow: *?callback=
+Disallow: */change-email-address/
+Disallow: */2fa
+Disallow: */need-kyc
+Disallow: */security-reset
+Disallow: */confirm-new-device
+Disallow: */change-email-authenticator
+Disallow: *?accountType=
+
+User-agent: Yandex
+Disallow: /*ref=
+Disallow: /*symbol=
+Disallow: /*version=
+Disallow: /*theme=
+Disallow: /*contract=
+Disallow: /*code=
+Disallow: /*tab=
+Disallow: /*poolId=
+Disallow: /*type=
+Disallow: /*layout=
+Disallow: /*navId=
+Disallow: /*contract=
+Disallow: /*channel=
+Disallow: /*utm_source=
+Disallow: /*source=
+Disallow: /*utm=
+ 
+Clean-param: layout
+Clean-param: callback
+Clean-param: fiat
+Clean-param: from
+Clean-param: _escaped_fragment_
+Clean-param: type
+Clean-param: r&return_to&productid
+Clean-param: asset
+  
+Host: https://www.binance.com
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Trade_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Price_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Buy_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Blog_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Nft_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_SupportAndAnnouncement_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_PricePrediction_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Futures_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Earn_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Loan_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Market_index.xml
+
+Sitemap: https://www.binance.com/sitemap_output/domain=www.binance.com/sitemap_Default_index.xml

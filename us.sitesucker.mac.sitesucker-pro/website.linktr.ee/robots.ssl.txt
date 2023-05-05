@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://linktr.ee/website.linktr.ee/sitemap-index.xml
+Host: https://linktr.ee
