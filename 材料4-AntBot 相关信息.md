@@ -150,7 +150,16 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuser
 
 以上信息来源于搜索引擎和各大平台搜索。
 
-### 1-3，AntBot 海外社交媒体
+1-3，开发者: AiJun Li
+
+苹果软件测试商店TestFlight上显示，AntBot开发者是AiJun Li，可能是李爱君
+
+https://www.bloomberg.com/profile/person/23334965
+
+Li Aijun
+Vice President, Shenzhen Intellifusion Technologies Co Ltd
+
+### 1-4，AntBot 海外社交媒体
 
 社交媒体1-1 - Youtube - https://youtube.com/@antradeio
 
@@ -164,7 +173,19 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuser
 
 社交媒体3-2 - Facebook - https://www.facebook.com/p/AntBot-Auto-BOT-Fututures-Binance-Trade/ 或 https://www.facebook.com/profile.php?id=100077487474189 - AntBot Auto BOT Fututures Binance Trade
 
-社交媒体3-3 https://www.facebook.com/ANTBOTAI - Antbot AI
+社交媒体3-3 - Facebook - https://www.facebook.com/ANTBOTAI 或 https://www.facebook.com/profile.php?id=100074353239278 - Antbot AI
+
+社交媒体3-4 - Facebook - https://www.facebook.com/AntBot-100314805785149
+
+社交媒体3-5 - Facebook - https://www.facebook.com/Antbotea/ 或 https://www.facebook.com/profile.php?id=100082956327775
+
+https://www.facebook.com/antbotapp
+
+https://www.facebook.com/antrade.io
+
+
+
+
 
 社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
@@ -224,9 +245,9 @@ https://youtube.com/@TOPCRYPTO2023 - CRYPTO MANIACO
 
 https://youtube.com/@EduNogs - Edu Nogs
 
-### 1-4，受害人王天佑对信息的分析，备注，总结
+### 1-5，受害人王天佑对信息的分析，备注，总结
 
-#### 1-4-1 受害人王天佑对吴优芮信息的备注
+#### 1-5-1 受害人王天佑对吴优芮信息的备注
 
 备注1：从QQ号搜索得到微信号。
 
@@ -238,7 +259,7 @@ https://youtube.com/@EduNogs - Edu Nogs
 
 备注5：此人性别是男性。
 
-#### 1-4-2-1 龙娟信息，受害人王天佑备注
+#### 1-5-2-1 龙娟信息，受害人王天佑备注
 
 备注1：从 pinganlongjuan 微信信息可推知，此人姓名是：龙娟，因为前缀是pingan，是“平安”的拼音，而且从新闻信息推知，“云萃保”是一种保险，从“平安+保险”的信息组合，以及保险从业人员微信名的行业惯例，可推断其曾在中国平安保险公司工作过。通过微博信息相关图片，进一步佐证了龙娟女士曾在中国平安保险公司工作过。
 
@@ -264,7 +285,7 @@ https://youtube.com/@EduNogs - Edu Nogs
 
 备注12：中国平安保险公司的slogan，曾经是“专业 · 价值”，后来改为“保险 · 银行 · 投资”，后来改为“金融 · 科技”，目前又改为“专业 · 价值”。龙娟女士在“享抱团联盟帮扶政策”中，提到的“专业，价值”，也佐证了其在中国平安保险公司工作过。
 
-#### 1-4-2-2 从各个社交媒体获得的龙娟个人信息总结
+#### 1-5-2-2 从各个社交媒体获得的龙娟个人信息总结
 
 1，籍贯：四川省，未知？市。（身份证号前六位：51????）
 
@@ -297,11 +318,11 @@ https://youtube.com/@EduNogs - Edu Nogs
 - 吉悠联席经销商
 - 卫康百元新零售
 
-#### 1-4-2-3 龙娟的图片信息总结
+#### 1-5-2-3 龙娟的图片信息总结
 
 受害人王天佑备注：新闻和微博中的图片包含以下信息：
 
-##### 1-4-2-3-1 龙娟的图片一
+##### 1-5-2-3-1 龙娟的图片一
 
 龙娟
 
@@ -318,14 +339,14 @@ https://youtube.com/@EduNogs - Edu Nogs
 - 云萃保商学院培训师
 - 百万系统营销策划导师
 
-##### 1-4-2-3-2 龙娟的图片二
+##### 1-5-2-3-2 龙娟的图片二
 
 龙娟
 
 - 枫叶联盟，社群爆破创始人
   
 
-##### 1-4-2-3-3 龙娟的图片三
+##### 1-5-2-3-3 龙娟的图片三
 
 - 享抱团联盟帮扶政策
 
@@ -335,7 +356,7 @@ https://youtube.com/@EduNogs - Edu Nogs
   价值
   服务
 
-##### 1-4-2-3-4 龙娟的图片四
+##### 1-5-2-3-4 龙娟的图片四
 
 龙娟
 
@@ -347,9 +368,9 @@ https://youtube.com/@EduNogs - Edu Nogs
 - 夭骄劳务董事长
 - 天骄教育创始人
 
-#### 1-4-2-4 最终总结
+#### 1-5-2-4 最终总结
 
-##### 1-4-2-4-1 AntBot 并不是海外软件，只是一个来自中国的骗局
+##### 1-5-2-4-1 AntBot 并不是海外软件，只是一个来自中国的骗局
 
 1，小蚁antrade.io不挂VPN访问，提示根据监管要求，不对中国用户提供服务的，字样，这样的话术只有中国人做的网站才会有。
 
@@ -372,7 +393,7 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 更何况， AntBot 已经发生了监守自盗，盗取客户加密资产的事件。
 
-##### 1-4-2-4-2 总结以上内容
+##### 1-5-2-4-2 总结以上内容
 
 1，AntBot位于中国。
 
@@ -380,7 +401,7 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 3，黑客几乎就是龙娟和吴优芮。因为合约交易量记录和账号ID，生日，都用了爱情谐音数字作为干扰项。而且，地址是重合的，Telegram昵称，也是重合的。
 
-##### 1-4-2-4-3 龙娟的所为超出民事案件范畴，新账旧账需要一起算
+##### 1-5-2-4-3 龙娟的所为超出民事案件范畴，新账旧账需要一起算
 
 受害者王天佑认为，龙娟女士之前做的事情是，微商，传销，假保险。
 
@@ -400,7 +421,7 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 而且，龙娟女士和吴优芮先生的新账和旧账，得一起算了。
 
-##### 1-4-2-4-4 吴优芮先生在安庆和合肥的电话，推出的信息
+##### 1-5-2-4-4 吴优芮先生在安庆和合肥的电话，推出的信息
 
 查地图可知，安庆市和合肥市是接壤的，均位于安徽省，合肥是安徽省会，而安徽省和浙江省也是接壤的，而杭州是浙江省会。
 
@@ -537,6 +558,8 @@ AntBot 第三方 安卓 Android 下载链接：
 - AntBot-Binance OKX Bybit Bot 2.3.4 APKs - https://apksos.com/download-app/ea.antbot.org?version=8553945
 
 2，APKCOMBO：https://apkcombo.com/zh/antbot-binance-okx-bybit-bot/ea.antbot.org/
+
+3，APKFAB：https://apkfab.com/en/antbot-binance-okx-bybit-bot/ea.antbot.org
 
 AntBot 官网上 Android APK 直接下载链接：
 
