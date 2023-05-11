@@ -179,13 +179,9 @@ Vice President, Shenzhen Intellifusion Technologies Co Ltd
 
 社交媒体3-5 - Facebook - https://www.facebook.com/Antbotea/ 或 https://www.facebook.com/profile.php?id=100082956327775
 
-https://www.facebook.com/antbotapp
+社交媒体3-6 - Facebook - https://www.facebook.com/antbotapp
 
-https://www.facebook.com/antrade.io
-
-
-
-
+社交媒体3-7 - Facebook - https://www.facebook.com/antrade.io
 
 社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
