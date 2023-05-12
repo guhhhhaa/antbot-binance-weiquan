@@ -90,6 +90,18 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuser
 
 # 四，AntBot 社交媒体信息
 
+# AntBot 相关人员
+
+## 杭州相关人员
+
+### 1，龙娟
+### 2，吴优芮
+
+## 深圳相关人员
+
+### 3，Aijun Li，可能是李爱军，或者李爱君，也不排除其他谐音汉字。
+### 4，Rici Sung 品牌，深圳市睿祺智尚科技有限公司，童辉
+
 ##  1，嫌疑人社交媒体
 
 ### 1-1，吴优芮社交媒体账号
@@ -150,16 +162,35 @@ https://www.newbee.asia/ - 有快照，访问链接 - http://webcache.googleuser
 
 以上信息来源于搜索引擎和各大平台搜索。
 
-1-3，开发者: AiJun Li
+### 1-3，开发者: AiJun Li
 
-苹果软件测试商店TestFlight上显示，AntBot开发者是AiJun Li，可能是李爱君
+苹果软件测试商店 TestFlight 上显示，AntBot EA 的开发者是 AiJun Li。
 
-https://www.bloomberg.com/profile/person/23334965
+猜测，可能是李爱君，或者李爱军。也不排除其他谐音汉字。
 
-Li Aijun
-Vice President, Shenzhen Intellifusion Technologies Co Ltd
+由于重名的人过多，因此可先从广东省深圳市金融或者信息从业者开始查找。也不排除广东省其他市。
 
-### 1-4，AntBot 海外社交媒体
+相关人员和公司较多，不再赘述。可在爱企查，企查查等平台通过姓名查询公司名，再转到国家企业信用信息公示系统查询公司详细信息。
+
+### 1-4，RiciSung，深圳市睿祺智尚科技有限公司，童辉
+
+https://www.facebook.com/ricisung/posts/4281837645198067/
+
+这篇文章，提到了小蚁EA，但是文章被删除了。
+
+值得一提的是，由发布者头像可知，相关品牌rici sung，经爱企查可知，是深圳市睿祺智尚科技有限公司的品牌。
+
+Page · Computers (Brand)
+
++86 177 2261 2008，经查询，手机号位于【广东深圳 中国电信】，对应微博用户：5701466134 - https://m.weibo.cn/u/5701466134
+
+[https://m.sohu.com/n/417372525/?\_trans_=000115_3w&from=timeline&isappinstalled=0](https://m.sohu.com/n/417372525/?_trans_=000115_3w&from=timeline&isappinstalled=0)
+
+专访RICI童辉：中国品牌也能玩转全套智能家居
+
+相关人员，童辉，担任[深圳市睿祺智尚科技有限公司](https://aiqicha.baidu.com/company_detail_40913272513015)、[佛山市英克尔智能科技有限公司](https://aiqicha.baidu.com/company_detail_32743282002221)等公司法定代表人，担任[深圳市睿祺智尚科技有限公司](https://aiqicha.baidu.com/company_detail_40913272513015)、[佛山市英克尔智能科技有限公司](https://aiqicha.baidu.com/company_detail_32743282002221)、[深圳小祺投资咨询合伙企业(有限合伙)](https://aiqicha.baidu.com/company_detail_32428971924471)等公司股东，担任[深圳市睿祺智尚科技有限公司](https://aiqicha.baidu.com/company_detail_40913272513015)等公司高管。
+
+### 1-5，AntBot 海外社交媒体
 
 社交媒体1-1 - Youtube - https://youtube.com/@antradeio
 
@@ -182,6 +213,10 @@ Vice President, Shenzhen Intellifusion Technologies Co Ltd
 社交媒体3-6 - Facebook - https://www.facebook.com/antbotapp
 
 社交媒体3-7 - Facebook - https://www.facebook.com/antrade.io
+
+社交媒体3-8 - Facebook - https://www.facebook.com/ricisung/
+
+社交媒体3-9 - Facebook - https://www.facebook.com/ricisung/ - 其中，https://www.facebook.com/ricisung/posts/4281837645198067/ - 这篇文章提到了小蚁EA，但是文章被删除了。
 
 社交媒体4 - Telegram账户 - Antbot EA - 小蚁AI - https://t.me/s/AntbotEA/ 或 https://t.me/AntbotEA 
 
@@ -241,9 +276,9 @@ https://youtube.com/@TOPCRYPTO2023 - CRYPTO MANIACO
 
 https://youtube.com/@EduNogs - Edu Nogs
 
-### 1-5，受害人王天佑对信息的分析，备注，总结
+### 1-6，受害人王天佑对信息的分析，备注，总结
 
-#### 1-5-1 受害人王天佑对吴优芮信息的备注
+#### 1-6-1 受害人王天佑对吴优芮信息的备注
 
 备注1：从QQ号搜索得到微信号。
 
@@ -255,7 +290,7 @@ https://youtube.com/@EduNogs - Edu Nogs
 
 备注5：此人性别是男性。
 
-#### 1-5-2-1 龙娟信息，受害人王天佑备注
+#### 1-6-2-1 龙娟信息，受害人王天佑备注
 
 备注1：从 pinganlongjuan 微信信息可推知，此人姓名是：龙娟，因为前缀是pingan，是“平安”的拼音，而且从新闻信息推知，“云萃保”是一种保险，从“平安+保险”的信息组合，以及保险从业人员微信名的行业惯例，可推断其曾在中国平安保险公司工作过。通过微博信息相关图片，进一步佐证了龙娟女士曾在中国平安保险公司工作过。
 
@@ -281,7 +316,7 @@ https://youtube.com/@EduNogs - Edu Nogs
 
 备注12：中国平安保险公司的slogan，曾经是“专业 · 价值”，后来改为“保险 · 银行 · 投资”，后来改为“金融 · 科技”，目前又改为“专业 · 价值”。龙娟女士在“享抱团联盟帮扶政策”中，提到的“专业，价值”，也佐证了其在中国平安保险公司工作过。
 
-#### 1-5-2-2 从各个社交媒体获得的龙娟个人信息总结
+#### 1-6-2-2 从各个社交媒体获得的龙娟个人信息总结
 
 1，籍贯：四川省，未知？市。（身份证号前六位：51????）
 
@@ -314,11 +349,11 @@ https://youtube.com/@EduNogs - Edu Nogs
 - 吉悠联席经销商
 - 卫康百元新零售
 
-#### 1-5-2-3 龙娟的图片信息总结
+#### 1-6-2-3 龙娟的图片信息总结
 
 受害人王天佑备注：新闻和微博中的图片包含以下信息：
 
-##### 1-5-2-3-1 龙娟的图片一
+##### 1-6-2-3-1 龙娟的图片一
 
 龙娟
 
@@ -335,14 +370,14 @@ https://youtube.com/@EduNogs - Edu Nogs
 - 云萃保商学院培训师
 - 百万系统营销策划导师
 
-##### 1-5-2-3-2 龙娟的图片二
+##### 1-6-2-3-2 龙娟的图片二
 
 龙娟
 
 - 枫叶联盟，社群爆破创始人
   
 
-##### 1-5-2-3-3 龙娟的图片三
+##### 1-6-2-3-3 龙娟的图片三
 
 - 享抱团联盟帮扶政策
 
@@ -352,7 +387,7 @@ https://youtube.com/@EduNogs - Edu Nogs
   价值
   服务
 
-##### 1-5-2-3-4 龙娟的图片四
+##### 1-6-2-3-4 龙娟的图片四
 
 龙娟
 
@@ -364,11 +399,48 @@ https://youtube.com/@EduNogs - Edu Nogs
 - 夭骄劳务董事长
 - 天骄教育创始人
 
-#### 1-5-2-4 最终总结
+#### 1-6-3 最终总结
 
-##### 1-5-2-4-1 AntBot 并不是海外软件，只是一个来自中国的骗局
+##### 1-6-3-1 此案是可以适用中国的法律的，而且可能是刑事案件
 
-1，小蚁antrade.io不挂VPN访问，提示根据监管要求，不对中国用户提供服务的，字样，这样的话术只有中国人做的网站才会有。
+> 《中华人民共和国刑法》
+>
+> 第一编　总则
+>
+> 第一章　刑法的任务、基本原则和适用范围
+>
+> 第六条　凡在中华人民共和国领域内犯罪的，除法律有特别规定的以外，都适用本法。
+> 凡在中华人民共和国船舶或者航空器内犯罪的，也适用本法。
+> 犯罪的行为或者结果有一项发生在中华人民共和国领域内的，就认为是在中华人民共和国领域内犯罪。
+
+解释：
+
+1，服务器使用了中国公司的服务器，有些位于中国香港
+2，币安交易所一部分服务器在香港
+3，相关人员在中国
+4，犯罪证据涉及使用中文
+5，受害者在中国
+6，交易与人民币有关
+
+受害人王天佑认为，此案中，小蚁 AntBot 团队，涉及《中华人民共和国刑法》相关条目，可能包括但不限于：
+
+第一百八十二条【操纵市场】（机器人自动交易，操控币安交易所的期货合约市场价格）
+第一百八十五条【背信运用受托财产】（未授权交易，背信运用受托财产）
+第一百九十一条【洗钱】（可能涉及，需要查看小蚁 AntBot 团队的自营投资业务资金来源）
+第二百二十四条【传销】（可能涉及，需要查看小蚁 AntBot 团队的返佣政策和推广模式）
+第二百二十五条【非法经营】（可能涉及，需要查看小蚁 AntBot 团队，经营加密货币现货和期货合约自动量化交易，以及加密货币交易所经纪业务，还有其自营投资业务，是否合法合规，是否备案，是否通过审批。）
+第二百六十四条【盗窃】（盗窃客户资产。）
+第二百八十六条【入侵破坏计算机系统】（删除数据，入侵破坏计算机系统。）
+第二百八十七条【计算机金融和计算机支持】（计算机金融犯罪。）
+
+注：方括号和小括号中，文字仅供参考，不是具体法律条目。
+具体条目，可参见《中华人民共和国刑法》- 国家法律法规数据库：https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OTZhNjM2YTAxNzk4MjJhMTk2NDBjOTI
+
+参考链接：金融犯罪的38种罪名 - https://www.jiansulushi.cn/news/152677.html
+
+##### 1-6-3-2 AntBot 并不是海外软件，只是一个来自中国的骗局
+
+1，小蚁antrade.io不挂VPN访问，提示根据监管要求，不对中国用户提供服务的，字样，这样的话术，只有中国人做的网站，才会有。
 
 2，小蚁antbot-ai.org下面底部栏提示，位于广东深圳。查询 AntBot 一开始在 antbot.me 和 antbot.org 用的服务器是深圳的阿里云服务器，优刻得服务器，所以 AntBot 在网站上写自己位于广东深圳。后来 antrade.io 用的是香港的 Ucloud 服务器（Ucloud公司的中文名是优刻得，在中国A类股票上市） 
 
@@ -389,15 +461,15 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 更何况， AntBot 已经发生了监守自盗，盗取客户加密资产的事件。
 
-##### 1-5-2-4-2 总结以上内容
+##### 1-6-3-3 总结以上内容
 
-1，AntBot位于中国。
+1，AntBot 位于中国。
 
 2，黑客位于中国。
 
 3，黑客几乎就是龙娟和吴优芮。因为合约交易量记录和账号ID，生日，都用了爱情谐音数字作为干扰项。而且，地址是重合的，Telegram昵称，也是重合的。
 
-##### 1-5-2-4-3 龙娟的所为超出民事案件范畴，新账旧账需要一起算
+##### 1-6-3-4 龙娟的所为超出民事案件范畴，如果龙娟是犯罪嫌疑人之一，此案件可能是刑事案件
 
 受害者王天佑认为，龙娟女士之前做的事情是，微商，传销，假保险。
 
@@ -417,7 +489,7 @@ AntBot 小蚁量化交易机器人，AntBot 试图不向客户提供真实的地
 
 而且，龙娟女士和吴优芮先生的新账和旧账，得一起算了。
 
-##### 1-5-2-4-4 吴优芮先生在安庆和合肥的电话，推出的信息
+##### 1-6-3-5 吴优芮先生在安庆和合肥的电话，推出的信息
 
 查地图可知，安庆市和合肥市是接壤的，均位于安徽省，合肥是安徽省会，而安徽省和浙江省也是接壤的，而杭州是浙江省会。
 
@@ -668,51 +740,54 @@ https://partner.bitget.com/bg/N9ET26 - N9ET26
 9. 小蚁AI量化交易
 10. 小蚁机器人
 11. 小蟻機器人
-12. 小蚁量化机器人
-13. 小蚁炒币机器人
-14. 小蚁AI炒币机器人
-15. 小蚁智能量化机器人
-16. 小蚁量化炒币机器人
-17. 小蚁量化交易机器人
-18. 小蚁智能搬砖量化机器人
-19. 小蚁AI炒币机器人
-20. 小蚁智能量化炒币机器人
-21. 小蟻機器人| 加密量化工具
-22. 小蚁机器人加密量化工具
-23. 小蚁-免费的币安量化交易系统
-24. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
-25. 小蚁量化工作室
-26. 掘金量化社区
-27. AntBot
-28. Ant Robot
-29. AntTrade
-30. AntBot-AI
-31. antbot_cta
-32. AntbotDCA
-33. AntbotEA 
-34. Antbot EA
-35. AntBotQuantify
-36. ANTBOT Next-Gen AI Trading 
-37. AntBot_me
-38. AntBot_org
-39. antbot_org
-40. Ants Support
-41. AntbotSupportOfficial
-42. antbot_official
-43. AntBotIndonesia
-44. AntBot Indonesia official
-45. AntBot-Binance OKX Bybit Bot
-46. antbot-binance-okx-bybit-bot
-47. AntBot Crypto Trading Bot
-48. AntBot Auto BOT Fututures Binance Trade
-49. AI Crypto Trading Bots | Fully Automated Trading ANTBOT AI
-50. AntBot - A Free Trading Tool of Binance
-51. Crypto AI Bot | Ant Robot
-52. AntBot, a Full-featured Crypto Automated Trading System
-53. AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
-54. goldquant-club
-55. newbee-asia
-56. NewBee
+12. 螞蟻機器人
+13. 人工智能螞蟻
+14. 小蚁量化机器人
+15. 小蚁炒币机器人
+16. 小蚁AI炒币机器人
+17. 小蚁智能量化机器人
+18. 小蚁量化炒币机器人
+19. 小蚁量化交易机器人
+20. 小蚁智能搬砖量化机器人
+21. 小蚁AI炒币机器人
+22. 小蚁智能量化炒币机器人
+23. 小蟻機器人| 加密量化工具
+24. 小蚁机器人加密量化工具
+25. 小蚁-免费的币安量化交易系统
+26. 小蚁量化机器人-AntBot-最好的数字货币量化交易工具
+27. 小蚁量化工作室
+28. 掘金量化社区
+29. AntBot
+30. Ant Robot
+31. Ant Robot AI
+32. Crypto AI Bot | Ant Robot
+33. AntTrade
+34. AntBot-AI
+35. antbot_cta
+36. AntbotDCA
+37. AntbotEA 
+38. Antbot EA
+39. AntBotQuantify
+40. ANTBOT Next-Gen AI Trading 
+41. AntBot_me
+42. AntBot_org
+43. antbot_org
+44. Ants Support
+45. AntbotSupportOfficial
+46. antbot_official
+47. AntBotIndonesia
+48. AntBot Indonesia official
+49. AntBot-Binance OKX Bybit Bot
+50. antbot-binance-okx-bybit-bot
+51. AntBot Crypto Trading Bot
+52. AntBot Auto BOT Fututures Binance Trade
+53. AI Crypto Trading Bots | Fully Automated Trading ANTBOT AI
+54. AntBot - A Free Trading Tool of Binance
+55. AntBot, a Full-featured Crypto Automated Trading System
+56. AntbotJ（龙娟，Alisa，Alice，平安龙娟，pinganlongjuan，龙娟2001314，longjuan2001314，龙，娟，龙女，小龙女，龙老大）
+57. goldquant-club
+58. newbee-asia
+59. NewBee
 
 # 十，AntBot 团队地址位于：
 
@@ -917,6 +992,8 @@ https://www.gsxt.gov.cn/%7B4317964F2B36379DD801514C09EAB5D108C336736EA54693120F6
 
 # 十二，AntBot 相关 IP 地址 - ZoomEye 钟馗之眼
 
+我查询的IP地址：
+
 101.36.117.216 165.154.41.100 36.255.222.23 165.154.60.7 101.36.127.124 101.36.108.79 122.10.161.141 165.154.60.119 165.154.44.65 
 
 ### 1，从相关 IP 地址在 ZoomEye 钟馗之眼 获得的相关漏洞数据
@@ -1033,7 +1110,13 @@ Windows 10/Windows Server 2019
 
 # 十三，AntBot 相关链接 -  ZoomEye 钟馗之眼 
 
+我查询的链接：
+
 https://www.antbot-ai.org/ http://www.antrade.io https://www.antrobotai.info/ https://en.antrobotai.info/ https://zh.antrobotai.info/ https://vi.antrobotai.info/ https://de.antrobotai.info/ https://nl.antrobotai.info/ https://antbot.me/ https://ea.antbot.org/ https://www.antbot.org/ https://goldquant.club/ https://www.newbee.asia/
+
+你可以使用以下链接：
+
+https://www.antbot-ai.org/，http://www.antrade.io，https://antbot.gitbook.io/，https://www.antrobotai.info/，https://en.antrobotai.info/，https://zh.antrobotai.info/，https://vi.antrobotai.info/，https://de.antrobotai.info/，https://nl.antrobotai.info/，https://antbot.me/，https://blog.antbot.me/，https://ea.antbot.org/，https://www.antbot.org/，https://goldquant.club/，https://www.newbee.asia/，https://ant-robot.oss-cn-shenzhen.aliyuncs.com/ant/install/android/antbot.apk/
 
 ### 1，从相关链接在 ZoomEye 钟馗之眼 获得的相关漏洞数据
 
