@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:48:59	1521/1521	U-----	200	untouched ('OK')	text/html	date:Thu,%2020%20Apr%202023%2007:15:30%20GMT	https://antrade.io/robots.txt		(from )
+11:49:00	3487/3487	U-----	200	untouched ('OK')	text/html	date:Mon,%2027%20Mar%202023%2001:04:16%20GMT	https://antrade.io/	antrade.io_VPN/antrade.io_VPN/antrade.io/index.html	(from )
+11:49:01	9662/9662	U-----	200	untouched ('')	image/vnd.microsoft.icon	etag:W/fcb738c93ef48e3f2a5b08b7472ab6d6	https://antrade.io/favicon.ico	antrade.io_VPN/antrade.io_VPN/antrade.io/favicon.ico	(from https://antrade.io/)
+11:49:01	2758/2758	U-----	200	untouched ('')	image/png	etag:W/ee4aad2dea067594565269df2ea81b7c	https://antrade.io/logo.png	antrade.io_VPN/antrade.io_VPN/antrade.io/logo.png	(from https://antrade.io/)

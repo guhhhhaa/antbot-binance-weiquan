@@ -1,0 +1,8 @@
+https://antrade.io -O "antrade.io_VPN/antrade.io_VPN" -Y -P http://127.0.0.1:1087 -%v
+File generated automatically on Fri, 05 May 2023 12:00:12, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

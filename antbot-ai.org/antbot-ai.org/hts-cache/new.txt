@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:01:38	370/370	---M--	200	added ('OK')	text/plain	etag:W/%22172-KJ+gtt9nNj7rp8csBJaGSyYcxXg%22	https://antbot-ai.org/robots.txt		(from )
+12:01:38	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2005%20May%202023%2004:01:38%20GMT	https://antbot-ai.org/	antbot-ai.org/antbot-ai.org/antbot-ai.org/index.html	(from )
